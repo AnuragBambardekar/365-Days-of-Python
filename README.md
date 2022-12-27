@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=1S9y3JlNYxM&list=PLeLGx0BaYD6Zr_3ReRhyZHLoO35uEV
 
 **Program 1:** Print Commands in Python [Line Continuation] <br>
 **Program 2:** Count Character Occurences using Python <br>
+**Program 3:** Palindrome Words using Python <br>
