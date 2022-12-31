@@ -8,6 +8,7 @@ Python coding Tutorials and Exercises <br>
 **Program 5:** Roman Numbers to Decimals <br>
 **Program 6:** Temperature Conversion <br>
 **Program 7:** Weather Fetching using BeautifulSoup4 [Web scraping] <br>
+**Program 8:** QR code generator <br>
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
 **Sources:** <br>
