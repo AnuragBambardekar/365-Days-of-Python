@@ -17,3 +17,5 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=1S9y3JlNYxM&list=PLeLGx0BaYD6Zr_3ReRhyZHLoO35uEVmcJ&index=2 <br>
 - https://www.thepythoncode.com/article/extract-weather-data-python <br>
 - https://stackoverflow.com/questions/65403248/print-pascals-triangle-in-python-properly <br>
+- https://www.tutorialgateway.org/python-program-to-print-hollow-diamond-star-pattern/ <br>
+- https://pythonguides.com/python-program-for-a-diamond-pattern/ <br>
