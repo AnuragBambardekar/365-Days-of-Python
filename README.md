@@ -8,7 +8,7 @@ Python coding Tutorials and Exercises <br>
 **Program 5:** Roman Numbers to Decimals <br>
 **Program 6:** Temperature Conversion <br>
 **Program 7:** Weather Fetching using BeautifulSoup4 [Web scraping] <br>
-**Program 8:** QR code generator <br>
+**Program 8:** QR code generator and Decoder<br>
 **Program 9:** Pascal's Triangle <br>
 **Program 10:** Diamond Patterns [Hollow and Filled, upper/lower half and full] <br>
 
