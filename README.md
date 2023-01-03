@@ -11,6 +11,7 @@ Python coding Tutorials and Exercises <br>
 **Program 8:** QR code generator and Decoder<br>
 **Program 9:** Pascal's Triangle <br>
 **Program 10:** Diamond Patterns [Hollow and Filled, upper/lower half and full] <br>
+**Program 11:** Armstrong Number <br
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
 **Sources:** <br>
