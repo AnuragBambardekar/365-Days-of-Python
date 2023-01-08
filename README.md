@@ -13,6 +13,7 @@ Python coding Tutorials and Exercises <br>
 **Program 10:** Diamond Patterns [Hollow and Filled, upper/lower half and full] <br>
 **Program 11:** Armstrong Number <br>
 **Program 12:** Threading in Python <br>
+**Program 13:** Multiprocessing in Python <br>
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
 **Sources:** <br>
@@ -22,3 +23,5 @@ Python coding Tutorials and Exercises <br>
 - https://www.tutorialgateway.org/python-program-to-print-hollow-diamond-star-pattern/ <br>
 - https://pythonguides.com/python-program-for-a-diamond-pattern/ <br>
 - https://www.youtube.com/watch?v=IEEhzQoKtQU <br>
+- https://www.youtube.com/watch?v=fKl2JW_qrso <br>
+- https://stackoverflow.com/questions/70330845/how-to-import-dataframe-from-py-file-to-ipynb-file <br>
