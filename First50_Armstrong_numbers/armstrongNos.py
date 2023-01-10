@@ -16,3 +16,17 @@ def is_armstrong(num):
         res = num
         return res
 
+# Initialize a counter to keep track of how many Armstrong numbers we've found
+count = 0
+# Initialize a number to start checking at
+num = 1
+
+# Keep looping until we've found 100 Armstrong numbers
+while count < 50:
+    # Check if the number is an Armstrong number
+    if is_armstrong(num):
+        # If it is, print it and increment the counter
+        print(num)
+        count += 1
+    # Increment the number to check the next one
+    num += 1
