@@ -16,6 +16,8 @@ Python coding Tutorials and Exercises <br>
 **Program 13:** Multiprocessing in Python - Processing fetched Images <br>
 **Program 14:** First 50 Armstrong Numbers (Digital Invariant) in Python - Actually found only 25 - using multiprocessing/Threading - some speedup achieved (Work in Progress...) - Memoization-LRU cache used<br>
 **Program 15:** Fibonacci Sequence using Memoization <br>
+**Program 16:** Finding the day a date falls on using datetime library and Zeller's Congruence method <br>
+**Program 17:** Determine whether a year is a Leap Year <br>
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
 **Sources:** <br>
