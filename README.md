@@ -36,3 +36,5 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=Qk0zUZW-U_M - Fibonacci Sequence<br>
 - https://www.youtube.com/watch?v=nxjwB8up2gI - Regular expressions <br>
 - https://www.youtube.com/watch?v=sa-TUpSx1JA - Corey Schafer - RegEx <br>
+- https://www.youtube.com/watch?v=528Jc3q86F8 - Computerphile - RegEx - Professor Brailsford <br>
+- https://www.youtube.com/watch?v=wnuBwl2ekmo - NeuralNine - RegEx <br>
