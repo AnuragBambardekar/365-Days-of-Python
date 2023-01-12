@@ -33,3 +33,5 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=Qk0zUZW-U_M - Fibonacci Sequence<br>
 - https://www.youtube.com/watch?v=Mv9NEXX1VHc - What on Earth is Recursion<br>
 - https://www.youtube.com/watch?v=Qk0zUZW-U_M - Fibonacci Sequence<br>
+- https://www.youtube.com/watch?v=nxjwB8up2gI - Regular expressions <br>
+- https://www.youtube.com/watch?v=sa-TUpSx1JA - Corey Schafer - RegEx <br>

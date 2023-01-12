@@ -1,0 +1,103 @@
+If you want to call me, my old number was 905-343-2112 and it has been changed to 289-544-2345
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+12345678
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+bamba.com
+
+321-555-4321
+123.555.1234
+123*555*1234
+800.555.1234
+900.555.1234
+
+Mr. Bamba
+Mr Smith
+Ms Davis
+Mrs Robinson
+Mr. T
+
+cat
+mat
+pat
+bat
+
+Ha HaHa
+
+.  - Any Character Except New line
+\d - Digit (0-9)
+\D - Not a Digit (0-9)
+\w - word character (a-z, A-Z,0-9, _)
+\W - Not a Word character
+\s - Whitespace (space, tab, newline)
+\S - Not whitespace (space, tab, newline)
+
+\b - Word boundary				   
+\B - Not a Word Boundary				  
+^  - Beginning of a string				      
+$  - End of a string					   
+
+[]  - Matches characters in brackets
+[^] - Matches characters not in brackets
+|   - Either Or
+( ) - Group
+
+Examples:-
+Phone Number pattern:
+\d\d\d - any 3 digits in a row
+\d\d\d.\d\d\d.\d\d\d\d
+\d\d\d[-.]\d\d\d[-.]\d\d\d\d
+[89]00[-.]\d\d\d[-.]\d\d\d\d
+[1-7] - 1 to 7
+[a-z]
+[A-Z]
+[a-zA-Z]
+[^] - matches everything not in the set
+[^a-z]
+[^b]at
+\bHa   - Word boundary
+\bHa\b - Word boundary at start and end
+\BHa  - Not a word boundary
+^Ha	- Beginning of a string
+Ha$ - End of a string
+
+Use Quantifiers to match more than one character
+* - 0 or more
++ - 1 or more
+? - 0 or One
+{3} - Exact number
+{3,4} - range of numbers (minimum, maximum)
+
+Examples:
+\d{3}.\d{3}.\d{4}
+Mr\.?\s[A-Z]\w*
+M(r|s|rs)\.?\s[A-Z]\w*
+
+
+
+More EXAMPLES:
+AnuragHBambardekar@gmail.com
+anurag.bambardekar@university.edu
+anurag-321-bambardekar@my-work.net
+
+[a-zA-Z]+@[a-zA-Z]+\.com
+[a-zA-Z.]+@[a-zA-Z]+\.(com|edu)
+[a-zA-Z0-9.-]+@[a-zA-Z-]+\.(com|edu|net)
+
+[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+
+
+
+
+https://www.google.com
+http://bamba.com
+https://youtube.com
+https://www.nasa.gov
+
+https?://(www\.)?\w+\.\w+
+https?://(www\.)?(\w+)(\.\w+)
+Use above regex and Find & Replace with $2$3
+
