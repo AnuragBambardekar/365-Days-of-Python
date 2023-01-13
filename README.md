@@ -20,6 +20,8 @@ Python coding Tutorials and Exercises <br>
 **Program 17:** Determine whether a year is a Leap Year <br>
 **Program 18:** Regular Expressions (Email Validation, Punctuation remover/extractor)<br>
 **Program 19:** Using Turtle for Interactive learning in Python <br>
+**Program 20:** Font Families in Python <br>
+**Program 21:** Countdown Timer <br>
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
 **Sources:** <br>
@@ -41,4 +43,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=wnuBwl2ekmo - NeuralNine - RegEx <br>
 - https://www.youtube.com/watch?v=xoKKzncO8Xo - NeuralNine - Turtle tutorial <br>
 - https://www.youtube.com/shorts/xgbFmLZrKaY - Spotify Logo using Turtle <br>
-
+- https://www.youtube.com/watch?v=kfjdVgKE6xY - NeuralNine - Countdown Timer <br>
