@@ -18,7 +18,7 @@ Python coding Tutorials and Exercises <br>
 **Program 15:** Fibonacci Sequence using Memoization <br>
 **Program 16:** Finding the day a date falls on using datetime library and Zeller's Congruence method <br>
 **Program 17:** Determine whether a year is a Leap Year <br>
-**Program 18:** Regular Expressions <br>
+**Program 18:** Regular Expressions (Email Validation, Punctuation remover/extractor)<br>
 **Program 19:** Using Turtle for Interactive learning in Python <br>
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
