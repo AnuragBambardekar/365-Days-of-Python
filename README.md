@@ -38,3 +38,6 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=sa-TUpSx1JA - Corey Schafer - RegEx <br>
 - https://www.youtube.com/watch?v=528Jc3q86F8 - Computerphile - RegEx - Professor Brailsford <br>
 - https://www.youtube.com/watch?v=wnuBwl2ekmo - NeuralNine - RegEx <br>
+- https://www.youtube.com/watch?v=xoKKzncO8Xo - NeuralNine - Turtle tutorial <br>
+- https://www.youtube.com/shorts/xgbFmLZrKaY - Spotify Logo using Turtle <br>
+
