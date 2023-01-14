@@ -22,6 +22,7 @@ Python coding Tutorials and Exercises <br>
 **Program 19:** Using Turtle for Interactive learning in Python <br>
 **Program 20:** Font Families in Python <br>
 **Program 21:** Countdown Timer <br>
+**Program 22:** Sympy Library of Python <br>
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
 **Sources:** <br>
@@ -44,3 +45,6 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=xoKKzncO8Xo - NeuralNine - Turtle tutorial <br>
 - https://www.youtube.com/shorts/xgbFmLZrKaY - Spotify Logo using Turtle <br>
 - https://www.youtube.com/watch?v=kfjdVgKE6xY - NeuralNine - Countdown Timer <br>
+- https://www.youtube.com/watch?v=BVlXXbBvzVo - Andrew Dotson - Solving Equations Symbolically and using LaTeX in Python <br>
+- https://www.youtube.com/watch?v=UbuBwHbZTU8 - Andrew Dotson - Solving System of Equations <br>
+- https://www.youtube.com/watch?v=yCuVBd4N4nY - NeuralNine - SymPy <br>
