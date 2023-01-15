@@ -23,6 +23,7 @@ Python coding Tutorials and Exercises <br>
 **Program 20:** Font Families in Python <br>
 **Program 21:** Countdown Timer <br>
 **Program 22:** Sympy Library of Python <br>
+**Program 23:** Finding Factorial of a number using different methodologies and also using Memoization <br>
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
 **Sources:** <br>
