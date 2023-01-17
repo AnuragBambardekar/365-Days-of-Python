@@ -24,6 +24,8 @@ Python coding Tutorials and Exercises <br>
 **Program 21:** Countdown Timer <br>
 **Program 22:** Sympy Library of Python <br>
 **Program 23:** Finding Factorial of a number using different methodologies and also using Memoization <br>
+**Program 24:** ANSI Colors <br>
+**Program 25:** ASCII Text and Art <br>
 
 ## To learn Python by following the tutorial on YouTube [Python Coding]
 **Sources:** <br>
