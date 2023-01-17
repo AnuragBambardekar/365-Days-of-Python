@@ -49,3 +49,6 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=BVlXXbBvzVo - Andrew Dotson - Solving Equations Symbolically and using LaTeX in Python <br>
 - https://www.youtube.com/watch?v=UbuBwHbZTU8 - Andrew Dotson - Solving System of Equations <br>
 - https://www.youtube.com/watch?v=yCuVBd4N4nY - NeuralNine - SymPy <br>
+- https://talyian.github.io/ansicolors/ - ANSI Color Codes <br>
+- https://www.youtube.com/watch?v=u4QmAIoo4i0 - ASCII colors art <br>
+- http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=python - ASCII art generator <br>
