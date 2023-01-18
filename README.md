@@ -26,8 +26,9 @@ Python coding Tutorials and Exercises <br>
 **Program 23:** Finding Factorial of a number using different methodologies and also using Memoization <br>
 **Program 24:** ANSI Colors <br>
 **Program 25:** ASCII Text and Art <br>
+**Program 26:** Case Types and Naming conventions in Python <br>
 
-## To learn Python by following the tutorial on YouTube [Python Coding]
+## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
 - https://www.youtube.com/watch?v=1S9y3JlNYxM&list=PLeLGx0BaYD6Zr_3ReRhyZHLoO35uEVmcJ&index=2 - 365 Days of Python YouTube Series<br>
 - https://www.thepythoncode.com/article/extract-weather-data-python <br>
@@ -54,3 +55,4 @@ Python coding Tutorials and Exercises <br>
 - https://talyian.github.io/ansicolors/ - ANSI Color Codes <br>
 - https://www.youtube.com/watch?v=u4QmAIoo4i0 - ASCII colors art <br>
 - http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=python - ASCII art generator <br>
+- https://www.youtube.com/watch?v=uet8ZQpyJV8 - NeuralNine Python case types and naming conventions <br>
