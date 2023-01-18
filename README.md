@@ -27,6 +27,7 @@ Python coding Tutorials and Exercises <br>
 **Program 24:** ANSI Colors <br>
 **Program 25:** ASCII Text and Art <br>
 **Program 26:** Case Types and Naming conventions in Python <br>
+**Program 27:** Text to Binary and vice-versa <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -56,3 +57,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=u4QmAIoo4i0 - ASCII colors art <br>
 - http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=python - ASCII art generator <br>
 - https://www.youtube.com/watch?v=uet8ZQpyJV8 - NeuralNine Python case types and naming conventions <br>
+- https://www.youtube.com/watch?v=XyITOeK0crs - NeuralNine Text to Binary <br>
