@@ -28,6 +28,7 @@ Python coding Tutorials and Exercises <br>
 **Program 25:** ASCII Text and Art <br>
 **Program 26:** Case Types and Naming conventions in Python <br>
 **Program 27:** Text to Binary and vice-versa <br>
+**Program 28:** Permutations & Combinations <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -58,3 +59,4 @@ Python coding Tutorials and Exercises <br>
 - http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=python - ASCII art generator <br>
 - https://www.youtube.com/watch?v=uet8ZQpyJV8 - NeuralNine Python case types and naming conventions <br>
 - https://www.youtube.com/watch?v=XyITOeK0crs - NeuralNine Text to Binary <br>
+- https://www.youtube.com/watch?v=QI9EczPQzPQ - Corey Schafer - Permutations 7 Combinations <br>
