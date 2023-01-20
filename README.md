@@ -29,6 +29,7 @@ Python coding Tutorials and Exercises <br>
 **Program 26:** Case Types and Naming conventions in Python <br>
 **Program 27:** Text to Binary and vice-versa <br>
 **Program 28:** Permutations & Combinations <br>
+**Program 29:** Decimal To Binary & vice-versa <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
