@@ -30,6 +30,8 @@ Python coding Tutorials and Exercises <br>
 **Program 27:** Text to Binary and vice-versa <br>
 **Program 28:** Permutations & Combinations <br>
 **Program 29:** Decimal To Binary & vice-versa <br>
+**Program 30:** Decimal To Octal & vice-versa <br>
+**Program 31:** Decimal To Hexadecimal & vice-versa <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
