@@ -32,6 +32,7 @@ Python coding Tutorials and Exercises <br>
 **Program 29:** Decimal To Binary & vice-versa <br>
 **Program 30:** Decimal To Octal & vice-versa <br>
 **Program 31:** Decimal To Hexadecimal & vice-versa <br>
+**Program 32:** Decimal to Binary 2's Complement <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
