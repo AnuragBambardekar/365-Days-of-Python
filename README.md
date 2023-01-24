@@ -32,7 +32,8 @@ Python coding Tutorials and Exercises <br>
 **Program 29:** Decimal To Binary & vice-versa <br>
 **Program 30:** Decimal To Octal & vice-versa <br>
 **Program 31:** Decimal To Hexadecimal & vice-versa <br>
-**Program 32:** Decimal to Binary 2's Complement <br>
+**Program 32:** Decimal to Binary 2's Complement & vice-vera <br>
+**Program 33:** Binary Arithmetic <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -64,3 +65,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=uet8ZQpyJV8 - NeuralNine Python case types and naming conventions <br>
 - https://www.youtube.com/watch?v=XyITOeK0crs - NeuralNine Text to Binary <br>
 - https://www.youtube.com/watch?v=QI9EczPQzPQ - Corey Schafer - Permutations 7 Combinations <br>
+- https://www.geeksforgeeks.org/python-program-to-add-two-binary-numbers/ - Binary Addition <br>
