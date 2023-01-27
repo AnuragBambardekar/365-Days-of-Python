@@ -66,3 +66,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=XyITOeK0crs - NeuralNine Text to Binary <br>
 - https://www.youtube.com/watch?v=QI9EczPQzPQ - Corey Schafer - Permutations 7 Combinations <br>
 - https://www.geeksforgeeks.org/python-program-to-add-two-binary-numbers/ - Binary Addition <br>
+- https://www.geeksforgeeks.org/python-program-to-multiply-two-binary-numbers/ - Binary Multiplication <br>
