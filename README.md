@@ -34,6 +34,7 @@ Python coding Tutorials and Exercises <br>
 **Program 31:** Decimal To Hexadecimal & vice-versa <br>
 **Program 32:** Decimal to Binary 2's Complement & vice-vera <br>
 **Program 33:** Binary Arithmetic <br>
+**Program 34:** Floyd's Triangle <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
