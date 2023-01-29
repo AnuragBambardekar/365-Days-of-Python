@@ -35,6 +35,7 @@ Python coding Tutorials and Exercises <br>
 **Program 32:** Decimal to Binary 2's Complement & vice-vera <br>
 **Program 33:** Binary Arithmetic <br>
 **Program 34:** Floyd's Triangle <br>
+**Program 35:** Banking Interests [Simple and Compound Interests] <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -68,3 +69,5 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=QI9EczPQzPQ - Corey Schafer - Permutations 7 Combinations <br>
 - https://www.geeksforgeeks.org/python-program-to-add-two-binary-numbers/ - Binary Addition <br>
 - https://www.geeksforgeeks.org/python-program-to-multiply-two-binary-numbers/ - Binary Multiplication <br>
+- https://investmentu.com/types-of-interest/#:~:text=What%20are%20the%20Types%20of%20Interest%3F%201%201.,Interest%20...%207%207.%20Discount%20Interest%20Rate%20 <br>
+- https://www.calculatorsoup.com/calculators/financial/compound-interest-calculator.php#:~:text=The%20Compound%20Interest%20Formula%201%20A%20%3D%20Accrued,...%208%20I%20%3D%20Interest%20amount%20More%20items <br>
