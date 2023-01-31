@@ -37,6 +37,8 @@ Python coding Tutorials and Exercises <br>
 **Program 34:** Floyd's Triangle <br>
 **Program 35:** Banking Interests [Simple and Compound Interests] <br>
 **Program 36:** Anagrams [Verify and Generate] <br>
+**Program 37:** Video to GIF <br>
+**Program 38:** Video Frame Cropper <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -73,3 +75,6 @@ Python coding Tutorials and Exercises <br>
 - https://investmentu.com/types-of-interest/#:~:text=What%20are%20the%20Types%20of%20Interest%3F%201%201.,Interest%20...%207%207.%20Discount%20Interest%20Rate%20 <br>
 - https://www.calculatorsoup.com/calculators/financial/compound-interest-calculator.php#:~:text=The%20Compound%20Interest%20Formula%201%20A%20%3D%20Accrued,...%208%20I%20%3D%20Interest%20amount%20More%20items <br>
 - https://codefather.tech/blog/anagrams-python/ - Anagrams <br>
+- https://www.youtube.com/shorts/OYPQk3KtZs8 - Minecraft Loop for GIF<br>
+- https://stackoverflow.com/questions/70059217/module-moviepy-has-no-attribute-videofileclip <br>
+- https://moviepy.readthedocs.io/en/latest/ref/VideoClip/VideoClip.html?highlight=crop#moviepy.video.VideoClip.ColorClip.crop <br>
