@@ -78,3 +78,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/shorts/OYPQk3KtZs8 - Minecraft Loop for GIF<br>
 - https://stackoverflow.com/questions/70059217/module-moviepy-has-no-attribute-videofileclip - moviepy import error<br>
 - https://moviepy.readthedocs.io/en/latest/ref/VideoClip/VideoClip.html?highlight=crop#moviepy.video.VideoClip.ColorClip.crop - moviepy video frame cropper<br>
+- https://www.youtube.com/watch?v=1Qk8jrBrp9o - gitignore tutorial <br>
