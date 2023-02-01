@@ -39,6 +39,7 @@ Python coding Tutorials and Exercises <br>
 **Program 36:** Anagrams [Verify and Generate] <br>
 **Program 37:** Video to GIF <br>
 **Program 38:** Video Frame Cropper <br>
+**Program 39:** Time Zones <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
