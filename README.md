@@ -41,6 +41,7 @@ Python coding Tutorials and Exercises <br>
 **Program 38:** Video Frame Cropper <br>
 **Program 39:** Time Zones <br>
 **Program 40:** Translator <br>
+**Program 41:** Disarium Number <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
