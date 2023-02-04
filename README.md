@@ -42,6 +42,7 @@ Python coding Tutorials and Exercises <br>
 **Program 39:** Time Zones <br>
 **Program 40:** Translator <br>
 **Program 41:** Disarium Number <br>
+**Program 42:** CAPTCHA - Generating Text & Audio CAPTCHA's<br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -83,3 +84,5 @@ Python coding Tutorials and Exercises <br>
 - https://moviepy.readthedocs.io/en/latest/ref/VideoClip/VideoClip.html?highlight=crop#moviepy.video.VideoClip.ColorClip.crop - moviepy video frame cropper<br>
 - https://www.youtube.com/watch?v=1Qk8jrBrp9o - gitignore tutorial <br>
 - https://www.youtube.com/watch?v=8PW1VrsHFjc - Google Translator <br>
+- https://en.wikipedia.org/wiki/CAPTCHA - CAPTCHA <br>
+- https://www.geeksforgeeks.org/generate-captcha-using-python/ <br>
