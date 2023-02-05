@@ -43,6 +43,7 @@ Python coding Tutorials and Exercises <br>
 **Program 40:** Translator <br>
 **Program 41:** Disarium Number <br>
 **Program 42:** CAPTCHA - Generating Text & Audio CAPTCHA's<br>
+**Program 43:** Finding Interesting Numbers in a given range. [Consecutive numbers which result in a product in given range, Prime palindromes, Perfect Squares]<br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
