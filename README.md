@@ -44,6 +44,7 @@ Python coding Tutorials and Exercises <br>
 **Program 41:** Disarium Number <br>
 **Program 42:** CAPTCHA - Generating Text & Audio CAPTCHA's<br>
 **Program 43:** Finding Interesting Numbers in a given range. [Consecutive numbers which result in a product in given range, Prime palindromes, Perfect Squares]<br>
+**Program 44:** Hangman Game
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -87,3 +88,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=8PW1VrsHFjc - Google Translator <br>
 - https://en.wikipedia.org/wiki/CAPTCHA - CAPTCHA <br>
 - https://www.geeksforgeeks.org/generate-captcha-using-python/ <br>
+- https://en.wikipedia.org/wiki/Hangman_(game) <br>
