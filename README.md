@@ -45,7 +45,7 @@ Python coding Tutorials and Exercises <br>
 **Program 42:** CAPTCHA - Generating Text & Audio CAPTCHA's<br>
 **Program 43:** Finding Interesting Numbers in a given range. [Consecutive numbers which result in a product in given range, Prime palindromes, Perfect Squares]<br>
 **Program 44:** Hangman Game <br>
-**Program 45:** Trigonometry Functions of Common Angles & Plots <br>
+**Program 45:** Trigonometry Functions of Common Angles & Plots [Matplotlib, Sympy, SVG export] <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
