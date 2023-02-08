@@ -46,6 +46,7 @@ Python coding Tutorials and Exercises <br>
 **Program 43:** Finding Interesting Numbers in a given range. [Consecutive numbers which result in a product in given range, Prime palindromes, Perfect Squares]<br>
 **Program 44:** Hangman Game <br>
 **Program 45:** Trigonometry Functions of Common Angles & Plots [Matplotlib, Sympy, SVG export] <br>
+**Program 46:** Poker hand evaluator <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -90,3 +91,6 @@ Python coding Tutorials and Exercises <br>
 - https://en.wikipedia.org/wiki/CAPTCHA - CAPTCHA <br>
 - https://www.geeksforgeeks.org/generate-captcha-using-python/ <br>
 - https://en.wikipedia.org/wiki/Hangman_(game) <br>
+- https://www.youtube.com/watch?v=CpSewSHZhmo - Poker Tutorial <br>
+- https://www.wikihow.com/Play-Poker <br>
+- https://www.thepokerbank.com/articles/basics/hand-rank/ <br>
