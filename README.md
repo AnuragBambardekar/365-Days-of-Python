@@ -47,6 +47,7 @@ Python coding Tutorials and Exercises <br>
 **Program 44:** Hangman Game <br>
 **Program 45:** Trigonometry Functions of Common Angles & Plots [Matplotlib, Sympy, SVG export] <br>
 **Program 46:** Poker hand evaluator <br>
+**Program 47:** Resistor Color Code Calculator <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -94,3 +95,5 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=CpSewSHZhmo - Poker Tutorial <br>
 - https://www.wikihow.com/Play-Poker <br>
 - https://www.thepokerbank.com/articles/basics/hand-rank/ <br>
+- https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code <br>
+- https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-color-code/# <br>
