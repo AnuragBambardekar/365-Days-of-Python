@@ -48,6 +48,7 @@ Python coding Tutorials and Exercises <br>
 **Program 45:** Trigonometry Functions of Common Angles & Plots [Matplotlib, Sympy, SVG export] <br>
 **Program 46:** Poker hand evaluator <br>
 **Program 47:** Resistor Color Code Calculator <br>
+**Program 48:** Ohm's Law <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -97,3 +98,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.thepokerbank.com/articles/basics/hand-rank/ <br>
 - https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code <br>
 - https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-color-code/# <br>
+- https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-ohms <br>
