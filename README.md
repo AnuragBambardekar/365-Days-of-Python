@@ -49,7 +49,7 @@ Python coding Tutorials and Exercises <br>
 **Program 46:** Poker hand evaluator <br>
 **Program 47:** Resistor Color Code Calculator <br>
 **Program 48:** Ohm's Law <br>
-**Program 49:** Decimal to Fraction Convert (using sympy) <br>
+**Program 49:** Decimal to Fraction Conversion (using sympy) <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
