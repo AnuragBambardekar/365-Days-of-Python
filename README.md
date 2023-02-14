@@ -51,6 +51,7 @@ Python coding Tutorials and Exercises <br>
 **Program 48:** Ohm's Law <br>
 **Program 49:** Decimal to Fraction Conversion (using sympy) <br>
 **Program 50:** Sieve of Eratosthenes for finding Primes and Prime Factors <br>
+**Program 51:** Powerball Lottery Simulation <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -101,3 +102,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code <br>
 - https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-color-code/# <br>
 - https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-ohms <br>
+- https://www.youtube.com/watch?v=HZ8uXq5VG2w - Simulating Powerball Lottery by Corey Schafer <br>
