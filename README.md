@@ -52,6 +52,7 @@ Python coding Tutorials and Exercises <br>
 **Program 49:** Decimal to Fraction Conversion (using sympy) <br>
 **Program 50:** Sieve of Eratosthenes for finding Primes and Prime Factors <br>
 **Program 51:** Powerball Lottery Simulation <br>
+**Program 52:** Bingo Simulation <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
