@@ -54,6 +54,7 @@ Python coding Tutorials and Exercises <br>
 **Program 51:** Powerball Lottery Simulation <br>
 **Program 52:** Bingo Simulation <br>
 **Program 53:** Pytube library <br>
+**Program 54:** Progress Bars <br>
 
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
@@ -107,3 +108,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-ohms <br>
 - https://www.youtube.com/watch?v=HZ8uXq5VG2w - Simulating Powerball Lottery by Corey Schafer <br>
 - https://pytube.io/en/latest/index.html <br>
+- https://www.youtube.com/watch?v=oJLaA7-i3nI - Progress bars by NeuralNine <br>
