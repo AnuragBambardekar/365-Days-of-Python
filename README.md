@@ -111,3 +111,4 @@ Python coding Tutorials and Exercises <br>
 - https://pytube.io/en/latest/index.html <br>
 - https://www.youtube.com/watch?v=oJLaA7-i3nI - Progress bars by NeuralNine <br>
 - https://www.youtube.com/watch?v=tJxcKyFMTGo - OS module in Python by Corey Schafer <br>
+- https://www.youtube.com/watch?v=rdxt6ntfX24 - CPU and RAM usage monitor using psutil by NeuralNine <br>
