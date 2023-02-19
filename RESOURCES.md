@@ -1,0 +1,55 @@
+# To learn Python by following the tutorials and resources on YouTube & the Internet
+**Sources:** <br>
+- https://www.youtube.com/watch?v=1S9y3JlNYxM&list=PLeLGx0BaYD6Zr_3ReRhyZHLoO35uEVmcJ&index=2 - 365 Days of Python YouTube Series<br>
+- https://www.thepythoncode.com/article/extract-weather-data-python <br>
+- https://stackoverflow.com/questions/65403248/print-pascals-triangle-in-python-properly - Pascal's Triangle<br>
+- https://www.tutorialgateway.org/python-program-to-print-hollow-diamond-star-pattern/ - Diamond Star Patterns<br>
+- https://pythonguides.com/python-program-for-a-diamond-pattern/ <br>
+- https://www.youtube.com/watch?v=IEEhzQoKtQU - Threading in Python<br>
+- https://www.youtube.com/watch?v=fKl2JW_qrso - Multiprocessing in Python<br>
+- https://stackoverflow.com/questions/70330845/how-to-import-dataframe-from-py-file-to-ipynb-file - Debugging error for Multiprocessing<br>
+- https://deimel.org/rec_math/DI_6.htm - Need to look at different types of Armstrong Numbers and finding them<br>
+- https://www.youtube.com/watch?v=Qk0zUZW-U_M - Fibonacci Sequence<br>
+- https://www.youtube.com/watch?v=Mv9NEXX1VHc - What on Earth is Recursion<br>
+- https://www.youtube.com/watch?v=Qk0zUZW-U_M - Fibonacci Sequence<br>
+- https://www.youtube.com/watch?v=nxjwB8up2gI - Regular expressions <br>
+- https://www.youtube.com/watch?v=sa-TUpSx1JA - Corey Schafer - RegEx <br>
+- https://www.youtube.com/watch?v=528Jc3q86F8 - Computerphile - RegEx - Professor Brailsford <br>
+- https://www.youtube.com/watch?v=wnuBwl2ekmo - NeuralNine - RegEx <br>
+- https://www.youtube.com/watch?v=xoKKzncO8Xo - NeuralNine - Turtle tutorial <br>
+- https://www.youtube.com/shorts/xgbFmLZrKaY - Spotify Logo using Turtle <br>
+- https://www.youtube.com/watch?v=kfjdVgKE6xY - NeuralNine - Countdown Timer <br>
+- https://www.youtube.com/watch?v=BVlXXbBvzVo - Andrew Dotson - Solving Equations Symbolically and using LaTeX in Python <br>
+- https://www.youtube.com/watch?v=UbuBwHbZTU8 - Andrew Dotson - Solving System of Equations <br>
+- https://www.youtube.com/watch?v=yCuVBd4N4nY - NeuralNine - SymPy <br>
+- https://talyian.github.io/ansicolors/ - ANSI Color Codes <br>
+- https://www.youtube.com/watch?v=u4QmAIoo4i0 - ASCII colors art <br>
+- http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=python - ASCII art generator <br>
+- https://www.youtube.com/watch?v=uet8ZQpyJV8 - NeuralNine Python case types and naming conventions <br>
+- https://www.youtube.com/watch?v=XyITOeK0crs - NeuralNine Text to Binary <br>
+- https://www.youtube.com/watch?v=QI9EczPQzPQ - Corey Schafer - Permutations 7 Combinations <br>
+- https://www.geeksforgeeks.org/python-program-to-add-two-binary-numbers/ - Binary Addition <br>
+- https://www.geeksforgeeks.org/python-program-to-multiply-two-binary-numbers/ - Binary Multiplication <br>
+- https://investmentu.com/types-of-interest/#:~:text=What%20are%20the%20Types%20of%20Interest%3F%201%201.,Interest%20...%207%207.%20Discount%20Interest%20Rate%20 <br>
+- https://www.calculatorsoup.com/calculators/financial/compound-interest-calculator.php#:~:text=The%20Compound%20Interest%20Formula%201%20A%20%3D%20Accrued,...%208%20I%20%3D%20Interest%20amount%20More%20items <br>
+- https://codefather.tech/blog/anagrams-python/ - Anagrams <br>
+- https://www.youtube.com/shorts/OYPQk3KtZs8 - Minecraft Loop for GIF<br>
+- https://stackoverflow.com/questions/70059217/module-moviepy-has-no-attribute-videofileclip - moviepy import error<br>
+- https://moviepy.readthedocs.io/en/latest/ref/VideoClip/VideoClip.html?highlight=crop#moviepy.video.VideoClip.ColorClip.crop - moviepy video frame cropper<br>
+- https://www.youtube.com/watch?v=1Qk8jrBrp9o - gitignore tutorial <br>
+- https://www.youtube.com/watch?v=8PW1VrsHFjc - Google Translator <br>
+- https://en.wikipedia.org/wiki/CAPTCHA - CAPTCHA <br>
+- https://www.geeksforgeeks.org/generate-captcha-using-python/ <br>
+- https://en.wikipedia.org/wiki/Hangman_(game) <br>
+- https://www.youtube.com/watch?v=CpSewSHZhmo - Poker Tutorial <br>
+- https://www.wikihow.com/Play-Poker <br>
+- https://www.thepokerbank.com/articles/basics/hand-rank/ <br>
+- https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code <br>
+- https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-color-code/# <br>
+- https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-ohms <br>
+- https://www.youtube.com/watch?v=HZ8uXq5VG2w - Simulating Powerball Lottery by Corey Schafer <br>
+- https://pytube.io/en/latest/index.html <br>
+- https://www.youtube.com/watch?v=oJLaA7-i3nI - Progress bars by NeuralNine <br>
+- https://www.youtube.com/watch?v=tJxcKyFMTGo - OS module in Python by Corey Schafer <br>
+- https://www.youtube.com/watch?v=rdxt6ntfX24 - CPU and RAM usage monitor using psutil by NeuralNine <br>
+- https://www.youtube.com/watch?v=Uh2ebFW8OYM - File Objects by Corey Schafer <br>
