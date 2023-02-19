@@ -1,5 +1,4 @@
 # 365 Days of Python
-Python coding Tutorials and Exercises <br>
 
 **Program 1:** Print Commands in Python [Line Continuation + center,format,end,sep parameters of print()] <br>
 **Program 2:** Count Character Occurences using Python <br>
