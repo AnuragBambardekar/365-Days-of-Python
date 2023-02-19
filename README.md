@@ -57,7 +57,7 @@ Python coding Tutorials and Exercises <br>
 **Program 54:** Progress Bars <br>
 **Program 55:** Working with OS Module <br>
 **Program 56:** CPU and RAM usage using psutil <br>
-
+**Program 57:** File Objects <br>
 
 ## To learn Python by following the tutorials and resources on YouTube & the Internet
 **Sources:** <br>
@@ -113,3 +113,4 @@ Python coding Tutorials and Exercises <br>
 - https://www.youtube.com/watch?v=oJLaA7-i3nI - Progress bars by NeuralNine <br>
 - https://www.youtube.com/watch?v=tJxcKyFMTGo - OS module in Python by Corey Schafer <br>
 - https://www.youtube.com/watch?v=rdxt6ntfX24 - CPU and RAM usage monitor using psutil by NeuralNine <br>
+- https://www.youtube.com/watch?v=Uh2ebFW8OYM - File Objects by Corey Schafer <br>
