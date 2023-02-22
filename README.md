@@ -59,3 +59,4 @@
 **Program 57:** File Objects <br>
 **Program 58:** Parsing and Renaming Files <br>
 **Program 59:** Image Downloader - given a user prompt <br>
+**Program 60:** Password generator <br>
