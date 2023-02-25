@@ -54,3 +54,4 @@
 - https://www.youtube.com/watch?v=rdxt6ntfX24 - CPU and RAM usage monitor using psutil by NeuralNine <br>
 - https://www.youtube.com/watch?v=Uh2ebFW8OYM - File Objects by Corey Schafer <br>
 - https://www.youtube.com/watch?v=ve2pmm5JqmI - Parsing and Renaming Files by Corey Schafer <br>
+- https://www.youtube.com/watch?v=gyPuAJfOnGk - Data Encryption using Pycryptodome by NeuralNine <br>
