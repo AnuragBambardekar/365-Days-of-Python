@@ -1,4 +1,4 @@
-# Data Encryption using Python- pycrptodome
+# Data Encryption using Python- pycryptodome
 PyCryptodome is a self-contained Python package of low-level cryptographic primitives.
 
 # About AES
