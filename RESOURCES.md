@@ -55,3 +55,4 @@
 - https://www.youtube.com/watch?v=Uh2ebFW8OYM - File Objects by Corey Schafer <br>
 - https://www.youtube.com/watch?v=ve2pmm5JqmI - Parsing and Renaming Files by Corey Schafer <br>
 - https://www.youtube.com/watch?v=gyPuAJfOnGk - Data Encryption using Pycryptodome by NeuralNine <br>
+- https://www.youtube.com/watch?v=j0xr0-IAqyk - XML by Socratica
