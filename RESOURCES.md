@@ -57,3 +57,4 @@
 - https://www.youtube.com/watch?v=gyPuAJfOnGk - Data Encryption using Pycryptodome by NeuralNine <br>
 - https://www.youtube.com/watch?v=j0xr0-IAqyk - XML by Socratica <br>
 - https://winswithdata.com/?p=320 - Tutorial on fetching RSS Feeds <br>
+- ChatGPT <br>
