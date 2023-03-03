@@ -58,3 +58,4 @@
 - https://www.youtube.com/watch?v=j0xr0-IAqyk - XML by Socratica <br>
 - https://winswithdata.com/?p=320 - Tutorial on fetching RSS Feeds <br>
 - ChatGPT <br>
+- https://stackoverflow.com/questions/55145544/how-do-i-save-a-winsound-beep-to-an-audio-wav-file-in-python <br>

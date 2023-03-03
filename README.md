@@ -68,3 +68,4 @@
 **Program 66:** Basics of Statistics - Mean, Median and Mode (Descriptive Statistics) <br>
 **Program 67:** Percentiles & Percentages <br>
 **Program 68:** FizzBuzz - A simple implementation & Algorithm analysis <br>
+**Program 69:** Sound Generator <br>
