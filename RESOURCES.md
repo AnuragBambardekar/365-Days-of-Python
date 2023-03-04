@@ -59,3 +59,4 @@
 - https://winswithdata.com/?p=320 - Tutorial on fetching RSS Feeds <br>
 - ChatGPT <br>
 - https://stackoverflow.com/questions/55145544/how-do-i-save-a-winsound-beep-to-an-audio-wav-file-in-python <br>
+- https://www.youtube.com/watch?v=delJJ9zHXio - Morse Code Encoder/Decoder by NeuralNine <br>
