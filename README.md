@@ -70,3 +70,4 @@
 **Program 68:** FizzBuzz - A simple implementation & Algorithm analysis <br>
 **Program 69:** Sound Generator <br>
 **Program 70:** Morse Code <br>
+**Program 71:** Hardware Information Tool <br>
