@@ -61,3 +61,4 @@
 - https://stackoverflow.com/questions/55145544/how-do-i-save-a-winsound-beep-to-an-audio-wav-file-in-python <br>
 - https://www.youtube.com/watch?v=delJJ9zHXio - Morse Code Encoder/Decoder by NeuralNine <br>
 - https://www.youtube.com/watch?v=_9ThkldEg0c - Hardware Information Tool by NeuralNine <br>
+- https://phiresky.github.io/blog/2021/python-features/ - 10 underused features of modern Python <br>
