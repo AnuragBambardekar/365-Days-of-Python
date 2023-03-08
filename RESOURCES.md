@@ -62,3 +62,5 @@
 - https://www.youtube.com/watch?v=delJJ9zHXio - Morse Code Encoder/Decoder by NeuralNine <br>
 - https://www.youtube.com/watch?v=_9ThkldEg0c - Hardware Information Tool by NeuralNine <br>
 - https://phiresky.github.io/blog/2021/python-features/ - 10 underused features of modern Python <br>
+- https://www.geeksforgeeks.org/generators-in-python/ - Generators in Python <br>
+- https://realpython.com/introduction-to-python-generators/#understanding-generators - Understanding generators <br>
