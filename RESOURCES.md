@@ -64,3 +64,4 @@
 - https://phiresky.github.io/blog/2021/python-features/ - 10 underused features of modern Python <br>
 - https://www.geeksforgeeks.org/generators-in-python/ - Generators in Python <br>
 - https://realpython.com/introduction-to-python-generators/#understanding-generators - Understanding generators <br>
+- https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/?ref=leftbar-rightbar - Tree Traversals guide by G4G <br>
