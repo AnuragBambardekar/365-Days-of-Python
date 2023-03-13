@@ -65,3 +65,4 @@
 - https://www.geeksforgeeks.org/generators-in-python/ - Generators in Python <br>
 - https://realpython.com/introduction-to-python-generators/#understanding-generators - Understanding generators <br>
 - https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/?ref=leftbar-rightbar - Tree Traversals guide by G4G <br>
+- https://www.youtube.com/watch?v=YcxITL7N0mw - For...Else tutorial by NeuralNine <br>
