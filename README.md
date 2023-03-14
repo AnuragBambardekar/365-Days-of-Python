@@ -79,3 +79,4 @@
 **Program 77:** Merge PDFs <br>
 **Program 78:** Tree Traversals <br>
 **Program 79:** Some Underused Features of Python - For...Else <br>
+**Program 80:** Word Tool (Count words, characters, syllables, sentences, paragraphs.) <br>
