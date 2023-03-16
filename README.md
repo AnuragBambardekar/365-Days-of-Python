@@ -81,3 +81,4 @@
 **Program 79:** Some Underused Features of Python - For...Else <br>
 **Program 80:** Word Tool (Count words, characters, syllables, sentences, paragraphs.) <br>
 **Program 81:** Calculate the Words typed Per Minute <br>
+**Program 82:** The Knapsack Problem <br>
