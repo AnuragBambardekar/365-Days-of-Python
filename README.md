@@ -82,3 +82,4 @@
 **Program 80:** Word Tool (Count words, characters, syllables, sentences, paragraphs.) <br>
 **Program 81:** Calculate the Words typed Per Minute <br>
 **Program 82:** The Knapsack Problem <br>
+**Program 83:** Screen Sharing in Python using Sockets <br>
