@@ -71,3 +71,4 @@
 - https://github.com/jiaaro/pydub/blob/master/API.markdown - pydub documentation <br>
 - https://www.youtube.com/watch?v=V3pzxngeLqw - Bloom Filters | Algorithms You Should Know #2 <br>
 - https://www.geeksforgeeks.org/difference-between-bloom-filters-and-hashtable/ <br>
+- https://plotly.com/python/pie-charts/ - Plotly Pie Charts <br>
