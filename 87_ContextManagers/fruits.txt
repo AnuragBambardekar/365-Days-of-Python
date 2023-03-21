@@ -1,0 +1,12 @@
+apple
+banana
+orange
+mango
+strawberry
+cherry
+lemon
+tomato
+raspberry
+tangerine
+longan
+tamarind
