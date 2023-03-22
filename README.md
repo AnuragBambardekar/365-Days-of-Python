@@ -87,3 +87,4 @@
 **Program 85:** Bloom Filters & Hash Tables <br>
 **Program 86:** Pie Charts using Plotly <br>
 **Program 87:** Context Managers <br>
+**Program 88:** Performance of Searching Algorithms & Time Complexity Visualisation [O(n) and O(n^2)] <br>
