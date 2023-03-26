@@ -91,3 +91,4 @@
 **Program 89:** File Organization <br>
 **Program 90:** US Customary Units to S.I. units Conversion <br>
 **Program 91:** Dice Roll Simulator <br>
+**Program 92:** Knuth Morris Pratt Algorithm <br>
