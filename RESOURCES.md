@@ -75,3 +75,4 @@
 - https://www.youtube.com/watch?v=ETy19gJq0vs - Context Managers in Python <br>
 - https://www.geeksforgeeks.org/python-visualizing-on-using-python/?ref=rp - Visualising O(n) <br>
 - https://www.youtube.com/watch?v=NOvFZamGXXo - File Organizing with Python: Rename, Move, Copy & Delete Files and Folders <br>
+- https://www.youtube.com/watch?v=_nkQd9SyEpw - Real-Time Spelling Checker in Python by NeuralNine <br>
