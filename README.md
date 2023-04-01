@@ -97,3 +97,4 @@
 **Program 95:** Abstract methods <br>
 **Program 96:** Scheduling Tasks/Jobs <br>
 **Program 97:** Projectile Motion Simulation <br>
+**Program 98:** Animated Charts in Python <br>
