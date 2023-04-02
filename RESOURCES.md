@@ -79,3 +79,4 @@
 - https://www.youtube.com/watch?v=-buaqIbHHxo - How To Use: "@abstractmethod" In Python <br>
 - https://www.youtube.com/watch?v=FCPBG6NqMmQ - How To SCHEDULE Functions & Tasks In Python <br>
 - https://pypi.org/project/bar-chart-race/ - Bar Charts Library in Python <br>
+- https://www.geeksforgeeks.org/gold-mine-problem/?ref=lbp - The Gold Mine Problem <br>
