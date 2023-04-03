@@ -99,3 +99,4 @@
 **Program 97:** Projectile Motion Simulation <br>
 **Program 98:** Animated Charts in Python <br>
 **Program 99:** The Gold Mine Problem <br>
+**Program 100:** Random Jokes Generator <br>
