@@ -80,3 +80,4 @@
 - https://www.youtube.com/watch?v=FCPBG6NqMmQ - How To SCHEDULE Functions & Tasks In Python <br>
 - https://pypi.org/project/bar-chart-race/ - Bar Charts Library in Python <br>
 - https://www.geeksforgeeks.org/gold-mine-problem/?ref=lbp - The Gold Mine Problem <br>
+- https://github.com/amoudgl/short-jokes-dataset - Dataset for Jokes <br>
