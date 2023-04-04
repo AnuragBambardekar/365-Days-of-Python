@@ -81,3 +81,4 @@
 - https://pypi.org/project/bar-chart-race/ - Bar Charts Library in Python <br>
 - https://www.geeksforgeeks.org/gold-mine-problem/?ref=lbp - The Gold Mine Problem <br>
 - https://github.com/amoudgl/short-jokes-dataset - Dataset for Jokes <br>
+- https://www.youtube.com/watch?v=xVUjZGlqNFQ - Secrets Module for Python by Indently <br>
