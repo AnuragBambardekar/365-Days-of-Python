@@ -86,3 +86,4 @@
 - https://www.youtube.com/watch?v=Y_FspnIsFE0 - Backslash "\" Has FAR More USES Than You THOUGHT In Python <br>
 - https://www.youtube.com/watch?v=yk-IXz0DjTY - Currying <br>
 - https://www.youtube.com/watch?v=4hdK9Gey76E - Auto clicker Bot <br>
+- https://www.youtube.com/watch?v=qZpwlrp00n8 - How To Write CLEAN & Reusable Code With "Currying" In Python <br>
