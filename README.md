@@ -105,3 +105,4 @@
 **Program 103:** Backslash <br>
 **Program 104:** Autocurrying <br>
 **Program 105:** Auto-clicker Bot <br>
+**Program 106:** Pickles in Python <br>
