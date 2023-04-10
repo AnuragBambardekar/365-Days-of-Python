@@ -88,3 +88,4 @@
 - https://www.youtube.com/watch?v=4hdK9Gey76E - Auto clicker Bot <br>
 - https://www.youtube.com/watch?v=qZpwlrp00n8 - How To Write CLEAN & Reusable Code With "Currying" In Python <br>
 - https://www.youtube.com/watch?v=6Q56r_fVqgw - WHAT Is "Pickle" In Python?! (EXTREMELY Useful!) <br>
+- https://allabouteng.com/types-of-flip-flops-sr-d-jk-d-types-with-truthtable/ - Flipflops and Gates <br>
