@@ -92,3 +92,4 @@
 - https://www.geeksforgeeks.org/sorting-algorithms/?ref=gcse - Sorting Algorithms <br>
 - https://www.youtube.com/watch?v=GxCXiSkm6no - Importing Your Own Python Modules Properly<br>
 - https://www.youtube.com/watch?v=r-7d3w5xerY - Hiding Information in JPEGs <br>
+- https://www.youtube.com/watch?v=_DhqDYLS8oY - Hiding Information in PNGs <br>
