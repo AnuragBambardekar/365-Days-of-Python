@@ -96,3 +96,4 @@
 - https://en.wikipedia.org/wiki/Monte_Carlo_method - Monte Carlo Methods <br>
 - https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/ - Geeks4Geeks Tutorial on Monte Carlo Methods <br>
 - https://www.reddit.com/r/dataisbeautiful/comments/cqhmzt/oc_estimating_eulers_number_using_the_monte_carlo/ - Estimating Euler's Number <br>
+- https://www.geeksforgeeks.org/using-c-codes-in-python-set-1/ - Running C code from Python <br>
