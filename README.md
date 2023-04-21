@@ -116,4 +116,5 @@
 **Program 114:** Advanced Hiding Information in PNG's <br>
 **Program 115:** Monte Carlo Methods <br>
 **Program 116:** Calling C code from Python using ctypes library <br>
-**Program 117:** Sentiment Analysis bot <br>
+**Program 117:** Simple Sentiment Analysis bot <br>
+**Program 118:** Easter Eggs in Python (Zen of Python) <br>

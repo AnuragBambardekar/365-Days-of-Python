@@ -98,3 +98,4 @@
 - https://www.reddit.com/r/dataisbeautiful/comments/cqhmzt/oc_estimating_eulers_number_using_the_monte_carlo/ - Estimating Euler's Number <br>
 - https://www.geeksforgeeks.org/using-c-codes-in-python-set-1/ - Running C code from Python <br>
 - https://www.youtube.com/watch?v=P1a0PzPYzm8 - Create A Sentiment Analysis Bot <br>
+- https://en.wikipedia.org/wiki/Zen_of_Python - Zen of Python - Python Guiding Principles <br>
