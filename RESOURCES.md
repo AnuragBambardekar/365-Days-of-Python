@@ -99,3 +99,4 @@
 - https://www.geeksforgeeks.org/using-c-codes-in-python-set-1/ - Running C code from Python <br>
 - https://www.youtube.com/watch?v=P1a0PzPYzm8 - Create A Sentiment Analysis Bot <br>
 - https://en.wikipedia.org/wiki/Zen_of_Python - Zen of Python - Python Guiding Principles <br>
+- https://www.youtube.com/watch?v=BKATus5NNZ0 - Three Card Monte - Dave Chappelle <br>
