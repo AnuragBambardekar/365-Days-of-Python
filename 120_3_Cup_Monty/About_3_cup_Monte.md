@@ -1,3 +1,5 @@
 # Three-card Monte 
 
 Also known as Find the Lady and Three-card Trick – is a confidence game in which the victims, or "marks", are tricked into betting a sum of money, on the assumption that they can find the "money card" among three face-down playing cards. It is very similar to the shell game except that cards are used instead of shells. ~[Wiki]
+
+3-cup monte game is a **scam** or a con game, often used by street hustlers to cheat people out of their money. In the game, the hustler shuffles three cups and a ball, and the player has to guess which cup contains the ball. The hustler will use sleight of hand or other tricks to make it appear as though the ball is under a certain cup, but in reality, it is under a different cup. The player will almost always lose money, as the game is designed to be rigged in the hustler's favor.
