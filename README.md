@@ -121,3 +121,4 @@
 **Program 119:** Random Seed <br>
 **Program 120:** Three-cup Monte <br>
 **Program 121:** RGB to HSV conversion & vice-versa <br>
+**Program 122:** RGB to Hex conversion & vice-versa <br>
