@@ -123,3 +123,4 @@
 **Program 121:** RGB to HSV conversion & vice-versa <br>
 **Program 122:** RGB to Hex conversion + rendering the colors from Hex code <br>
 **Program 123:** Check whether a Website is Up or Down <br>
+**Program 124:** A simple Audio Spectrum Analyzer <br>

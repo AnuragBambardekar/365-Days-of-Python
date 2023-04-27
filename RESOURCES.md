@@ -101,3 +101,5 @@
 - https://en.wikipedia.org/wiki/Zen_of_Python - Zen of Python - Python Guiding Principles <br>
 - https://www.youtube.com/watch?v=BKATus5NNZ0 - Three Card Monte - Dave Chappelle <br>
 - https://www.rapidtables.com/convert/color/hsv-to-rgb.html - RGB to HSV conversion & vice-versa <br>
+- https://github.com/Necronhym/Python-Spectrum-Analyzer - Audio Spectrum Analyzer <br>
+- https://github.com/kpmp6/Audio-SPECTRUM-Analyser/blob/main/audio%20spectrum.py - Audio Spectrum Analyzer with FFT <br>
