@@ -103,3 +103,4 @@
 - https://www.rapidtables.com/convert/color/hsv-to-rgb.html - RGB to HSV conversion & vice-versa <br>
 - https://github.com/Necronhym/Python-Spectrum-Analyzer - Audio Spectrum Analyzer <br>
 - https://github.com/kpmp6/Audio-SPECTRUM-Analyser/blob/main/audio%20spectrum.py - Audio Spectrum Analyzer with FFT <br>
+- https://www.youtube.com/watch?v=6brxufG54II - Zip function in Python <br>
