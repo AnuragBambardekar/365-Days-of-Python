@@ -104,3 +104,4 @@
 - https://github.com/Necronhym/Python-Spectrum-Analyzer - Audio Spectrum Analyzer <br>
 - https://github.com/kpmp6/Audio-SPECTRUM-Analyser/blob/main/audio%20spectrum.py - Audio Spectrum Analyzer with FFT <br>
 - https://www.youtube.com/watch?v=6brxufG54II - Zip function in Python <br>
+- https://blog.aspose.com/slides/merge-powerpoint-ppt-in-python/ - Merge Powerpoint PPT in Python using aspose <br>
