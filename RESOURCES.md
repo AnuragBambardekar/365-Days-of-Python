@@ -107,3 +107,4 @@
 - https://blog.aspose.com/slides/merge-powerpoint-ppt-in-python/ - Merge Powerpoint PPT in Python using aspose <br>
 - https://www.youtube.com/watch?v=7QKhYUNcuYI - Python Lazy Imports <br>
 - https://www.youtube.com/watch?v=8dlQ_nDE7dQ - Environment Variables from .env files <br>
+- https://www.youtube.com/watch?v=Ydn83ajuqX8 - Walrus Operator <br>
