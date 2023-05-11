@@ -111,3 +111,4 @@
 - https://www.geeksforgeeks.org/sets-in-python/ - Sets in Python <br>
 - https://www.youtube.com/watch?v=k_Hp4C-OQmM - Sets Speed <br>
 - https://www.youtube.com/watch?v=lgoB3_-ejnI&t=1s - AsyncIO <br>
+- https://www.youtube.com/watch?v=7GupibhOTdY - Underscore Uses <br>
