@@ -113,3 +113,4 @@
 - https://www.youtube.com/watch?v=lgoB3_-ejnI&t=1s - AsyncIO <br>
 - https://www.youtube.com/watch?v=7GupibhOTdY - Underscore Uses <br>
 - https://www.geeksforgeeks.org/deque-in-python/ - Deque <br>
+- https://www.geeksforgeeks.org/defining-a-python-function-at-runtime/ - Function at Runtime <br>
