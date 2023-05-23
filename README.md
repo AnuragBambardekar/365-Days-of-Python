@@ -144,4 +144,5 @@
 **Program 142:** Monkey Patching <br>
 **Program 143:** Minimum Coins required to make an amount <br>
 **Program 144:** Runtime Functions <br>
-**Program 145:** GetPass Demo <br>
+**Program 145:** GetPass Module in Python <br>
+**Program 146:** Six Module in Python <br>
