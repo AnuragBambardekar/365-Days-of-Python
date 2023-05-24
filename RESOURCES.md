@@ -114,3 +114,5 @@
 - https://www.youtube.com/watch?v=7GupibhOTdY - Underscore Uses <br>
 - https://www.geeksforgeeks.org/deque-in-python/ - Deque <br>
 - https://www.geeksforgeeks.org/defining-a-python-function-at-runtime/ - Function at Runtime <br>
+- https://www.youtube.com/watch?v=qXLh5sZLpHE - cProfile Tutorial by Indently <br>
+- https://www.youtube.com/watch?v=BZzb_Wpag_M - Profiling with cProfile by NeuralNine <br>
