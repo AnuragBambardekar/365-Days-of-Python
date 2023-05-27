@@ -149,3 +149,4 @@
 **Program 147:** cProfile <br>
 **Program 148:** if vs elif: Micro-optimization <br>
 **Program 149:** Line Profiler <br>
+**Program 150:** Face Recognition using face_recognition module <br>
