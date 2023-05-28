@@ -118,3 +118,4 @@
 - https://www.youtube.com/watch?v=BZzb_Wpag_M - Profiling with cProfile by NeuralNine <br>
 - https://www.youtube.com/watch?v=O6yHJl0ThKY - if vs elif by Indently <br>
 - https://www.youtube.com/watch?v=tl2eEBFEHqM - Face Recognition by Indently <br>
+- https://www.youtube.com/watch?v=pb-pZtvkGPM - Polar plots in Python <br>
