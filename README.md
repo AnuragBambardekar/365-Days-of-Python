@@ -153,3 +153,4 @@
 **Program 151:** Polar plots <br>
 **Program 152:** Clock using Matplotlib <br>
 **Program 153:** Year Progress Tracker using tqdm <br>
+**Program 154:** Day Progress Tracker using progress <br>
