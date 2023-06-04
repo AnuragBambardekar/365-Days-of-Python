@@ -25,9 +25,6 @@ def convert_to_timezone(utc_time, selected_timezone):
 # Get the current local time
 current_local_time = datetime.datetime.now()
 
-# Print the current local time
-print("Current local time:", current_local_time)
-
 # Define your local timezone
 local_timezone = 'America/New_York'
 
@@ -43,12 +40,15 @@ for i, tz in enumerate(available_timezones, start=1):
 selected_timezone_index = int(input("Enter the number corresponding to the desired time zone: "))
 selected_timezone = available_timezones[selected_timezone_index - 1]
 
-print(selected_timezone)
+# Print the current local time
+print("Current local time:", current_local_time)
+
+print("Converting to ",selected_timezone)
 
 # Convert to UTC
 utc_time = convert_to_utc(current_local_time, local_timezone)
-print("Converted time (UTC):", utc_time)
+print("Converted EST time to UTC:", utc_time)
 
 # Convert to selected_timezone
-ist_time = convert_to_timezone(utc_time, selected_timezone)
-print("Converted time:", ist_time)
+time = convert_to_timezone(utc_time, selected_timezone)
+print("Converted time:", time)
