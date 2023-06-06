@@ -122,3 +122,4 @@
 - https://pypi.org/project/progress/ - Progress library <br>
 - https://www.youtube.com/watch?v=bEA8HI_I5bQ - Base64 Encoding binary data <br>
 - https://www.youtube.com/watch?v=1jNNde4k9Ng - Fuzzy String Matching <br>
+- https://www.youtube.com/watch?v=FJeXp5yZd-g - Pomodoro Timer <br>
