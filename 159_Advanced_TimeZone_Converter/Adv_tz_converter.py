@@ -30,14 +30,16 @@ print("Available time zones:")
 for i, tz in enumerate(available_timezones, start=1):
     print("{}. {}".format(i, tz))
 
-# Ask the user to choose a time zone
+# Ask the user to choose a home time zone
 selected_timezone_index1 = int(input("Enter the number corresponding to the time zone in which you are: "))
 selected_timezone = available_timezones[selected_timezone_index1 - 1]
 
 time_str = input('Enter a time and date in the format MM/DD/YYYY HH:MM: ')
-time_str = datetime.datetime.strptime(time_str, '%m/%d/%Y %H:%M')
+time_dt = datetime.datetime.strptime(time_str, '%m/%d/%Y %H:%M')
 
-# Ask the user to choose a time zone
+print("Time Entered: ", time_dt)
+
+# Ask the user to choose a target time zone
 selected_timezone_index2 = int(input("Enter the number corresponding to the desired time zone which you want to convert to: "))
 selected_timezone_to_convert = available_timezones[selected_timezone_index2 - 1]
 
@@ -45,11 +47,25 @@ selected_timezone_to_convert = available_timezones[selected_timezone_index2 - 1]
 # Print the selected TimeZones
 print("Timezone Selected: ", selected_timezone)
 print("Converting to Timezone: ",selected_timezone_to_convert)
+print()
 
 # Convert to UTC
-utc_time = convert_to_utc(time_str, selected_timezone)
-print("Converting time to UTC:", utc_time)
+utc_time = convert_to_utc(time_dt, selected_timezone)
+# print("Converting time to UTC:", utc_time)
 
 # Convert to selected_timezone
-time = convert_to_timezone(utc_time, selected_timezone_to_convert)
-print("Converted time:", time)
+converted_time = convert_to_timezone(utc_time, selected_timezone_to_convert)
+print("Converted time:", converted_time)
+
+# Calculate the time difference
+# print(type(converted_time))
+# print(type(time_dt))
+
+utc_naive_datetime = converted_time.replace(tzinfo=None)
+# print(utc_naive_datetime)
+
+# Calculate the time difference
+time_difference = utc_naive_datetime - time_dt
+
+# Print the time difference
+print("Time difference:", time_difference)
