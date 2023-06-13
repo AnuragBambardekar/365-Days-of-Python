@@ -125,3 +125,4 @@
 - https://www.youtube.com/watch?v=FJeXp5yZd-g - Pomodoro Timer <br>
 - https://www.youtube.com/watch?v=ujfsn6u-1QU - Color Palette Generator <br>
 - https://www.youtube.com/watch?v=n0uJsqFGO4k - RSA private and public keys <br>
+- https://www.geeksforgeeks.org/python-calendar-module/ - Calendar Module tutorial <br>
