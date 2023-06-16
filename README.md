@@ -169,3 +169,4 @@
 **Program 167:** Calendar module <br>
 **Program 168:** Zodiac sign calculator <br>
 **Program 169:** Lambda function <br>
+**Program 170:** Getting the dominant color from an image <br>
