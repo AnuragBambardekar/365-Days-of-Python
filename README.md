@@ -170,3 +170,4 @@
 **Program 168:** Zodiac sign calculator <br>
 **Program 169:** Lambda function <br>
 **Program 170:** Getting the dominant color from an image <br>
+**Program 171:** Bulls and Cows <br>
