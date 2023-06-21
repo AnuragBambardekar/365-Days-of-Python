@@ -128,3 +128,4 @@
 - https://www.geeksforgeeks.org/python-calendar-module/ - Calendar Module tutorial <br>
 - https://www.youtube.com/watch?v=nEYap1mupUQ - Extracting dominant color palette from an image <br>
 - https://www.youtube.com/watch?v=mkYdI6pyluY - Generating actually random numbers <br>
+- https://www.youtube.com/watch?v=guWxEIqYy_I - Color name detector <br>
