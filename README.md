@@ -175,3 +175,4 @@
 **Program 173:** File Transfer using Sockets <br>
 **Program 174:** Color name detector <br>
 **Program 175:** Diff checker Tool <br>
+**Program 176:** 'any' and 'all' functions <br>

@@ -130,3 +130,4 @@
 - https://www.youtube.com/watch?v=mkYdI6pyluY - Generating actually random numbers <br>
 - https://www.youtube.com/watch?v=guWxEIqYy_I - Color name detector <br>
 - https://florian-dahlitz.de/articles/create-your-own-diff-tool-using-python - diff checker tutorial <br>
+- https://www.youtube.com/watch?v=4Nyw810U-rI - any and all functions <br>
