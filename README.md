@@ -177,3 +177,4 @@
 **Program 175:** Diff checker Tool <br>
 **Program 176:** 'any' and 'all' functions <br>
 **Program 177:** Simple Task Manager [View and Kill Processes] <br>
+**Program 178:** Capturing stdout using contextlib <br>
