@@ -132,3 +132,4 @@
 - https://florian-dahlitz.de/articles/create-your-own-diff-tool-using-python - diff checker tutorial <br>
 - https://www.youtube.com/watch?v=4Nyw810U-rI - any and all functions <br>
 - https://www.youtube.com/watch?v=-z1pvtMOTmg - capturing stdout to a file using contextlib <br>
+- https://www.youtube.com/watch?v=SbI4QaWEzN8 - convert CLI args to specific types <br>
