@@ -180,3 +180,4 @@
 **Program 178:** Capturing stdout using contextlib <br>
 **Program 179:** Convert CLI args to specific types <br>
 **Program 180:** Matrix Rain <br>
+**Program 181:** Mathematical Equation Solver [Quadratic, Linear, Cubic, System of Equations] <br>
