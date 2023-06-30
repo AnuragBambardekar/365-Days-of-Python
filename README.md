@@ -182,4 +182,4 @@
 **Program 180:** Matrix Rain <br>
 **Program 181:** Mathematical Equation Solver [Quadratic, Linear, Cubic, System of Equations] <br>
 **Program 182:** Learning about openpyxl - Graphs, Charts, simple operations <br>
-**Program 183:** Using struct in python - with sockets <br>
+**Program 183:** Using struct in python [to package data] - with sockets <br>
