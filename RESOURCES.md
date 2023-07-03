@@ -137,4 +137,5 @@
 - https://www.youtube.com/watch?v=SbI4QaWEzN8 - convert CLI args to specific types <br>
 - https://www.youtube.com/watch?v=rzA8cZyisf8 - Matrix Rain <br>
 - https://www.youtube.com/watch?v=gViM3ZuDQrw - Using struct for packaging data <br>
-- https://florian-dahlitz.de/articles/how-to-create-your-own-timing-context-manager-in-python <br>
+- https://florian-dahlitz.de/articles/how-to-create-your-own-timing-context-manager-in-python - Timing Context Manager<br>
+- https://florian-dahlitz.de/articles/what-is-pythons-ellipsis-object - Ellipsis object<br>
