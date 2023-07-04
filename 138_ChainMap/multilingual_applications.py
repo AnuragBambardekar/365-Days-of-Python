@@ -21,3 +21,20 @@ translations['banana'] = 'banane'
 print(en_dict)
 print(fr_dict) 
 print(es_dict) 
+
+
+from collections import ChainMap
+
+english = {"apple": "Apple", "banana": "Banana", "orange": "Orange"}
+french = {"apple": "Pomme", "banana": "Banane", "orange": "Orange"}
+spanish = {"apple": "Manzana", "banana": "Plátano", "orange": "Naranja"}
+
+translations = {
+    "en": ChainMap(english),
+    "fr": ChainMap(french),
+    "es": ChainMap(spanish)
+}
+
+print(translations["en"]["apple"])  # Output: Apple
+print(translations["fr"]["apple"])  # Output: Pomme
+print(translations["es"]["apple"])  # Output: Manzana
