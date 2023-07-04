@@ -186,3 +186,4 @@
 **Program 184:** Dunder Methods <br>
 **Program 185:** Timing Context Managers - Class Based vs Generator Based <br>
 **Program 186:** Ellipsis (...) object <br>
+**Program 187:** Slice function <br>
