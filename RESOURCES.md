@@ -140,3 +140,4 @@
 - https://florian-dahlitz.de/articles/how-to-create-your-own-timing-context-manager-in-python - Timing Context Manager<br>
 - https://florian-dahlitz.de/articles/what-is-pythons-ellipsis-object - Ellipsis object<br>
 - https://www.youtube.com/watch?v=kL8Hh7KXP_E - Slice function <br>
+- https://www.youtube.com/watch?v=XSkBFFOtQro - TypedDict <br>
