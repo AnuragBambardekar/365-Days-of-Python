@@ -141,3 +141,4 @@
 - https://florian-dahlitz.de/articles/what-is-pythons-ellipsis-object - Ellipsis object<br>
 - https://www.youtube.com/watch?v=kL8Hh7KXP_E - Slice function <br>
 - https://www.youtube.com/watch?v=XSkBFFOtQro - TypedDict <br>
+- https://www.geeksforgeeks.org/bisect-algorithm-functions-in-python/ - Bisect algorithm <br>

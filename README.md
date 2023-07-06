@@ -188,3 +188,4 @@
 **Program 186:** Ellipsis (...) object <br>
 **Program 187:** Slice function <br>
 **Program 188:** TypedDict <br>
+**Program 189:** Bisect Algorithm <br>
