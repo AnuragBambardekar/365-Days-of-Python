@@ -189,3 +189,4 @@
 **Program 187:** Slice function <br>
 **Program 188:** TypedDict <br>
 **Program 189:** Bisect Algorithm <br>
+**Program 190:** Duck Typing, ABC and Protocols <br>
