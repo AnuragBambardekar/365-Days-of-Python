@@ -144,3 +144,4 @@
 - https://www.geeksforgeeks.org/bisect-algorithm-functions-in-python/ - Bisect algorithm <br>
 - https://www.youtube.com/watch?v=EVa5Wdcgl94 - Protocols talk at EuroPython <br>
 - https://www.youtube.com/watch?v=2jN11lyKvfA - Protocols tutorial <br>
+- https://python.plainenglish.io/internet-speed-tester-using-python-d36ec9da7021 - Speed Test Program <br>
