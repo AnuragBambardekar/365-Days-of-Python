@@ -192,3 +192,4 @@
 **Program 190:** Duck Typing, ABC and Protocols <br>
 **Program 191:** Speed Test <br>
 **Program 192:** Type Annotations <br>
+**Program 193:** Assertions <br>
