@@ -147,3 +147,4 @@
 - https://python.plainenglish.io/internet-speed-tester-using-python-d36ec9da7021 - Speed Test Program <br>
 - https://www.youtube.com/watch?v=bO3-CWDMxCk - Type Annotations in Python <br>
 - https://www.youtube.com/watch?v=jjUgWvNxHys - Python's Assert statement <br>
+- https://www.youtube.com/watch?v=lXafuQ9r8Lg - Shelve <br>
