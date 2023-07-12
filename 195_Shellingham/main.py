@@ -19,6 +19,3 @@ print(login_cred)
 
 cwd = shellingham.os.getcwd()
 print(cwd)
-
-env = shellingham.os.environ()
-print(env)
