@@ -150,3 +150,4 @@
 - https://www.youtube.com/watch?v=lXafuQ9r8Lg - Shelve <br>
 - https://github.com/sarugaku/shellingham - GitHub Repo for Shellingham <br>
 - https://www.geeksforgeeks.org/how-to-create-and-customize-venn-diagrams-in-python/ - Venn Diagrams using matplotlib_venn <br>
+- https://www.youtube.com/watch?v=n4SkpAGKqos - IIFE in python <br>
