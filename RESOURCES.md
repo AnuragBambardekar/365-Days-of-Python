@@ -152,3 +152,5 @@
 - https://www.geeksforgeeks.org/how-to-create-and-customize-venn-diagrams-in-python/ - Venn Diagrams using matplotlib_venn <br>
 - https://www.youtube.com/watch?v=n4SkpAGKqos - IIFE in python <br>
 - https://www.youtube.com/watch?v=oFmDZbDwYGs&t - reverse() <br>
+- https://www.youtube.com/watch?v=-MHrG5Ep6yg - Decorators <br>
+- https://www.youtube.com/watch?v=Sz9G0iwwHQI - Getters-Setters using Decorators <br>
