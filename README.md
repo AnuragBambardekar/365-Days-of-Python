@@ -202,3 +202,4 @@
 **Program 200:** 200 OK - 200 Days Completed!! [200 in roman is 'CC', 200 is an abundant number, simple flask to show 200 OK status] <br>
 **Program 201:** Decorators <br>
 **Program 202:** defaultdict <br>
+**Program 203:** Generate Fake Data using Faker <br>
