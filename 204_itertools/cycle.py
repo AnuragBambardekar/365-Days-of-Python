@@ -25,7 +25,10 @@ def cycle(iterable):
               yield element
 
 # Using a loop to print the first 10 elements
-for i, element in enumerate(cycle('ABCD')):
-    print(element)
-    time.sleep(0.5)
+# for i, element in enumerate(cycle('ABCD')):
+#     print(element)
+#     time.sleep(0.5)
 
+# if we want to cycle only for a specific number of times
+for i in it.chain(*it.tee(colours, 3)):
+    print(i)
