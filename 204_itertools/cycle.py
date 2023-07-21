@@ -3,6 +3,8 @@ import time
 
 colours = ("red","green","blue")
 
+"""cycle is an infinte iterator"""
+
 # for i in it.cycle(colours):
 #     print(i)
 #     time.sleep(0.5)
