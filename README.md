@@ -205,3 +205,4 @@
 **Program 203:** Generate Fake Data using Faker <br>
 **Program 204:** itertools <br>
 **Program 205:** Exception Groups <br>
+**Program 206:** Comparing Floats <br>
