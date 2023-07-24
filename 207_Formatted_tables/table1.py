@@ -1,6 +1,10 @@
 def list_of_lists_to_table(data):
     # Find the maximum width for each column
     column_widths = [max(len(str(item)) for item in column) for column in zip(*data)]
+    # print(column_widths)
+
+    # for column in zip(*data):
+    #     print(column)
 
     # Print the table with appropriate formatting
     for row in data:
