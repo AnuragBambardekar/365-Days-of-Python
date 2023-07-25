@@ -156,6 +156,7 @@
 - https://www.youtube.com/watch?v=Sz9G0iwwHQI - Getters-Setters using Decorators <br>
 - https://www.youtube.com/watch?v=FsAPt_9Bf3U - Decorators <br>
 - https://www.youtube.com/watch?v=Sah0p4ILGRE - defaultdict <br>
+- https://www.youtube.com/watch?v=a7qIcIaL4zs - pdb
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter
