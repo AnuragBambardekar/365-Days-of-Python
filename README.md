@@ -209,3 +209,4 @@
 **Program 207:** Formatted Tables <br>
 **Program 208:** Python Debugger <br>
 **Program 209:** Disassembler <br>
+**Program 210:** Loguru <br>

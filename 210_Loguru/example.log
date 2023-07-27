@@ -1,0 +1,24 @@
+2023-07-27 11:21:15.558 | DEBUG    | __main__:main:17 - This is a debug message.
+2023-07-27 11:21:15.558 | INFO     | __main__:main:18 - This is an info message.
+2023-07-27 11:21:15.562 | WARNING  | __main__:main:19 - This is a warning message.
+2023-07-27 11:21:15.562 | ERROR    | __main__:main:20 - This is an error message.
+2023-07-27 11:21:15.566 | INFO     | __main__:divide_numbers:10 - Division result: 5.0
+2023-07-27 11:21:15.566 | ERROR    | __main__:divide_numbers:7 - Division by zero occurred!
+Traceback (most recent call last):
+
+  File "c:\Users\anura\Documents\VSCode_Workspace\365-Days-of-Python\210_Loguru\app2.py", line 31, in <module>
+    main()
+    └ <function main at 0x000001A6DDD66710>
+
+  File "c:\Users\anura\Documents\VSCode_Workspace\365-Days-of-Python\210_Loguru\app2.py", line 28, in main
+    divide_numbers(c, d)
+    │              │  └ 0
+    │              └ 5
+    └ <function divide_numbers at 0x000001A6DDD665F0>
+
+> File "c:\Users\anura\Documents\VSCode_Workspace\365-Days-of-Python\210_Loguru\app2.py", line 5, in divide_numbers
+    result = a / b
+             │   └ 0
+             └ 5
+
+ZeroDivisionError: division by zero
