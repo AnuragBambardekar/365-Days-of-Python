@@ -45,3 +45,6 @@ Options:
 
 Open the generate annotated HTML page for source files and observe the code. The more brighter the yellow line, the more python interaction there is in your code.
 
+```cmd
+cythonize -a -b .\sort.pyx
+```
