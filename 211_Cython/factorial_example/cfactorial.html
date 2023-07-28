@@ -435,15 +435,16 @@ static PyObject *__pyx_pf_10cfactorial_factorial(CYTHON_UNUSED PyObject *__pyx_s
 }
 </pre><pre class="cython line score-0" onclick="(function(s){s.display=s.display==='block'?'none':'block'})(this.nextElementSibling.style)">+<span class="">04</span>:     <span class="k">cdef</span> <span class="kt">int</span> <span class="nf">f</span> <span class="o">=</span> <span class="mf">1</span></pre>
 <pre class='cython code score-0 '>  __pyx_v_f = 1;
-</pre><pre class="cython line score-0">&#xA0;<span class="">05</span>:     <span class="k">cdef</span> <span class="kt">int</span> <span class="nf">i</span></pre>
-<pre class="cython line score-0">&#xA0;<span class="">06</span>: </pre>
+</pre><pre class="cython line score-0" onclick="(function(s){s.display=s.display==='block'?'none':'block'})(this.nextElementSibling.style)">+<span class="">05</span>:     <span class="k">cdef</span> <span class="kt">int</span> <span class="nf">i</span> <span class="o">=</span> <span class="mf">1</span></pre>
+<pre class='cython code score-0 '>  __pyx_v_i = 1;
+</pre><pre class="cython line score-0">&#xA0;<span class="">06</span>: </pre>
 <pre class="cython line score-0" onclick="(function(s){s.display=s.display==='block'?'none':'block'})(this.nextElementSibling.style)">+<span class="">07</span>:     <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">x</span><span class="p">):</span></pre>
 <pre class='cython code score-0 '>  __pyx_t_1 = __pyx_v_x;
   __pyx_t_2 = __pyx_t_1;
   for (__pyx_t_3 = 0; __pyx_t_3 &lt; __pyx_t_2; __pyx_t_3+=1) {
     __pyx_v_i = __pyx_t_3;
-</pre><pre class="cython line score-0" onclick="(function(s){s.display=s.display==='block'?'none':'block'})(this.nextElementSibling.style)">+<span class="">08</span>:         <span class="n">f</span> <span class="o">+=</span> <span class="p">(</span><span class="n">x</span><span class="o">-</span><span class="n">i</span><span class="p">)</span></pre>
-<pre class='cython code score-0 '>    __pyx_v_f = (__pyx_v_f + (__pyx_v_x - __pyx_v_i));
+</pre><pre class="cython line score-0" onclick="(function(s){s.display=s.display==='block'?'none':'block'})(this.nextElementSibling.style)">+<span class="">08</span>:         <span class="n">f</span> <span class="o">*=</span> <span class="p">(</span><span class="n">x</span><span class="o">-</span><span class="n">i</span><span class="p">)</span></pre>
+<pre class='cython code score-0 '>    __pyx_v_f = (__pyx_v_f * (__pyx_v_x - __pyx_v_i));
   }
 </pre><pre class="cython line score-0">&#xA0;<span class="">09</span>: </pre>
 <pre class="cython line score-0" onclick="(function(s){s.display=s.display==='block'?'none':'block'})(this.nextElementSibling.style)">+<span class="">10</span>:     <span class="k">return</span> <span class="n">f</span></pre>

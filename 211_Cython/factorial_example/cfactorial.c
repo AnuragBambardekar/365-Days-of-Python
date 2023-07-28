@@ -5,7 +5,7 @@
     "distutils": {
         "name": "cfactorial",
         "sources": [
-            "C:\\Users\\anura\\Documents\\VSCode_Workspace\\365-Days-of-Python\\211_Cython\\cfactorial.pyx"
+            "C:\\Users\\anura\\Documents\\VSCode_Workspace\\365-Days-of-Python\\211_Cython\\factorial_example\\cfactorial.pyx"
         ]
     },
     "module_name": "cfactorial"
@@ -1192,7 +1192,7 @@ static PyObject *__pyx_pf_10cfactorial_factorial(CYTHON_UNUSED PyObject *__pyx_s
  * 
  * cpdef int factorial(int x): #cpdef == cython public definition             # <<<<<<<<<<<<<<
  *     cdef int f = 1
- *     cdef int i
+ *     cdef int i = 1
  */
 
 static PyObject *__pyx_pw_10cfactorial_1factorial(PyObject *__pyx_self, PyObject *__pyx_arg_x); /*proto*/
@@ -1210,16 +1210,25 @@ static int __pyx_f_10cfactorial_factorial(int __pyx_v_x, CYTHON_UNUSED int __pyx
  * 
  * cpdef int factorial(int x): #cpdef == cython public definition
  *     cdef int f = 1             # <<<<<<<<<<<<<<
- *     cdef int i
+ *     cdef int i = 1
  * 
  */
   __pyx_v_f = 1;
 
+  /* "cfactorial.pyx":5
+ * cpdef int factorial(int x): #cpdef == cython public definition
+ *     cdef int f = 1
+ *     cdef int i = 1             # <<<<<<<<<<<<<<
+ * 
+ *     for i in range(x):
+ */
+  __pyx_v_i = 1;
+
   /* "cfactorial.pyx":7
- *     cdef int i
+ *     cdef int i = 1
  * 
  *     for i in range(x):             # <<<<<<<<<<<<<<
- *         f += (x-i)
+ *         f *= (x-i)
  * 
  */
   __pyx_t_1 = __pyx_v_x;
@@ -1230,15 +1239,15 @@ static int __pyx_f_10cfactorial_factorial(int __pyx_v_x, CYTHON_UNUSED int __pyx
     /* "cfactorial.pyx":8
  * 
  *     for i in range(x):
- *         f += (x-i)             # <<<<<<<<<<<<<<
+ *         f *= (x-i)             # <<<<<<<<<<<<<<
  * 
  *     return f
  */
-    __pyx_v_f = (__pyx_v_f + (__pyx_v_x - __pyx_v_i));
+    __pyx_v_f = (__pyx_v_f * (__pyx_v_x - __pyx_v_i));
   }
 
   /* "cfactorial.pyx":10
- *         f += (x-i)
+ *         f *= (x-i)
  * 
  *     return f             # <<<<<<<<<<<<<<
  */
@@ -1250,7 +1259,7 @@ static int __pyx_f_10cfactorial_factorial(int __pyx_v_x, CYTHON_UNUSED int __pyx
  * 
  * cpdef int factorial(int x): #cpdef == cython public definition             # <<<<<<<<<<<<<<
  *     cdef int f = 1
- *     cdef int i
+ *     cdef int i = 1
  */
 
   /* function exit code */

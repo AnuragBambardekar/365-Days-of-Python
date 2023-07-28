@@ -2,9 +2,9 @@
 
 cpdef int factorial(int x): #cpdef == cython public definition
     cdef int f = 1
-    cdef int i
+    cdef int i = 1
 
     for i in range(x):
-        f += (x-i)
+        f *= (x-i)
 
     return f

@@ -13,6 +13,17 @@ To run file:
 ```cmd
 cythonize -a -b .\cfactorial.pyx
 ```
+
+```
+Python: 0.046
+Cython: 0.001
+Cython is 64.444x faster
+Python Factorial(100): 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000
+Cython Factorial(100): 5051
+```
+
+Cython result is incorrect.
+
 ```
 Usage: cythonize [options] [sources and packages]+
 
