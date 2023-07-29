@@ -159,6 +159,7 @@
 - https://www.youtube.com/watch?v=a7qIcIaL4zs - pdb <br>
 - https://www.youtube.com/watch?v=2Z1RJDVM0rc - disassembler <br>
 - https://www.youtube.com/watch?v=ODnHNd5xcNg - cython <br>
+- https://www.youtube.com/watch?v=NRLSyyYv2N0 - Logging <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

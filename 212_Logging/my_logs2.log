@@ -1,0 +1,3 @@
+INFO (29/07/2023 03:02:00 PM): Hello World! (Line: 8) [demo3.py]
+WARNING (29/07/2023 03:02:00 PM): WARNING (Line: 9) [demo3.py]
+INFO (29/07/2023 03:02:00 PM): This is from other_module.py (Line: 4) [other_module.py]
