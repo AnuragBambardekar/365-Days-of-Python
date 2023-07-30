@@ -28,3 +28,10 @@ ftp>
 ```
 
 - Check transferred file in ```C:\Users\anura```
+
+
+## FTP Client-side Operations
+
+- List directory
+- Upload/ Download files to/from FTP server
+- CRUD operations on files in FTP server

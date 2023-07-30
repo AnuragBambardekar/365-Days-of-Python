@@ -161,6 +161,8 @@
 - https://www.youtube.com/watch?v=ODnHNd5xcNg - cython <br>
 - https://www.youtube.com/watch?v=NRLSyyYv2N0 - Logging <br>
 - https://www.youtube.com/watch?v=0UCN_lny25M - FTP Server by NeuralNine
+- https://nagasudhir.blogspot.com/2022/02/ftp-server-communication-with-ftplib.html - FTP Operations <br>
+
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter
