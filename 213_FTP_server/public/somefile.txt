@@ -1,0 +1,9 @@
+Hello World
+
+This is a file.
+
+Can start FTP server by going into the directory and running:
+
+PS C:\Users\anura\Documents\VSCode_Workspace\365-Days-of-Python\213_FTP_server> twistd -n ftp
+
+But we will write our own FTP server in Python
