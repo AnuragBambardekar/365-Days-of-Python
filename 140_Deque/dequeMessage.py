@@ -13,4 +13,4 @@ def process_messages():
 # example usage:
 receive_message("Hello")
 receive_message("World")
-process_messages() # Output: Processing message: Hello, Processing message: World
+process_messages()
