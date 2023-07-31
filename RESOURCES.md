@@ -162,6 +162,7 @@
 - https://www.youtube.com/watch?v=NRLSyyYv2N0 - Logging <br>
 - https://www.youtube.com/watch?v=0UCN_lny25M - FTP Server by NeuralNine
 - https://nagasudhir.blogspot.com/2022/02/ftp-server-communication-with-ftplib.html - FTP Operations <br>
+- https://unicode.org/Public/emoji/15.0/ - Unicode Repository for Emojis <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
