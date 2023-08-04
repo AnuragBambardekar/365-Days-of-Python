@@ -13,7 +13,7 @@
 **Program 11:** Armstrong Numbers <br>
 **Program 12:** Threading in Python - Fetching Images from unsplash.com<br>
 **Program 13:** Multiprocessing in Python - Processing fetched Images <br>
-**Program 14:** First 50 Armstrong Numbers (Digital Invariant) in Python - Actually found only 25 - using multiprocessing/Threading - some speedup achieved (Work in Progress...) - Memoization-LRU cache used<br>
+**Program 14:** First 50 Armstrong Numbers (Digital Invariant) in Python <br>
 **Program 15:** Fibonacci Sequence using Memoization <br>
 **Program 16:** Finding the day a date falls on using datetime library and Zeller's Congruence method <br>
 **Program 17:** Determine whether a year is a Leap Year <br>
@@ -42,7 +42,7 @@
 **Program 40:** Translator <br>
 **Program 41:** Disarium Number <br>
 **Program 42:** CAPTCHA - Generating Text & Audio CAPTCHA's<br>
-**Program 43:** Finding Interesting Numbers in a given range. [Consecutive numbers which result in a product in given range, Prime palindromes, Perfect Squares]<br>
+**Program 43:** Finding Interesting Numbers in a given range. [Prime palindromes, Perfect Squares]<br>
 **Program 44:** Hangman Game <br>
 **Program 45:** Trigonometry Functions of Common Angles & Plots [Matplotlib, Sympy, SVG export] <br>
 **Program 46:** Poker hand evaluator <br>
@@ -199,7 +199,7 @@
 **Program 197:** Immediately Invoked Function Expression <br>
 **Program 198:** Reversing <br>
 **Program 199:** exec() vs eval() and compile() <br>
-**Program 200:** 200 OK - 200 Days Completed!! [200 in roman is 'CC', 200 is an abundant number, simple flask to show 200 OK status] <br>
+**Program 200:** 200 OK - 200 Days Completed!! <br>
 **Program 201:** Decorators <br>
 **Program 202:** defaultdict <br>
 **Program 203:** Generate Fake Data using Faker <br>
