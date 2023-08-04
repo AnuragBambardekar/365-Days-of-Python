@@ -165,6 +165,8 @@
 - https://unicode.org/Public/emoji/15.0/ - Unicode Repository for Emojis <br>
 - https://www.youtube.com/watch?v=w2r2Bg42UPY - Extracting content from a PDF <br>
 - https://www.youtube.com/watch?v=vvwjKKWo2HQ - is vs == <br>
+- https://www.youtube.com/watch?v=so2illANiRw - Word file processing <br>
+- https://www.youtube.com/watch?v=UEuXQjPUwcw - Globals in Python and why not to use it <br>
 
 
 
