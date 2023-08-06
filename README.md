@@ -1,20 +1,24 @@
 # 365 Days of Python
 
-**Program 1:** Print Commands in Python [Line Continuation + center,format,end,sep parameters of print()] <br>
-**Program 2:** Count Character Occurences using Python <br>
-**Program 3:** Palindrome Words and Numbers using Python <br>
-**Program 4:** Least Common Multiple and Highest Common Factor<br>
-**Program 5:** Roman Numbers to Decimals <br>
-**Program 6:** Temperature Conversion <br>
-**Program 7:** Weather Fetching using BeautifulSoup4 [Web scraping] <br>
-**Program 8:** QR code generator and Decoder<br>
-**Program 9:** Pascal's Triangle <br>
-**Program 10:** Diamond Patterns [Hollow and Filled, upper/lower half and full] <br>
-**Program 11:** Armstrong Numbers <br>
-**Program 12:** Threading in Python - Fetching Images from unsplash.com<br>
-**Program 13:** Multiprocessing in Python - Processing fetched Images <br>
-**Program 14:** First 50 Armstrong Numbers (Digital Invariant) in Python <br>
-**Program 15:** Fibonacci Sequence using Memoization <br>
+| # | Title | 
+|---| ----- |
+| 1 | [Print Commands in Python [Line Continuation + center,format,end,sep parameters of print()] ](1_Print_commands_in_Python) |
+| 2 | [Count Character Occurrences using Python](2_Count_characters_in_Python) |
+| 3 | [Palindrome Words and Numbers using Python](3_Palindrome_words_and_numbers) |
+| 4 | [Least Common Multiple and Highest Common Factor](4_LCM_and_HCF) |
+| 5 | [Roman Numbers to Decimals](5_Roman_to_Decimal) |
+| 6 | [Temperature Conversion](6_Temperature_Conversion) |
+| 7 | [Weather Fetching using BeautifulSoup4 [Web scraping]](7_Weather_fetching) |
+| 8 | [QR code generator and Decoder](8_QRCode_generator_and_reader) |
+| 9 | [Pascal's Triangle](9_Pascals_Triangle) |
+| 10 | [Diamond Patterns [Hollow and Filled, upper/lower half and full]](10_Diamond_patterns) |
+| 11 | [Armstrong Numbers](11_Armstrong_Number) |
+| 12 | [Threading in Python - Fetching Images from unsplash.com](12_Threading_in_python) |
+| 13 | [Multiprocessing in Python - Processing fetched Images](13_Multiprocessing_in_python) |
+| 14 | [First 50 Armstrong Numbers (Digital Invariant) in Python](14_First50_Armstrong_numbers) |
+| 15 | [Fibonacci Sequence using Memoization](15_Fibonacci_sequence) |
+
+
 **Program 16:** Finding the day a date falls on using datetime library and Zeller's Congruence method <br>
 **Program 17:** Determine whether a year is a Leap Year <br>
 **Program 18:** Regular Expressions (Email Validation, Punctuation remover/extractor)<br>
