@@ -168,6 +168,7 @@
 - https://www.youtube.com/watch?v=so2illANiRw - Word file processing <br>
 - https://www.youtube.com/watch?v=UEuXQjPUwcw - Globals in Python and why not to use it <br>
 - https://www.youtube.com/watch?v=7wn4x93gJcg - Magic Dunder Methods
+- https://www.youtube.com/watch?v=6RbJYN7SoRs - How async-await works <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
