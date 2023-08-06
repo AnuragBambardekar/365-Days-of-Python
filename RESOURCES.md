@@ -170,6 +170,7 @@
 - https://www.youtube.com/watch?v=7wn4x93gJcg - Magic Dunder Methods
 - https://www.youtube.com/watch?v=6RbJYN7SoRs - How async-await works <br>
 - https://www.youtube.com/watch?v=0GVLtTnebNA - asyncio by Indently <br>
+- https://www.youtube.com/watch?v=zrA9WpSXrQE - async groups <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
