@@ -172,6 +172,8 @@
 - https://www.youtube.com/watch?v=0GVLtTnebNA - asyncio by Indently <br>
 - https://www.youtube.com/watch?v=zrA9WpSXrQE - async groups <br>
 - https://www.youtube.com/watch?v=B9yM53qkbW0 - functools <br>
+- https://www.youtube.com/shorts/qu_8RxcKMJg - Set confuser <br>
+- https://www.youtube.com/watch?v=FlPd1BP_cVc - pathlib tutorial <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
