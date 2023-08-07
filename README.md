@@ -222,4 +222,6 @@
 | 218 | [Globals](218_Globals) |
 | 219 | [functools](219_functools) |
 | 220 | [pathlib](220_Pathlib) |
+| 221 | [time module and NTP](221_time_module) |
+
 

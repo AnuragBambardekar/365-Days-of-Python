@@ -174,6 +174,7 @@
 - https://www.youtube.com/watch?v=B9yM53qkbW0 - functools <br>
 - https://www.youtube.com/shorts/qu_8RxcKMJg - Set confuser <br>
 - https://www.youtube.com/watch?v=FlPd1BP_cVc - pathlib tutorial <br>
+- https://www.youtube.com/watch?v=Qj3GlL5ckQA - time module <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
