@@ -17,210 +17,209 @@
 | 13 | [Multiprocessing in Python - Processing fetched Images](13_Multiprocessing_in_python) |
 | 14 | [First 50 Armstrong Numbers (Digital Invariant) in Python](14_First50_Armstrong_numbers) |
 | 15 | [Fibonacci Sequence using Memoization](15_Fibonacci_sequence) |
+| 16 | [Finding the day a date falls on using datetime library and Zeller's Congruence method](16_Find_day_a_date_falls_on) |
+| 17 | [Determine whether a year is a Leap Year](17_Leap_year) |
+| 18 | [Regular Expressions (Email Validation, Punctuation remover/extractor)](18_Regular_Expressions) |
+| 19 | [Using Turtle for Interactive learning in Python](19_Turtle_Tutorial) |
+| 20 | [Font Families in Python](20_FontFamilies_in_python) |
+| 21 | [Countdown Timer](21_CountdownTimer) |
+| 22 | [Sympy Library of Python](22_Sympy_library_with_LaTeX) |
+| 23 | [Finding Factorial of a number using different methodologies and also using Memoization](23_Factorial) |
+| 24 | [ANSI Colors](24_ConsoleColors) |
+| 25 | [ASCII Text and Art](25_ASCII_Text_&_Art) |
+| 26 | [Case Types and Naming conventions in Python](26_CaseTypesAndNamingConventions) |
+| 27 | [Text to Binary and vice-versa](27_Text_To_Binary) |
+| 28 | [Permutations & Combinations](28_PermutationsCombinations) |
+| 29 | [Decimal To Binary & vice-versa](29_DecimalToBinary_conversions) |
+| 30 | [Decimal To Octal & vice-versa](30_DecimalToOctal_conversions) |
+| 31 | [Decimal To Hexadecimal & vice-versa](31_DecimalToHex_conversions) |
+| 32 | [Decimal to Binary 2's Complement & vice-versa](32_DecimalTo2'sComplement_conversions) |
+| 33 | [Binary Arithmetic](33_BinaryArithmetic) |
+| 34 | [Floyd's Triangle](34_Floyd'sTriangle) |
+| 35 | [Banking Interests - Simple and Compound Interests](35_BankingInterests) |
+| 36 | [Anagrams - Verify and Generate](36_Anagrams) |
+| 37 | [Video to GIF](37_VideoToGIF) |
+| 38 | [Video Frame Cropper](38_VideoCropper) |
+| 39 | [Time Zones](39_TimeZones) |
+| 40 | [Translator](40_Translator) |
+| 41 | [Disarium Number](41_Disarium_Number) |
+| 42 | [CAPTCHA - Generating Text & Audio CAPTCHA's](42_CAPTCHA) |
+| 43 | [Finding Interesting Numbers in a given range. [Prime palindromes, Perfect Squares]](43_InterestingNumbersInARange) |
+| 44 | [Hangman Game](44_Hangman) |
+| 45 | [Trigonometry Functions of Common Angles & Plots [Matplotlib, Sympy, SVG export]](45_Trigonometry) |
+| 46 | [Poker hand evaluator](46_Poker) |
+| 47 | [Resistor Color Code Calculator](47_ResistorCodes) |
+| 48 | [Ohm's Law](48_Ohm's_Law) |
+| 49 | [Decimal to Fraction Conversion (using sympy)](49_DecimalToFraction) |
+| 50 | [Sieve of Eratosthenes for finding Primes and Prime Factors](50_SieveOfEratosthenes) |
+| 51 | [Powerball Lottery Simulation](51_SimulatingPowerballLottery) |
+| 52 | [Bingo Simulation](52_BINGO) |
+| 53 | [Pytube library](53_Pytube_library) |
+| 54 | [Progress Bars](54_ProgressBars) |
+| 55 | [Working with OS Module](55_OS) |
+| 56 | [CPU and RAM usage using psutil](56_CPU_and_RAM_usage_Monitor) |
+| 57 | [File Objects](57_File_Objects) |
+| 58 | [Parsing and Renaming Files](58_Parsing_and_Renaming_files) |
+| 59 | [Image Downloader - given a user prompt](59_Image_Downloader) |
+| 60 | [Password generator](60_Password_Generator) |
+| 61 | [A simple Python Socket Demo](61_Python_Socket) |
+| 62 | [A Wordle Game Implementation in Python](62_Wordle) |
+| 63 | [AES Data Encryption](63_AES_Data_Encryption) |
+| 64 | [XML](64_XML) |
+| 65 | [RSS Feeds](65_RSS_Feeds) |
+| 66 | [Basics of Statistics - Mean, Median and Mode (Descriptive Statistics)](66_Statistics_Basics) |
+| 67 | [Percentiles & Percentages](67_Percentiles_Percentages) |
+| 68 | [FizzBuzz - A simple implementation & Algorithm analysis](68_FizzBuzz) |
+| 69 | [Sound Generator](69_SoundGenerator) |
+| 70 | [Morse Code](70_MorseCode) |
+| 71 | [Hardware Information Tool](71_Hardware_Information_Tool) |
+| 72 | [Finding Elapsed Number of days](72_Finding_Elapsed_Days) |
+| 73 | [Some Underused Features of Python - Enums](73_Underused_features_of_Python_-_Enumerate) |
+| 74 | [Generators in Python (yield keyword)](74_Generators_in_Python) |
+| 75 | [Byte Ordering in Computing](75_ByteOrdering) |
+| 76 | [Some Underused Features of Python - Match](76_Underused_features_of_Python_-_Match) |
+| 77 | [Merge PDFs](77_Merge_PDFs) |
+| 78 | [Tree Traversals](78_Tree_Traversals) |
+| 79 | [Some Underused Features of Python - For...Else](79_Underused_features_of_Python_-_For_Else) |
+| 80 | [Word Tool (Count words, characters, syllables, sentences, paragraphs.)](80_Word_Tool) |
+| 81 | [Calculate the Words typed Per Minute](81_Calculate_WPM) |
+| 82 | [The Knapsack Problem](82_Knapsack_Problem) |
+| 83 | [Screen Sharing in Python using Sockets](83_ScreenSharingInPython) |
+| 84 | [Audio Manipulation using pydub](84_Manipulating_Audio_files) |
+| 85 | [Bloom Filters & Hash Tables](85_BloomFilters) |
+| 86 | [Pie Charts using Plotly](86_Pie_Charts) |
+| 87 | [Context Managers](87_ContextManagers) |
+| 88 | [Performance of Searching Algorithms & Time Complexity Visualisation O(n) and O(n^2)](88_PerformanceOfSearchAlgos) |
+| 89 | [File Organization](89_FileOrganizing) |
+| 90 | [US Customary Units to S.I. units Conversion](90_US_Customary_Units_to_SI) |
+| 91 | [Dice Roll Simulator](91_DiceRoll_Simulator) |
+| 92 | [Knuth Morris Pratt Algorithm](92_Knuth_Morris_Pratt_Algorithm_for_pattern_matching) |
+| 93 | [Real-Time Spelling Checker](93_RealTimeSpellChecker) |
+| 94 | [Blood Pressure Calculator + Plots](94_Blood_Pressure_Calculator) |
+| 95 | [Abstract methods](95_Abstract_methods) |
+| 96 | [Scheduling Tasks/Jobs](96_Scheduling_Tasks) |
+| 97 | [Projectile Motion Simulation](97_Projectile_Motion) |
+| 98 | [Animated Charts in Python](98_Animated_Charts) |
+| 99 | [The Gold Mine Problem](99_The_Gold_Mine_Problem) |
+| 100 | [Random Jokes Generator](100_Random_Joke_Generator) |
+| 101 | [Python Secrets Module](101_Python_Secrets) |
+| 102 | [Two Factor Authentication](102_Two_Factor_Authentication) |
+| 103 | [Backslash](103_Backslash) |
+| 104 | [Autocurrying](104_Autocurrying) |
+| 105 | [Auto-clicker Bot](105_AutoClicker_bot) |
+| 106 | [Pickles in Python](106_Pickles) |
+| 107 | [Flip-Flops and Gates](107_FlipFlops_and_Gates) |
+| 108 | [Stacks & Queues](108_Stacks_and_Queues) |
+| 109 | [Sorting Algorithms](109_Basic_sorting_Algorithms) |
+| 110 | [Importing Python Modules](110_Importing_Modules) |
+| 111 | [About URLs](111_URLs) |
+| 112 | [Simple File Operations on: .txt, .json, .csv and .xml](112_Simple_File_Operations) |
+| 113 | [Hiding Information in JPEG's](113_Hiding_information_in_JPEG) |
+| 114 | [Advanced Hiding Information in PNG's](114_Advanced_hiding_information_in_PNG) |
+| 115 | [Monte Carlo Methods](115_Monte_Carlo_Methods) |
+| 116 | [Calling C code from Python using ctypes library](116_Calling_C_from_Python) |
+| 117 | [Simple Sentiment Analysis bot](117_Sentiment_Analysis_Bot) |
+| 118 | [Easter Eggs in Python (Zen of Python)](118_Zen_Of_python_(Easter_eggs)) |
+| 119 | [Random Seed](119_Random_Seed) |
+| 120 | [Three-cup Monte](120_3_Cup_Monte) |
+| 121 | [RGB to HSV conversion & vice-versa](121_RGB_-_HSV) |
+| 122 | [RGB to Hex conversion + rendering the colors from Hex code](122_RBG_-_Hex) |
+| 123 | [Check whether a Website is Up or Down](123_Fetch_Website_Status) |
+| 124 | [A simple Audio Spectrum Analyzer](124_Audio_Spectrum_Visualizer) |
+| 125 | [Some Underused Features of Python - zip()](125_Underused_features_of_Python_-_zip) |
+| 126 | [Merge Video clips using moviepy](126_Merge_video_clips) |
+| 127 | [Merge PPTs using aspose](127_Merge_PPTs) |
+| 128 | [Lazy Imports in Python](128_Lazy_Imports) |
+| 129 | [Environment Variables](129_Environment_Variables) |
+| 130 | [Some Underused Features of Python - Walrus Operator](130_Underused_features_of_Python_-_Walrus_operator) |
+| 131 | [Scheduling Jupyter Notebooks to run periodically](131_Schedule_Jupyter_notebook) |
+| 132 | [Some Underused Features of Python - Sets](132_Underused_features_of_Python_-_Sets) |
+| 133 | [AsyncIO](133_asyncio) |
+| 134 | [Counters](134_Counters) |
+| 135 | [OrderedDict](135_OrderedDict) |
+| 136 | [Underscore](136_Underscore) |
+| 137 | [Operator Precedence & Associativity](137_OperatorPrecedence_And_Associativity) |
+| 138 | [Chainmaps](138_ChainMap) |
+| 139 | [NamedTuples](139_NamedTuple) |
+| 140 | [Deque](140_Deque) |
+| 141 | [UserString](141_UserString) |
+| 142 | [Monkey Patching](142_MonkeyPatching) |
+| 143 | [Minimum Coins required to make an amount](143_Coins) |
+| 144 | [Runtime Functions](144_RuntimeFunctions) |
+| 145 | [GetPass Module in Python](145_GetPass) |
+| 146 | [Six Module in Python](146_Six_Module) |
+| 147 | [cProfile](147_cProfile) |
+| 148 | [if vs elif: Micro-optimization](148_if_vs_elif) |
+| 149 | [Line Profiler](149_Line_Profiler) |
+| 150 | [Face Recognition using face_recognition module](150_Face_Recognition_with_dlib) |
+| 151 | [Polar plots](151_Polar_plots) |
+| 152 | [Clock using Matplotlib](152_Clock_using_matplotlib) |
+| 153 | [Year Progress Tracker using tqdm](153_Year_progress) |
+| 154 | [Day Progress Tracker using progress](154_Day_Progress_Tracker) |
+| 155 | [Base64 Encoding Binary Files](155_Base64_Encoding) |
+| 156 | [Fuzzy String Matching](156_Fuzzy_String_matching) |
+| 157 | [Voice Recorder - Executable file also available (.exe)](157_Voice_Recorder) |
+| 158 | [TimeZone Converter [EST to Any TimeZone]](158_TimeZone_Converter) |
+| 159 | [Advanced TimeZone Converter [with time difference calculation]](159_Advanced_TimeZone_Converter) |
+| 160 | [Pomodoro Timer](160_Pomodoro_Timer) |
+| 161 | [Color Palette Generator](161_Color_Palette_generator) |
+| 162 | [API's using Flask [HTTP methods]](162_Flask_APIs) |
+| 163 | [Time Tracker](163_Time_tracker) |
+| 164 | [RSA Public and Private Keys](164_RSA) |
+| 165 | [Speed, Distance and Time Calculator](165_Speed_Distance_Time) |
+| 166 | [ipaddress module](166_ipaddress_module) |
+| 167 | [Calendar module](167_Calendar_module) |
+| 168 | [Zodiac sign calculator](168_Zodiac_signs) |
+| 169 | [Lambda function](169_Lambda_functions) |
+| 170 | [Getting the dominant color from an image](170_Extracting_Dominant_colors_from_images) |
+| 171 | [Bulls and Cows](171_Bulls_and_Cows) |
+| 172 | [Generating actually random numbers](172_Actually_Random_numbers) |
+| 173 | [File Transfer using Sockets](173_File_Transfer_using_Sockets) |
+| 174 | [Color name detector](174_Color_name_detector) |
+| 175 | [Diff checker Tool](175_Diff_checker) |
+| 176 | ['any' and 'all' functions](176_Any_and_All) |
+| 177 | [Simple Task Manager [View and Kill Processes]](177_Task_Manager) |
+| 178 | [Capturing stdout using contextlib](178_Capture_stdout_using_contextlib) |
+| 179 | [Convert CLI args to specific types](179_argparse) |
+| 180 | [Matrix Rain](180_Falling_Code_cmatrix) |
+| 181 | [Mathematical Equation Solver [Quadratic, Linear, Cubic, System of Equations]](181_Equation_Solver) |
+| 182 | [Learning about openpyxl - Graphs, Charts, simple operations](182_Openpyxl) |
+| 183 | [Using struct in python [to package data] - with sockets](183_struct) |
+| 184 | [Dunder Methods](184_Dunder_methods) |
+| 185 | [Timing Context Managers - Class Based vs Generator Based](185_Timing_Context_Managers) |
+| 186 | [Ellipsis (...) object](186_Underused_fetaures_of_Python_-_Ellipsis) |
+| 187 | [Slice function](187_Slice) |
+| 188 | [TypedDict](188_TypedDict) |
+| 189 | [Bisect Algorithm](189_Bisect) |
+| 190 | [Duck Typing, ABC and Protocols](190_Protocols) |
+| 191 | [Speed Test](191_SpeedTest) |
+| 192 | [Type Annotations](192_Type_Annotations) |
+| 193 | [Assertions](193_Assertion) |
+| 194 | [Shelve](194_Shelve) |
+| 195 | [Shellingham](195_Shellingham) |
+| 196 | [Venn Diagrams using matplotlib_venn](196_Venn_Diagram) |
+| 197 | [Immediately Invoked Function Expression](197_IIFE) |
+| 198 | [Reversing](198_Reversing) |
+| 199 | [exec() vs eval() and compile()](199_Exec_vs_Eval) |
+| 200 | [200 OK - 200 Days Completed!!](200_200_OK) |
+| 201 | [Decorators](201_Decorators) |
+| 202 | [defaultdict](202_Defaultdict) |
+| 203 | [Generate Fake Data using Faker](203_Professional_Sample_data) |
+| 204 | [itertools](204_itertools) |
+| 205 | [Exception Groups](205_Exception_groups) |
+| 206 | [Comparing Floats](206_Comparing_Floats) |
+| 207 | [Formatted Tables](207_Formatted_tables) |
+| 208 | [Python Debugger](208_Python_Debugger) |
+| 209 | [Disassembler](209_Disassembler) |
+| 210 | [Loguru](210_Loguru) |
+| 211 | [Cython](211_Cython) |
+| 212 | [Logging](212_Logging) |
+| 213 | [FTP Server](213_FTP_server) |
+| 214 | [Emojis](214_Emojis) |
+| 215 | [Extracting content from PDF](215_Extract_Content_from_PDF) |
+| 216 | ["is" vs "==" ](216_is_vs_==) |
+| 217 | [Word file processing](217_Word_File_Processing) |
+| 218 | [Globals](218_Globals) |
+| 219 | [functools](219_functools) |
+| 220 | [pathlib](220_Pathlib) |
 
-
-**Program 16:** Finding the day a date falls on using datetime library and Zeller's Congruence method <br>
-**Program 17:** Determine whether a year is a Leap Year <br>
-**Program 18:** Regular Expressions (Email Validation, Punctuation remover/extractor)<br>
-**Program 19:** Using Turtle for Interactive learning in Python <br>
-**Program 20:** Font Families in Python <br>
-**Program 21:** Countdown Timer <br>
-**Program 22:** Sympy Library of Python <br>
-**Program 23:** Finding Factorial of a number using different methodologies and also using Memoization <br>
-**Program 24:** ANSI Colors <br>
-**Program 25:** ASCII Text and Art <br>
-**Program 26:** Case Types and Naming conventions in Python <br>
-**Program 27:** Text to Binary and vice-versa <br>
-**Program 28:** Permutations & Combinations <br>
-**Program 29:** Decimal To Binary & vice-versa <br>
-**Program 30:** Decimal To Octal & vice-versa <br>
-**Program 31:** Decimal To Hexadecimal & vice-versa <br>
-**Program 32:** Decimal to Binary 2's Complement & vice-vera <br>
-**Program 33:** Binary Arithmetic <br>
-**Program 34:** Floyd's Triangle <br>
-**Program 35:** Banking Interests [Simple and Compound Interests] <br>
-**Program 36:** Anagrams [Verify and Generate] <br>
-**Program 37:** Video to GIF <br>
-**Program 38:** Video Frame Cropper <br>
-**Program 39:** Time Zones <br>
-**Program 40:** Translator <br>
-**Program 41:** Disarium Number <br>
-**Program 42:** CAPTCHA - Generating Text & Audio CAPTCHA's<br>
-**Program 43:** Finding Interesting Numbers in a given range. [Prime palindromes, Perfect Squares]<br>
-**Program 44:** Hangman Game <br>
-**Program 45:** Trigonometry Functions of Common Angles & Plots [Matplotlib, Sympy, SVG export] <br>
-**Program 46:** Poker hand evaluator <br>
-**Program 47:** Resistor Color Code Calculator <br>
-**Program 48:** Ohm's Law <br>
-**Program 49:** Decimal to Fraction Conversion (using sympy) <br>
-**Program 50:** Sieve of Eratosthenes for finding Primes and Prime Factors <br>
-**Program 51:** Powerball Lottery Simulation <br>
-**Program 52:** Bingo Simulation <br>
-**Program 53:** Pytube library <br>
-**Program 54:** Progress Bars <br>
-**Program 55:** Working with OS Module <br>
-**Program 56:** CPU and RAM usage using psutil <br>
-**Program 57:** File Objects <br>
-**Program 58:** Parsing and Renaming Files <br>
-**Program 59:** Image Downloader - given a user prompt <br>
-**Program 60:** Password generator <br>
-**Program 61:** A simple Python Socket Demo <br>
-**Program 62:** A Wordle Game Implementation in Python <br>
-**Program 63:** AES Data Encryption <br>
-**Program 64:** XML <br>
-**Program 65:** RSS Feeds <br>
-**Program 66:** Basics of Statistics - Mean, Median and Mode (Descriptive Statistics) <br>
-**Program 67:** Percentiles & Percentages <br>
-**Program 68:** FizzBuzz - A simple implementation & Algorithm analysis <br>
-**Program 69:** Sound Generator <br>
-**Program 70:** Morse Code <br>
-**Program 71:** Hardware Information Tool <br>
-**Program 72:** Finding Elapsed Number of days <br>
-**Program 73:** Some Underused Features of Python - Enums <br>
-**Program 74:** Generators in Python (yield keyword) <br>
-**Program 75:** Byte Ordering in Computing <br>
-**Program 76:** Some Underused Features of Python - Match <br>
-**Program 77:** Merge PDFs <br>
-**Program 78:** Tree Traversals <br>
-**Program 79:** Some Underused Features of Python - For...Else <br>
-**Program 80:** Word Tool (Count words, characters, syllables, sentences, paragraphs.) <br>
-**Program 81:** Calculate the Words typed Per Minute <br>
-**Program 82:** The Knapsack Problem <br>
-**Program 83:** Screen Sharing in Python using Sockets <br>
-**Program 84:** Audio Manipulation using pydub <br>
-**Program 85:** Bloom Filters & Hash Tables <br>
-**Program 86:** Pie Charts using Plotly <br>
-**Program 87:** Context Managers <br>
-**Program 88:** Performance of Searching Algorithms & Time Complexity Visualisation [O(n) and O(n^2)] <br>
-**Program 89:** File Organization <br>
-**Program 90:** US Customary Units to S.I. units Conversion <br>
-**Program 91:** Dice Roll Simulator <br>
-**Program 92:** Knuth Morris Pratt Algorithm <br>
-**Program 93:** Real-Time Spelling Checker <br>
-**Program 94:** Blood Pressure Calculator + Plots <br>
-**Program 95:** Abstract methods <br>
-**Program 96:** Scheduling Tasks/Jobs <br>
-**Program 97:** Projectile Motion Simulation <br>
-**Program 98:** Animated Charts in Python <br>
-**Program 99:** The Gold Mine Problem <br>
-**Program 100:** Random Jokes Generator <br>
-**Program 101:** Python Secrets Module <br>
-**Program 102:** Two Factor Authentication <br>
-**Program 103:** Backslash <br>
-**Program 104:** Autocurrying <br>
-**Program 105:** Auto-clicker Bot <br>
-**Program 106:** Pickles in Python <br>
-**Program 107:** Flip-Flops and Gates <br>
-**Program 108:** Stacks & Queues <br>
-**Program 109:** Sorting Algorithms <br>
-**Program 110:** Importing Python Modules <br>
-**Program 111:** About URLs <br>
-**Program 112:** Simple File Operations on: .txt, .json, .csv and .xml <br>
-**Program 113:** Hiding Information in JPEG's <br>
-**Program 114:** Advanced Hiding Information in PNG's <br>
-**Program 115:** Monte Carlo Methods <br>
-**Program 116:** Calling C code from Python using ctypes library <br>
-**Program 117:** Simple Sentiment Analysis bot <br>
-**Program 118:** Easter Eggs in Python (Zen of Python) <br>
-**Program 119:** Random Seed <br>
-**Program 120:** Three-cup Monte <br>
-**Program 121:** RGB to HSV conversion & vice-versa <br>
-**Program 122:** RGB to Hex conversion + rendering the colors from Hex code <br>
-**Program 123:** Check whether a Website is Up or Down <br>
-**Program 124:** A simple Audio Spectrum Analyzer <br>
-**Program 125:** Some Underused Features of Python - zip() <br>
-**Program 126:** Merge Video clips using moviepy <br>
-**Program 127:** Merge PPTs using aspose <br>
-**Program 128:** Lazy Imports in Python <br>
-**Program 129:** Environment Variables <br>
-**Program 130:** Some Underused Features of Python - Walrus Operator <br>
-**Program 131:** Scheduling Jupyter Notebooks to run periodically <br>
-**Program 132:** Some Underused Features of Python - Sets <br>
-**Program 133:** AsyncIO <br>
-**Program 134:** Counters <br>
-**Program 135:** OrderedDict <br>
-**Program 136:** Underscore <br>
-**Program 137:** Operator Precedence & Associativity <br>
-**Program 138:** Chainmaps <br>
-**Program 139:** NamedTuples <br>
-**Program 140:** Deque <br>
-**Program 141:** UserString <br>
-**Program 142:** Monkey Patching <br>
-**Program 143:** Minimum Coins required to make an amount <br>
-**Program 144:** Runtime Functions <br>
-**Program 145:** GetPass Module in Python <br>
-**Program 146:** Six Module in Python <br>
-**Program 147:** cProfile <br>
-**Program 148:** if vs elif: Micro-optimization <br>
-**Program 149:** Line Profiler <br>
-**Program 150:** Face Recognition using face_recognition module <br>
-**Program 151:** Polar plots <br>
-**Program 152:** Clock using Matplotlib <br>
-**Program 153:** Year Progress Tracker using tqdm <br>
-**Program 154:** Day Progress Tracker using progress <br>
-**Program 155:** Base64 Encoding Binary Files <br>
-**Program 156:** Fuzzy String Matching <br>
-**Program 157:** Voice Recorder - Executable file also available (.exe) <br>
-**Program 158:** TimeZone Converter [EST to Any TimeZone] <br>
-**Program 159:** Advanced TimeZone Converter [with time difference calculation] <br>
-**Program 160:** Pomodoro Timer <br>
-**Program 161:** Color Palette Generator <br>
-**Program 162:** API's using Flask [HTTP methods] <br>
-**Program 163:** Time Tracker <br>
-**Program 164:** RSA Public and Private Keys <br>
-**Program 165:** Speed, Distance and Time Calculator <br>
-**Program 166:** ipaddress module <br>
-**Program 167:** Calendar module <br>
-**Program 168:** Zodiac sign calculator <br>
-**Program 169:** Lambda function <br>
-**Program 170:** Getting the dominant color from an image <br>
-**Program 171:** Bulls and Cows <br>
-**Program 172:** Generating actually random numbers <br>
-**Program 173:** File Transfer using Sockets <br>
-**Program 174:** Color name detector <br>
-**Program 175:** Diff checker Tool <br>
-**Program 176:** 'any' and 'all' functions <br>
-**Program 177:** Simple Task Manager [View and Kill Processes] <br>
-**Program 178:** Capturing stdout using contextlib <br>
-**Program 179:** Convert CLI args to specific types <br>
-**Program 180:** Matrix Rain <br>
-**Program 181:** Mathematical Equation Solver [Quadratic, Linear, Cubic, System of Equations] <br>
-**Program 182:** Learning about openpyxl - Graphs, Charts, simple operations <br>
-**Program 183:** Using struct in python [to package data] - with sockets <br>
-**Program 184:** Dunder Methods <br>
-**Program 185:** Timing Context Managers - Class Based vs Generator Based <br>
-**Program 186:** Ellipsis (...) object <br>
-**Program 187:** Slice function <br>
-**Program 188:** TypedDict <br>
-**Program 189:** Bisect Algorithm <br>
-**Program 190:** Duck Typing, ABC and Protocols <br>
-**Program 191:** Speed Test <br>
-**Program 192:** Type Annotations <br>
-**Program 193:** Assertions <br>
-**Program 194:** Shelve <br>
-**Program 195:** Shellingham <br>
-**Program 196:** Venn Diagrams using matplotlib_venn <br>
-**Program 197:** Immediately Invoked Function Expression <br>
-**Program 198:** Reversing <br>
-**Program 199:** exec() vs eval() and compile() <br>
-**Program 200:** 200 OK - 200 Days Completed!! <br>
-**Program 201:** Decorators <br>
-**Program 202:** defaultdict <br>
-**Program 203:** Generate Fake Data using Faker <br>
-**Program 204:** itertools <br>
-**Program 205:** Exception Groups <br>
-**Program 206:** Comparing Floats <br>
-**Program 207:** Formatted Tables <br>
-**Program 208:** Python Debugger <br>
-**Program 209:** Disassembler <br>
-**Program 210:** Loguru <br>
-**Program 211:** Cython <br>
-**Program 212:** Logging <br>
-**Program 213:** FTP Server <br>
-**Program 214:** Emojis <br>
-**Program 215:** Extracting content from PDF <br>
-**Program 216:** "is" vs "==" <br>
-**Program 217:** Word file processing <br>
-**Program 218:** Globals <br>
-**Program 219:** functools <br>
-**Program 220:** pathlib <br>
