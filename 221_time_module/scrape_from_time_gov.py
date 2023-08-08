@@ -1,14 +1,29 @@
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 
-url = "https://time.gov/"
-headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+options = Options()
+options.add_experimental_option("detach", True)
 
-r = requests.get(url=url, headers=headers)
-# print(r)
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
+                          options=options)
 
-soup = BeautifulSoup(r.content, 'html.parser')
-# print(soup)
+driver.get("https://www.time.gov/")
+driver.maximize_window()
 
-time_text_element = soup.findAll('div', class_='time-text')
-print(time_text_element)
+# Wait for the clock to load (you might need to adjust the time if necessary)
+import time
+time.sleep(5)  # Wait for 5 seconds
+
+# Find the clock element and extract the time
+clock_elem = driver.find_elements("xpath", "//div[@class='clock time-text']")
+# time_text = clock_elem.find_element("time").text
+
+# print("Current time:", clock_elem)
+
+for elem in clock_elem:
+    print(elem.get_attribute("innerHTML"))
+
+# Close the browser
+driver.quit()
