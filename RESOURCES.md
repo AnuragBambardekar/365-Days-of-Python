@@ -176,6 +176,7 @@
 - https://www.youtube.com/watch?v=FlPd1BP_cVc - pathlib tutorial <br>
 - https://www.youtube.com/watch?v=Qj3GlL5ckQA - time module <br>
 - https://www.youtube.com/watch?v=xtFo1IiZqzM - Processing huge datasets <br>
+- https://www.youtube.com/watch?v=bZ5G-RZoE6Q - Numba <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
