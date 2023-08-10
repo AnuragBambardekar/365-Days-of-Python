@@ -6,6 +6,8 @@ Numba and Cython are both tools used to optimize and accelerate Python code, par
 
 Numba is a Just-In-Time (JIT) compiler for Python that specializes in numeric and scientific code. It allows you to write Python functions and decorate them with the ```@jit``` decorator to enable automatic compilation to machine code using *LLVM*. Numba primarily focuses on numerical computations and can accelerate code that heavily uses NumPy arrays and mathematical operations.
 
+Numba is a Just-In-Time (JIT) compiler for Python that translates portions of your Python code into machine code to achieve significant performance improvements. It's designed primarily for numerical and scientific computing tasks, aiming to bridge the gap between the ease of writing Python code and the performance of compiled languages like C or Fortran.
+
 ```
 LLVM (Low-Level Virtual Machine) is a collection of modular and reusable compiler and toolchain technologies. It's designed to optimize and compile programming languages into machine code, making them run efficiently on various architectures. LLVM provides a foundation for building compilers, code analyzers, and other software tools related to programming languages and code optimization.
 ```
