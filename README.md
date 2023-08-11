@@ -226,4 +226,5 @@
 | 222 | [Processing Huge Datasets and Files](222_Processing_huge_datasets_and_files) |
 | 223 | [Numba](223_Numba) |
 | 224 | [IPv6 Sockets](224_IPv6_Sockets) |
+| 225 | [Access Modifiers](225_Access_modifiers) |
 
