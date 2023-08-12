@@ -227,4 +227,5 @@
 | 223 | [Numba](223_Numba) |
 | 224 | [IPv6 Sockets](224_IPv6_Sockets) |
 | 225 | [Access Modifiers](225_Access_modifiers) |
+| 226 | [Slots for Classes](226_Slots) |
 

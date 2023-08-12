@@ -179,6 +179,7 @@
 - https://www.youtube.com/watch?v=bZ5G-RZoE6Q - Numba <br>
 - https://www.youtube.com/watch?v=BoIDEMerNn0 - Using IPv6 Sockets <br>
 - https://www.youtube.com/watch?v=43FK20rWvKQ - Access Modifiers <br>
+- https://www.youtube.com/watch?v=1UBr94hg0FE - Slots in python <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
