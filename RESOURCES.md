@@ -180,6 +180,7 @@
 - https://www.youtube.com/watch?v=BoIDEMerNn0 - Using IPv6 Sockets <br>
 - https://www.youtube.com/watch?v=43FK20rWvKQ - Access Modifiers <br>
 - https://www.youtube.com/watch?v=1UBr94hg0FE - Slots in python <br>
+- https://www.youtube.com/watch?v=8SLk_uRRcgc - Simulating real-life processes using Simpy <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
