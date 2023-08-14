@@ -229,5 +229,5 @@
 | 225 | [Access Modifiers](225_Access_modifiers) |
 | 226 | [Slots for Classes](226_Slots) |
 | 227 | [Simulating Real-life processes](227_Simulating_real_life_processes) |
-| 228 | [Makefiles](227_Simulating_real_life_processes) |
+| 228 | [Using & Creating Makefiles](228_Creating_Makefiles) |
 
