@@ -5,3 +5,7 @@ a = ["one",
      "five"]
 
 print(len(a))
+
+"""
+Concatenation!
+"""
