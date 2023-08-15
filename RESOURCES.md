@@ -182,6 +182,7 @@
 - https://www.youtube.com/watch?v=1UBr94hg0FE - Slots in python <br>
 - https://www.youtube.com/watch?v=8SLk_uRRcgc - Simulating real-life processes using Simpy <br>
 - https://realpython.com/simpy-simulating-with-python/ - simpy simulation tutorial <br>
+- https://www.youtube.com/watch?v=ZW-TWrEF6qc - Top 10 One-liners <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
