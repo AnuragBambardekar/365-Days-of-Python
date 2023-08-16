@@ -231,4 +231,5 @@
 | 227 | [Simulating Real-life processes](227_Simulating_real_life_processes) |
 | 228 | [Using & Creating Makefiles](228_Creating_Makefiles) |
 | 229 | [Python One-liners](229_One_liners) |
+| 230 | [Glob](230_Glob) |
 
