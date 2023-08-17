@@ -184,6 +184,7 @@
 - https://realpython.com/simpy-simulating-with-python/ - simpy simulation tutorial <br>
 - https://www.youtube.com/watch?v=ZW-TWrEF6qc - Top 10 One-liners <br>
 - https://www.youtube.com/watch?v=tATFQUx0Zx0 - globs in python <br>
+- https://www.youtube.com/watch?v=BXPzbH0LYz4 - requirements.txt <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
