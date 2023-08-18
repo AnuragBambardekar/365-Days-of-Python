@@ -187,6 +187,8 @@
 - https://www.youtube.com/watch?v=BXPzbH0LYz4 - requirements.txt <br>
 - https://www.youtube.com/watch?v=Q2d1tYvTjRw - Automated Video Editing with MoviePy in Python <br>
 - https://www.youtube.com/watch?v=io46L1Nl3hU - Custom animations in video using moviepy <br>
+- https://www.youtube.com/watch?v=p293_8oYXL4 - Split screen videos using moviepy <br>
+
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter
