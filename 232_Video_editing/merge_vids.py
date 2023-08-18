@@ -1,5 +1,7 @@
 from moviepy.editor import VideoFileClip, concatenate_videoclips, vfx, AudioFileClip, afx, CompositeAudioClip
 
+# clips should be of same resolution - do it with ffmpeg to preserve audio
+
 clip1 = VideoFileClip("./one_ffmpeg_resize.mp4").subclip(0,10).fx(vfx.fadein, 1).fx(vfx.fadeout, 1)
 clip2 = VideoFileClip("./two_ffmpeg_resize.mp4").subclip(0,20)
 clip3 = VideoFileClip("./three_ffmpeg_resize.mp4").subclip(0,20).fx(vfx.fadein, 1).fx(vfx.fadeout, 1)

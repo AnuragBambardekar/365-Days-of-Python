@@ -185,6 +185,7 @@
 - https://www.youtube.com/watch?v=ZW-TWrEF6qc - Top 10 One-liners <br>
 - https://www.youtube.com/watch?v=tATFQUx0Zx0 - globs in python <br>
 - https://www.youtube.com/watch?v=BXPzbH0LYz4 - requirements.txt <br>
+- https://www.youtube.com/watch?v=Q2d1tYvTjRw - Automated Video Editing with MoviePy in Python <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
