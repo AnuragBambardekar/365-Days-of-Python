@@ -190,6 +190,9 @@
 - https://www.youtube.com/watch?v=p293_8oYXL4 - Split screen videos using moviepy <br>
 - https://www.youtube.com/watch?v=8lhxIOAfDss - Recursion Super Power <br>
 - https://www.youtube.com/watch?v=PGuRmqpr6Oo - Key to the Tower of Hanoi <br>
+- https://www.youtube.com/watch?v=2JaLQf9JmTA - why you should use: if `__name__` == "`__main__`"
+- https://realpython.com/if-name-main-python/ - name-main idiom <br>
+
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter

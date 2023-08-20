@@ -235,4 +235,5 @@
 | 231 | [Requirements.txt Generator](231_Generating_requirements_txt_file) |
 | 232 | [Automated Video Editing](232_Video_editing) |
 | 233 | [Tower of Hanoi](233_Tower_of_Hanoi) |
+| 234 | [if `__name__` == "`__main__`"](234_name-main_idiom) |
 
