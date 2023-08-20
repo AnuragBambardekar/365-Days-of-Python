@@ -17,3 +17,12 @@ As a result, there can be small rounding errors when performing arithmetic opera
 In your case, the numbers 0.1 and 0.2 cannot be represented exactly in binary, so when you add them together, 
 you get a slight rounding error, leading to a result like 0.30000000000000004 instead of the exact 0.3.
 """
+
+print(0.7+0.6) # 1.2999999999999998
+
+balance = 0.7+0.6
+if balance >= 1.3:
+    balance -= 1.3
+    print('Purchase successful!')
+else:
+    print('Insufficient funds!')
