@@ -192,6 +192,7 @@
 - https://www.youtube.com/watch?v=PGuRmqpr6Oo - Key to the Tower of Hanoi <br>
 - https://www.youtube.com/watch?v=2JaLQf9JmTA - why you should use: if `__name__` == "`__main__`"
 - https://realpython.com/if-name-main-python/ - name-main idiom <br>
+- https://realpython.com/python-asterisk-and-slash-special-parameters/ - Special Parameters tutorial <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
