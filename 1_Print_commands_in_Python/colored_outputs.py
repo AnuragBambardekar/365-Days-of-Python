@@ -1,0 +1,7 @@
+print("\033[90mThis is a color")
+print("\033[91mThis is a color")
+print("\033[92mThis is a color")
+print("\033[93mThis is a color")
+print("\033[94mThis is a color")
+print("\033[95mThis is a color")
+print("\033[96mThis is a color")
