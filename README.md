@@ -237,4 +237,5 @@
 | 233 | [Tower of Hanoi](233_Tower_of_Hanoi) |
 | 234 | [if `__name__` == "`__main__`"](234_name-main_idiom) |
 | 235 | [Asterisk and Slash](235_Asterisk_and_Slash) |
+| 236 | [Cached Property for faster Python Classes](236_Cached_Property) |
 

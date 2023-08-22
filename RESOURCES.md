@@ -193,6 +193,7 @@
 - https://www.youtube.com/watch?v=2JaLQf9JmTA - why you should use: if `__name__` == "`__main__`"
 - https://realpython.com/if-name-main-python/ - name-main idiom <br>
 - https://realpython.com/python-asterisk-and-slash-special-parameters/ - Special Parameters tutorial <br>
+- https://www.youtube.com/watch?v=YoWnWqp4BKM - https://www.youtube.com/watch?v=YoWnWqp4BKM <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
