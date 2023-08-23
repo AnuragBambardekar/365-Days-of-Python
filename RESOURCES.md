@@ -194,6 +194,7 @@
 - https://realpython.com/if-name-main-python/ - name-main idiom <br>
 - https://realpython.com/python-asterisk-and-slash-special-parameters/ - Special Parameters tutorial <br>
 - https://www.youtube.com/watch?v=YoWnWqp4BKM - https://www.youtube.com/watch?v=YoWnWqp4BKM <br>
+- https://www.youtube.com/watch?v=kErCTr9dwlk - Caching API requests <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
