@@ -195,6 +195,7 @@
 - https://realpython.com/python-asterisk-and-slash-special-parameters/ - Special Parameters tutorial <br>
 - https://www.youtube.com/watch?v=YoWnWqp4BKM - https://www.youtube.com/watch?v=YoWnWqp4BKM <br>
 - https://www.youtube.com/watch?v=kErCTr9dwlk - Caching API requests <br>
+- https://www.youtube.com/watch?v=n8ebYr25LO0 - Controlling PC volume using Python <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
