@@ -240,4 +240,5 @@
 | 236 | [Cached Property for faster Python Classes](236_Cached_Property) |
 | 237 | [Caching API Requests](237_Caching_API_Requests) |
 | 238 | [Controlling PC Volume](238_Control_PC_volume) |
+| 238 | [CLI's using Click](238_Control_PC_volume) |
 
