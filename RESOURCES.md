@@ -198,6 +198,7 @@
 - https://www.youtube.com/watch?v=n8ebYr25LO0 - Controlling PC volume using Python <br>
 - https://www.youtube.com/watch?v=KSQ4KxCtsf8 - Colored Logging <br>
 - https://www.youtube.com/watch?v=vJIXr4Kx5oo - CLI's in python using click <br>
+- https://www.youtube.com/watch?v=f-elvwTlYCI - TypeAlias in Python <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
