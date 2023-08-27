@@ -242,4 +242,6 @@
 | 238 | [Controlling PC Volume](238_Control_PC_volume) |
 | 239 | [CLI's using Click](239_Creating_CLIs) |
 | 240 | [TypeAlias](240_TypeAlias-ing) |
+| 241 | [Pretty Error Messages](241_Pretty_Error_Messages) |
+
 
