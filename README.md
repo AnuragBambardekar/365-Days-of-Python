@@ -244,5 +244,6 @@
 | 240 | [TypeAlias](240_TypeAlias-ing) |
 | 241 | [Pretty Error Messages](241_Pretty_Error_Messages) |
 | 242 | [Lorem Ipsum Generator](242_Lorem_Ipsum_Generator) |
+| 243 | [Credit Card Validator](243_Credit_Card_Validator) |
 
 
