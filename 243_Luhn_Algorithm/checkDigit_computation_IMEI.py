@@ -36,6 +36,8 @@ total = sum_odd_digits + sum_even_digits
 if (total % 10) != 0:
     ceil_val = math.ceil(total / 10) * 10
     difference = ceil_val - total
+else:
+    difference = 0
 
 print(f"Check Digit is: {difference}")
 print(f"IMEI is: {card_num}-{difference}")
