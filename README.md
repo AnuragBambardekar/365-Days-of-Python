@@ -245,5 +245,4 @@
 | 241 | [Pretty Error Messages](241_Pretty_Error_Messages) |
 | 242 | [Lorem Ipsum Generator](242_Lorem_Ipsum_Generator) |
 | 243 | [Luhn Algorithm and its applications](243_Luhn_Algorithm) |
-
-
+| 244 | [Dinosaur Game Bot](244_Dinosaur_Game_Bot) |
