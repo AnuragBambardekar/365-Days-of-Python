@@ -246,3 +246,4 @@
 | 242 | [Lorem Ipsum Generator](242_Lorem_Ipsum_Generator) |
 | 243 | [Luhn Algorithm and its applications](243_Luhn_Algorithm) |
 | 244 | [Dinosaur Game Bot](244_Dinosaur_Game_Bot) |
+| 245 | [Finding Screen Coordinates](245_Coordinate_Checker) |
