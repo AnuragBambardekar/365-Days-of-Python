@@ -247,3 +247,4 @@
 | 243 | [Luhn Algorithm and its applications](243_Luhn_Algorithm) |
 | 244 | [Dinosaur Game Bot](244_Dinosaur_Game_Bot) |
 | 245 | [Finding Screen Coordinates](245_Coordinate_Checker) |
+| 246 | [Reaction Timer Game](246_Reaction_timer_game) |
