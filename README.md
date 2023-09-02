@@ -248,3 +248,4 @@
 | 244 | [Dinosaur Game Bot](244_Dinosaur_Game_Bot) |
 | 245 | [Finding Screen Coordinates](245_Coordinate_Checker) |
 | 246 | [Reaction Timer Game](246_Reaction_timer_game) |
+| 247 | [Python (Snake) Game](247_Snake_Game) |
