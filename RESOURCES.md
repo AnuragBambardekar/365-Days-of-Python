@@ -201,6 +201,7 @@
 - https://www.youtube.com/watch?v=f-elvwTlYCI - TypeAlias in Python <br>
 - https://www.youtube.com/watch?v=2XOryp47mtw - Pretty Errors <br>
 - https://www.youtube.com/watch?v=rbasThWVb-c - Python Snake Game <br>
+- https://www.youtube.com/watch?v=PHdZdrMCKuY - Snake Game using pygame <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
