@@ -249,3 +249,4 @@
 | 245 | [Finding Screen Coordinates](245_Coordinate_Checker) |
 | 246 | [Reaction Timer Game](246_Reaction_timer_game) |
 | 247 | [Python (Snake) Game](247_Snake_Game) |
+| 248 | [Snooping Tools (Educational!!)](248_Snooping_Tools) |
