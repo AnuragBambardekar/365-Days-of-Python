@@ -9,3 +9,8 @@ def on_press(key):
 with Listener(on_press=on_press) as listener:
     listener.join()
 ```
+
+- Sound Recorder
+- Mouse pointer Recorder
+- Screenshot Grabber
+- Keystrokes Recorder
