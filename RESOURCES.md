@@ -202,6 +202,7 @@
 - https://www.youtube.com/watch?v=2XOryp47mtw - Pretty Errors <br>
 - https://www.youtube.com/watch?v=rbasThWVb-c - Python Snake Game <br>
 - https://www.youtube.com/watch?v=PHdZdrMCKuY - Snake Game using pygame <br>
+- https://www.youtube.com/watch?v=ms42RwgAGKQ - AFK Bot <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
