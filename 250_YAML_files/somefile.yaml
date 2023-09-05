@@ -1,0 +1,10 @@
+address:
+  city: NYC
+  country: US
+  zip: '40091'
+age: 25
+languages:
+- Python
+- C
+- Java
+name: Bob

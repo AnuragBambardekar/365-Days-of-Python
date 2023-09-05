@@ -1,0 +1,14 @@
+address: &address
+  street: 1 Burlington St
+  city: NB
+  state: NJ
+
+person1:
+  name: Bob
+  age: 25
+  address: *address
+
+person2:
+  name: Alice
+  age: 35
+  address: *address

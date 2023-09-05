@@ -251,3 +251,4 @@
 | 247 | [Python (Snake) Game](247_Snake_Game) |
 | 248 | [Snooping Tools (Educational!!)](248_Snooping_Tools) |
 | 249 | [AFK Bot](249_AFK_Bot) |
+| 250 | [Working with YAML files](250_YAML_files) |

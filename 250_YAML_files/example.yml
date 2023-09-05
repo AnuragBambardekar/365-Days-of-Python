@@ -1,0 +1,15 @@
+key: value
+
+mylist:
+    - item1
+    - item2
+    - item3
+
+mydict:
+    key1: value1
+    key2: value2
+
+multi-line-str:
+  Hello World
+  This is a
+  multi-line string
