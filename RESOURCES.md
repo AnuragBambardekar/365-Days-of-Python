@@ -203,6 +203,7 @@
 - https://www.youtube.com/watch?v=rbasThWVb-c - Python Snake Game <br>
 - https://www.youtube.com/watch?v=PHdZdrMCKuY - Snake Game using pygame <br>
 - https://www.youtube.com/watch?v=ms42RwgAGKQ - AFK Bot <br>
+- https://www.youtube.com/watch?v=BdQOFOyHgfk - System Tray Icon <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

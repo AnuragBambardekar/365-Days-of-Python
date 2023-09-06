@@ -252,3 +252,4 @@
 | 248 | [Snooping Tools (Educational!!)](248_Snooping_Tools) |
 | 249 | [AFK Bot](249_AFK_Bot) |
 | 250 | [Working with YAML files](250_YAML_files) |
+| 251 | [Windows System Tray](251_System_Trays) |
