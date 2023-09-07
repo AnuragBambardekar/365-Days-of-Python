@@ -204,6 +204,7 @@
 - https://www.youtube.com/watch?v=PHdZdrMCKuY - Snake Game using pygame <br>
 - https://www.youtube.com/watch?v=ms42RwgAGKQ - AFK Bot <br>
 - https://www.youtube.com/watch?v=BdQOFOyHgfk - System Tray Icon <br>
+- https://www.youtube.com/watch?v=k9D_8gX7t2U - Arrow module <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
