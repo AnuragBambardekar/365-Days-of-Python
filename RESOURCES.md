@@ -206,6 +206,7 @@
 - https://www.youtube.com/watch?v=BdQOFOyHgfk - System Tray Icon <br>
 - https://www.youtube.com/watch?v=k9D_8gX7t2U - Arrow module <br>
 - https://www.youtube.com/watch?v=68I-oxeJ4HE - Config files & Parsing <br>
+- https://www.youtube.com/watch?v=DSG6KGF4qJQ - More about config-parser <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
