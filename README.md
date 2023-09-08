@@ -254,3 +254,5 @@
 | 250 | [Working with YAML files](250_YAML_files) |
 | 251 | [Windows System Tray](251_System_Trays) |
 | 252 | [Working with time & date using Arrow](252_Arrow) |
+| 253 | [Config Parser](253_Config_Parser) |
+
