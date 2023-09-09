@@ -55,7 +55,7 @@
 | 51 | [Powerball Lottery Simulation](51_SimulatingPowerballLottery) |
 | 52 | [Bingo Simulation](52_BINGO) |
 | 53 | [Pytube library](53_Pytube_library) |
-| 54 | [Progress Bars](54_ProgressBars) |
+| 54 | [Progress Bars with tqdm](54_ProgressBars) |
 | 55 | [Working with OS Module](55_OS) |
 | 56 | [CPU and RAM usage using psutil](56_CPU_and_RAM_usage_Monitor) |
 | 57 | [File Objects](57_File_Objects) |
@@ -255,4 +255,5 @@
 | 251 | [Windows System Tray](251_System_Trays) |
 | 252 | [Working with time & date using Arrow](252_Arrow) |
 | 253 | [Config Parser](253_Config_Parser) |
+| 254 | [Alive Progress Bars](254_Alive_Progress_Bars) |
 
