@@ -256,4 +256,5 @@
 | 252 | [Working with time & date using Arrow](252_Arrow) |
 | 253 | [Config Parser](253_Config_Parser) |
 | 254 | [Alive Progress Bars](254_Alive_Progress_Bars) |
+| 255 | [Geolocations](255_Geolocations) |
 
