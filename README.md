@@ -257,4 +257,5 @@
 | 253 | [Config Parser](253_Config_Parser) |
 | 254 | [Alive Progress Bars](254_Alive_Progress_Bars) |
 | 255 | [Geolocations](255_Geolocations) |
+| 256 | [f-Strings](256_f_strings) |
 
