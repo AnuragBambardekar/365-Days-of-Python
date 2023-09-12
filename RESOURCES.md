@@ -210,6 +210,7 @@
 - https://github.com/rsalmei/alive-progress - alive_progress library <br>
 - https://www.youtube.com/watch?v=fYQrFuHiYtg - fstrings in python <br>
 - https://www.youtube.com/watch?v=BbGGfTP1GZQ - more fstrings in python <br>
+- https://www.youtube.com/watch?v=IN0wM0Cm_xw - BMI calculator <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
