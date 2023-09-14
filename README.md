@@ -259,4 +259,5 @@
 | 255 | [Geolocations](255_Geolocations) |
 | 256 | [f-Strings](256_f_strings) |
 | 257 | [BMI Calculator](257_BMI_Calculator) |
+| 258 | [Knight Moves](258_Chessboard_Knight) |
 
