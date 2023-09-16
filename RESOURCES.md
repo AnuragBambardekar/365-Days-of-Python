@@ -211,6 +211,7 @@
 - https://www.youtube.com/watch?v=fYQrFuHiYtg - fstrings in python <br>
 - https://www.youtube.com/watch?v=BbGGfTP1GZQ - more fstrings in python <br>
 - https://www.youtube.com/watch?v=IN0wM0Cm_xw - BMI calculator <br>
+- https://www.youtube.com/watch?v=NkmYfTl2L_Y - Connect 4 Game in Python <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
