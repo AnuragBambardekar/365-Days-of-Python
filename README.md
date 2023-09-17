@@ -261,4 +261,5 @@
 | 257 | [BMI Calculator](257_BMI_Calculator) |
 | 258 | [Knight Moves](258_Chessboard_Knight) |
 | 259 | [Connect 4](259_Connect_4) |
+| 260 | [Rotating Proxies](260_Rotating_Proxies) |
 
