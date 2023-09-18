@@ -213,6 +213,8 @@
 - https://www.youtube.com/watch?v=IN0wM0Cm_xw - BMI calculator <br>
 - https://www.youtube.com/watch?v=NkmYfTl2L_Y - Connect 4 Game in Python <br>
 - https://www.youtube.com/watch?v=FbtCl9jJyyc - Rotating proxies in Python for Web scraping <br>
+- https://github.com/Textualize/rich/tree/master/examples - Rich library examples <br>
+- https://github.com/textualize/rich/blob/master/README.md - Rich library documentation <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

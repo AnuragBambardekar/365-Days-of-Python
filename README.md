@@ -262,4 +262,4 @@
 | 258 | [Knight Moves](258_Chessboard_Knight) |
 | 259 | [Connect 4](259_Connect_4) |
 | 260 | [Rotating Proxies](260_Rotating_Proxies) |
-
+| 261 | [Rich library for Terminal Formatting](261_Rich_for_terminal_formatting) |
