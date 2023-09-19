@@ -263,3 +263,4 @@
 | 259 | [Connect 4](259_Connect_4) |
 | 260 | [Rotating Proxies](260_Rotating_Proxies) |
 | 261 | [Rich library for Terminal Formatting](261_Rich_for_terminal_formatting) |
+| 262 | [Underused Features of Python - nonlocal](262_Underused_feature_of_Python_-_nonlocal) |
