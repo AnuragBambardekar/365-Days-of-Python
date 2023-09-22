@@ -266,3 +266,4 @@
 | 262 | [Underused Features of Python - nonlocal](262_Underused_feature_of_Python_-_nonlocal) |
 | 263 | [Refresh Bot](263_Refresh_Bot) |
 | 264 | [Expression Generator](264_Expression_Generator) |
+| 265 | [Uncompressing a tar.gz file using tarfile](265_Uncompress_targz) |
