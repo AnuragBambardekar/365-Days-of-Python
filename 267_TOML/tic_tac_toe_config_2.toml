@@ -1,0 +1,17 @@
+board_size = 3
+
+[user]
+ai_skill = 0.85
+
+[user.player_x]
+symbol = "X"
+color = "blue"
+ai = true
+
+[user.player_o]
+symbol = "O"
+color = "green"
+ai = false
+
+[server]
+url = "https://tictactoe.example.com"
