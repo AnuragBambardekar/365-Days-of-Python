@@ -268,3 +268,4 @@
 | 264 | [Expression Generator](264_Expression_Generator) |
 | 265 | [Uncompressing a tar.gz file using tarfile](265_Uncompress_targz) |
 | 266 | [Rock paper Scissors](266_Rock_Paper_Scissors) |
+| 267 | [Working with TOML files](267_TOML) |
