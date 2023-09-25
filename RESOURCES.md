@@ -217,6 +217,7 @@
 - https://github.com/textualize/rich/blob/master/README.md - Rich library documentation <br>
 - https://www.geeksforgeeks.org/how-to-uncompress-a-tar-gz-file-using-python/?ref=ml_lbp - uncompress tar.gz <br>
 - https://realpython.com/python-toml/ - Working with TOML files <br>
+- https://www.youtube.com/watch?v=3NEzo3CfbPg - Secure Login System <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
