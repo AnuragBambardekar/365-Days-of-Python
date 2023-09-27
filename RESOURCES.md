@@ -219,6 +219,7 @@
 - https://realpython.com/python-toml/ - Working with TOML files <br>
 - https://www.youtube.com/watch?v=3NEzo3CfbPg - Secure Login System <br>
 - https://www.youtube.com/watch?v=i-h0CtKde6w - hashlib tutorial <br>
+- https://www.youtube.com/watch?v=xdsg-wqQCxo - The Byte that destroys <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
