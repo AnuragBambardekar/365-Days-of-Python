@@ -1,0 +1,53 @@
+{
+    "results": [
+      {
+        "id": 12345,
+        "title": "Cool T-shirt",
+        "variants": [
+          {
+            "name": "Small",
+            "sku": "bdc1234",
+            "available": false,
+            "price": 35.99
+          },
+          {
+            "name": "Medium",
+            "sku": "bdc1235",
+            "available": true,
+            "price": 39.99
+          },
+          {
+            "name": "Large",
+            "sku": "bdc1236",
+            "available": true,
+            "price": 39.99
+          }
+        ]
+      },
+      {
+        "id": 67890,
+        "title": "Fancy Hat",
+        "variants": [
+          {
+            "name": "Medium",
+            "sku": "hat56",
+            "available": "true",
+            "price": 19.99
+          },
+          {
+            "name": "Large",
+            "sku": "hat5679",
+            "available": false,
+            "price": 19.99
+          },
+          {
+            "name": "X-Large",
+            "sku": "hat5679",
+            "available": false,
+            "price": 19.99
+          }
+        ]
+      }
+    ]
+  }
+  
