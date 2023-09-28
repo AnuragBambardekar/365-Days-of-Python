@@ -272,3 +272,4 @@
 | 268 | [Secure Login System](268_SecureLoginSystem) |
 | 269 | [Hashlib](269_Hashlib) |
 | 270 | [The Invisible Byte that messes up your code](270_TheInvisibleByte) |
+| 271 | [Pydantic](271_Pydantic) |
