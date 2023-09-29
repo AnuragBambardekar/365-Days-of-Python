@@ -273,3 +273,4 @@
 | 269 | [Hashlib](269_Hashlib) |
 | 270 | [The Invisible Byte that messes up your code](270_TheInvisibleByte) |
 | 271 | [Pydantic](271_Pydantic) |
+| 272 | [PyScript - making a REPL in browser](272_PyScript) |
