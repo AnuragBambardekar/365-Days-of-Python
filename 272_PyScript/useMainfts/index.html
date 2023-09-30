@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+
+</head>
+<body>
+    <h1>PyScript Test</h1>
+
+    <!--Imports-->
+    <py-config src="./pyscript.toml"></py-config>
+    <py-script src="./main.py"></py-script>
+
+    <!--REPL-->
+    <p id="today"></p>
+    <div id="replOutput"></div>
+    <py-repl output="replOutput"></py-repl>
+
+    <!--Get Time-->
+    <button py-click="current_time()" class="py-button">
+        Get Current Time
+    </button>
+    <p id="current-time"></p>
+    <py-script>
+        import datetime
+
+        def current_time():
+            now = datetime.datetime.now()
+            paragraph = Element("current-time")
+            paragraph.write(now.strftime("%Y-%m-%d %H:%M:%S"))
+    </py-script>
+
+    <!--Calling an API-->
+    <py-script>
+        import requests
+        import pyodide_http
+
+        pyodide_http.patch_all()
+
+        response = requests.get("https://jsonplaceholder.typicode.com/todos")
+        print(response.json())
+    </py-script>
+    
+    <!--JS-->
+    <script>
+        name = "Bamba"
+        function addTwoNos(x,y) {
+            // var py = pyodide.globals.get('a_python');
+            return x+y;
+        }
+    </script>
+
+</body>
+</html>
