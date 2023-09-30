@@ -222,6 +222,7 @@
 - https://www.youtube.com/watch?v=xdsg-wqQCxo - The Byte that destroys <br>
 - https://www.youtube.com/watch?v=_1Nf9KNhsPw - Pydantic tutorial <br>
 - https://github.com/pyscript/pyscript/blob/main/examples/simple_clock.html - Pyscript examples repository <br>
+- https://www.youtube.com/watch?v=9oAYWSvMge8 - Breaking out of nested loops <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

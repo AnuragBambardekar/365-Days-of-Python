@@ -274,3 +274,4 @@
 | 270 | [The Invisible Byte that messes up your code](270_TheInvisibleByte) |
 | 271 | [Pydantic](271_Pydantic) |
 | 272 | [PyScript - making a REPL in browser](272_PyScript) |
+| 273 | [Breaking out of nested loops properly](273_BreakingOutOf_nestedLoops) |
