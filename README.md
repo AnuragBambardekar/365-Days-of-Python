@@ -276,3 +276,4 @@
 | 272 | [PyScript - making a REPL in browser](272_PyScript) |
 | 273 | [Breaking out of nested loops properly](273_BreakingOutOf_nestedLoops) |
 | 274 | [Colorama for Terminal Text formatting](274_colorama) |
+| 275 | [Understanding stdin, stderr and stdout](275_stdin_stdout_stderr) |

@@ -224,6 +224,7 @@
 - https://github.com/pyscript/pyscript/blob/main/examples/simple_clock.html - Pyscript examples repository <br>
 - https://www.youtube.com/watch?v=9oAYWSvMge8 - Breaking out of nested loops <br>
 - https://pypi.org/project/colorama/ - colorama for terminal text formatting <br>
+- https://www.youtube.com/watch?v=4HY0VBBY7ok - stdin, stderr, stdout <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
