@@ -226,6 +226,7 @@
 - https://pypi.org/project/colorama/ - colorama for terminal text formatting <br>
 - https://www.youtube.com/watch?v=4HY0VBBY7ok - stdin, stderr, stdout <br>
 - https://www.youtube.com/watch?v=3ajdzrx5NNk - pyi and stub files <br>
+- https://www.youtube.com/watch?v=JJ9zZ8cyaEk - Debugging with icecream <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
