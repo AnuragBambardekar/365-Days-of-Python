@@ -227,7 +227,7 @@
 - https://www.youtube.com/watch?v=4HY0VBBY7ok - stdin, stderr, stdout <br>
 - https://www.youtube.com/watch?v=3ajdzrx5NNk - pyi and stub files <br>
 - https://www.youtube.com/watch?v=JJ9zZ8cyaEk - Debugging with icecream <br>
-
+- https://babel.pocoo.org/en/latest/messages.html - babel documentation <br>
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter

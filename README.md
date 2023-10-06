@@ -279,4 +279,5 @@
 | 275 | [Understanding stdin, stderr and stdout](275_stdin_stdout_stderr) |
 | 276 | [stub files and pyi](276_stub_files_and_Python_interface) |
 | 277 | [Working with bat files](277_Working_with_bat_files) |
-| 278 | [icecream for debugging](277_Working_with_bat_files) |
+| 278 | [icecream for debugging](278_icecream_for_debugging) |
+| 278 | [Babel for internationalization and localization](279_Babel) |
