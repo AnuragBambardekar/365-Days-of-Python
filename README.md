@@ -281,3 +281,4 @@
 | 277 | [Working with bat files](277_Working_with_bat_files) |
 | 278 | [icecream for debugging](278_icecream_for_debugging) |
 | 279 | [Babel for internationalization and localization](279_Babel) |
+| 280 | [Generating & Decoding Barcodes](280_Barcodes) |
