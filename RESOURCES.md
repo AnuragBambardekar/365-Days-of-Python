@@ -229,6 +229,7 @@
 - https://www.youtube.com/watch?v=JJ9zZ8cyaEk - Debugging with icecream <br>
 - https://babel.pocoo.org/en/latest/messages.html - babel documentation <br>
 - https://python-barcode.readthedocs.io/en/stable/ - barcode module in python documentation <br>
+- https://inventwithpython.com/bigbookpython/project2.html - Birthday paradox simulation <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

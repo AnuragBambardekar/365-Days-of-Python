@@ -282,3 +282,4 @@
 | 278 | [icecream for debugging](278_icecream_for_debugging) |
 | 279 | [Babel for internationalization and localization](279_Babel) |
 | 280 | [Generating & Decoding Barcodes](280_Barcodes) |
+| 281 | [The Birthday Paradox and Zodiac](281_Birthday_Paradox) |
