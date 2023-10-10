@@ -231,6 +231,7 @@
 - https://python-barcode.readthedocs.io/en/stable/ - barcode module in python documentation <br>
 - https://inventwithpython.com/bigbookpython/project2.html - Birthday paradox simulation <br>
 - https://inventwithpython.com/bigbookpython/project53.html - Periodic table mini-project <br>
+- https://plotnine.readthedocs.io/en/stable/api.html - ggplot for python documentation <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
