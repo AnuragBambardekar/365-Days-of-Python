@@ -285,3 +285,4 @@
 | 281 | [The Birthday Paradox and Zodiac](281_Birthday_Paradox) |
 | 282 | [Periodic Table](282_PeriodicTable) |
 | 283 | [ggplot](283_ggplot) |
+| 284 | [del statement](284_del) |
