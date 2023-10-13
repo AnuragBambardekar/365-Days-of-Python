@@ -287,3 +287,4 @@
 | 283 | [ggplot](283_ggplot) |
 | 284 | [del statement](284_del) |
 | 285 | [zipfile module](285_zipfile) |
+| 286 | [Paint Clone](286_Paint_clone) |
