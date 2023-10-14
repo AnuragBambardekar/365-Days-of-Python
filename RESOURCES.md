@@ -234,6 +234,7 @@
 - https://plotnine.readthedocs.io/en/stable/api.html - ggplot for python documentation <br>
 - https://realpython.com/python-del-statement/ - about del statement in python <br>
 - https://realpython.com/python-zipfile/ - zipfile module tutorial <br>
+- https://realpython.com/python-doctest/ - doctest <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
