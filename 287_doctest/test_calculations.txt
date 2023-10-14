@@ -1,0 +1,13 @@
+>>> import calculations2
+
+>>> calculations2.add(2,2)
+4.0
+
+>>> calculations2.subtract(2,2)
+0.0
+
+>>> calculations2.multiply(2,2)
+4.0
+
+>>> calculations2.divide(2,2)
+1.0

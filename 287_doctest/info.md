@@ -65,3 +65,10 @@ Test passed.
 
 Running doctest with the -v option produces detailed output that describes the test-running process. The first two highlighted lines show the actual tests and their corresponding expected output. The line immediately after the expected output of each test displays the word ok, meaning that the target test passed successfully. In this example, the two tests passed, as you can confirm in the last highlighted line.
 
+## Limitations
+
+Probably the most significant limitation of doctest compared to other testing frameworks is the lack of features equivalent to fixtures in pytest or the setup and teardown mechanisms in unittest. If you ever need setup and teardown code, then you’ll have to write it in every affected docstring. Alternatively, you can use the unittest API, which provides some setup and teardown options.
+
+Another limitation of doctest is that it strictly compares the test’s expected output with the test’s actual output. The doctest module requires exact matches. If only a single character doesn’t match, then the test fails. This behavior makes it hard to test some Python objects correctly.
+
+It also goes against the test-driven development (TDD) philosophy because you’re writing the tests after you’ve written the code.
