@@ -1,0 +1,1 @@
+The filelock module in Python is a useful library for managing file locks, which can help prevent conflicts when multiple processes or threads are accessing the same file simultaneously. 
