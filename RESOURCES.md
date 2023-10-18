@@ -237,6 +237,7 @@
 - https://realpython.com/python-doctest/ - doctest <br>
 - https://realpython.com/python-project-documentation-with-mkdocs/ - mkdocs <br>
 - https://www.youtube.com/watch?v=YlUkwspocMI - File locks <br>
+- https://realpython.com/python-modulo-string-formatting/ - modulo string formatting <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
