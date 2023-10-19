@@ -239,6 +239,7 @@
 - https://www.youtube.com/watch?v=YlUkwspocMI - File locks <br>
 - https://realpython.com/python-modulo-string-formatting/ - modulo string formatting <br>
 - http://www.pymunk.org/en/latest/examples.html - pymunk examples and documentation <br>
+- https://www.youtube.com/watch?v=2o2Gu-QO0b8 - Notepad app using flet <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
