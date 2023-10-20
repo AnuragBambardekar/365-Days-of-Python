@@ -294,3 +294,4 @@
 | 290 | [Modulo String Formatting](290_Modulo_string_formatting) |
 | 291 | [pymunk](291_pymunk) |
 | 292 | [Notepad App](292_Notepad_app) |
+| 293 | [Recursion Visualizer](293_Recursion_visualizer) |

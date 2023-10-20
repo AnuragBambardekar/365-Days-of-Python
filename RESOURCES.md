@@ -240,6 +240,9 @@
 - https://realpython.com/python-modulo-string-formatting/ - modulo string formatting <br>
 - http://www.pymunk.org/en/latest/examples.html - pymunk examples and documentation <br>
 - https://www.youtube.com/watch?v=2o2Gu-QO0b8 - Notepad app using flet <br>
+- https://dev.to/bishalsarang/visualize-recursion-tree-with-animation-in-python-5357 - Visualize Recursion <br>
+- https://www.graphviz.org/download/ - Graphviz link to download <br>
+- https://github.com/Bishalsarang/Recursion-Tree-Visualizer/tree/master/examples - examples using recursion visualizer <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
