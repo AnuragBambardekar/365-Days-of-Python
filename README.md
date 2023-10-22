@@ -296,3 +296,4 @@
 | 292 | [Notepad App](292_Notepad_app) |
 | 293 | [Recursion Visualizer](293_Recursion_visualizer) |
 | 294 | [Daemon Threads](294_Daemon_threads) |
+| 295 | [Autofill Templates](295_Autofill_templates) |
