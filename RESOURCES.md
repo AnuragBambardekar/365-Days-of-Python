@@ -245,6 +245,7 @@
 - https://github.com/Bishalsarang/Recursion-Tree-Visualizer/tree/master/examples - examples using recursion visualizer <br>
 - https://www.youtube.com/watch?v=_14xnFI0Kmc - Daemon Threads <br>
 - https://www.youtube.com/watch?v=3qjEPRmge8I - Autofilling Templates <br>
+- https://www.youtube.com/watch?v=GzW5mRET_X0 - Web browser using PyQt6 <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
