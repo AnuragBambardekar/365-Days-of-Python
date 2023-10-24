@@ -298,3 +298,4 @@
 | 294 | [Daemon Threads](294_Daemon_threads) |
 | 295 | [Autofill Templates](295_Autofill_templates) |
 | 296 | [Web Browser in PyQt6](296_WebBrowser_in_PyQt6) |
+| 297 | [super()](297_super) |
