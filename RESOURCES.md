@@ -247,6 +247,7 @@
 - https://www.youtube.com/watch?v=3qjEPRmge8I - Autofilling Templates <br>
 - https://www.youtube.com/watch?v=GzW5mRET_X0 - Web browser using PyQt6 <br>
 - https://www.youtube.com/watch?v=MBbVq_FIYDA - super() <br>
+- https://realpython.com/linked-lists-python/ - linked lists <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
