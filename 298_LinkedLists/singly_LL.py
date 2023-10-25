@@ -31,6 +31,20 @@ class LinkedList:
         self.tail.next = ListNode(val)
         self.tail = self.tail.next
 
+    def addAtIndex(self, index, val):
+        i=0
+        curr=self.head
+        while i < index and curr:
+            i+=1
+            curr=curr.next
+        
+        if curr:
+            new_node = ListNode(val)
+            new_node.next = curr.next
+            curr.next = new_node
+            if not new_node.next:
+                self.tail = new_node
+
     def remove(self, index):
         i=0
         curr = self.head
@@ -44,7 +58,7 @@ class LinkedList:
             curr.next = curr.next.next
             return True
         return False
-    
+
     def getValues(self):
         curr = self.head.next
         res = []
@@ -57,6 +71,7 @@ linkedList = LinkedList()
 linkedList.insertHead(1)
 linkedList.insertTail(2)
 linkedList.insertTail(3)
+linkedList.addAtIndex(3,4)
 
 print(linkedList.getValues())
 print(linkedList.get(1))
