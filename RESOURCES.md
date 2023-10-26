@@ -248,6 +248,7 @@
 - https://www.youtube.com/watch?v=GzW5mRET_X0 - Web browser using PyQt6 <br>
 - https://www.youtube.com/watch?v=MBbVq_FIYDA - super() <br>
 - https://realpython.com/linked-lists-python/ - linked lists <br>
+- https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/ - about case types <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

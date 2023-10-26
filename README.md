@@ -300,3 +300,4 @@
 | 296 | [Web Browser in PyQt6](296_WebBrowser_in_PyQt6) |
 | 297 | [super()](297_super) |
 | 298 | [Linked List](298_LinkedLists) |
+| 299 | [Case Types Conversion](298_LinkedLists) |
