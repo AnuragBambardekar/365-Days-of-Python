@@ -249,6 +249,9 @@
 - https://www.youtube.com/watch?v=MBbVq_FIYDA - super() <br>
 - https://realpython.com/linked-lists-python/ - linked lists <br>
 - https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/ - about case types <br>
+- https://reflex.dev/docs/getting-started/installation/ - reflex/pynecone documentation <br>
+- https://www.youtube.com/watch?v=ur4fCNMPp0I - tutorial on pynecone <br>
+- https://github.com/reflex-dev/reflex-examples/tree/main/clock - clock example on pynecone github repo <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
