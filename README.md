@@ -302,3 +302,4 @@
 | 298 | [Linked List](298_LinkedLists) |
 | 299 | [Case Types Conversion](299_CaseType_conversion) |
 | 300 | [PyneCone](300_Pynecone) |
+| 301 | [Minesweeper](301_Minesweeper) |
