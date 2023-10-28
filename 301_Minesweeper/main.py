@@ -5,6 +5,18 @@ import random
 import platform
 from datetime import datetime
 
+import pygame  # Import the pygame library
+
+# Initialize pygame
+pygame.init()
+
+# Load sound effects
+click_sound = pygame.mixer.Sound("sounds/click.mp3")  
+flag_sound = pygame.mixer.Sound("sounds/flag.mp3")    
+win_sound = pygame.mixer.Sound("sounds/win.mp3")      
+lose_sound = pygame.mixer.Sound("sounds/lose.mp3")    
+
+
 GRID_SIZE_X = 16
 GRID_SIZE_Y = 16
 
@@ -121,7 +133,12 @@ class MinesweeperGame:
 
         self.tk.update()
 
-        msg = "You Win! Play again?" if won else "You Lose! Play again?"
+        if won:
+            win_sound.play()  # Play the win sound
+            msg = "You Win! Play again?"
+        else:
+            msg = "You Lose! Play again?"
+        
         res = tkMessageBox.askyesno("Game Over", msg)
         if res:
             self.restart()
@@ -167,8 +184,11 @@ class MinesweeperGame:
         if self.start_time == None:
             self.start_time = datetime.now()
 
+        click_sound.play()
+
         if tile["is_mine"] == True:
             # end game
+            lose_sound.play()
             self.game_over(False)
             return
 
@@ -188,6 +208,8 @@ class MinesweeperGame:
     def on_right_click(self, tile):
         if self.start_time == None:
             self.start_time = datetime.now()
+
+        flag_sound.play()
 
         # if not clicked
         if tile["state"] == STATE_DEFAULT:
