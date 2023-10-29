@@ -253,6 +253,7 @@
 - https://www.youtube.com/watch?v=ur4fCNMPp0I - tutorial on pynecone <br>
 - https://github.com/reflex-dev/reflex-examples/tree/main/clock - clock example on pynecone github repo <br>
 - https://github.com/ripexz/python-tkinter-minesweeper/blob/master/minesweeper.py - minesweeper game <br>
+- https://shapely.readthedocs.io/en/stable/manual.html - shapely docs <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
