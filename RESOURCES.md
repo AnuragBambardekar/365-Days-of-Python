@@ -254,6 +254,7 @@
 - https://github.com/reflex-dev/reflex-examples/tree/main/clock - clock example on pynecone github repo <br>
 - https://github.com/ripexz/python-tkinter-minesweeper/blob/master/minesweeper.py - minesweeper game <br>
 - https://shapely.readthedocs.io/en/stable/manual.html - shapely docs <br>
+- https://www.youtube.com/watch?v=irUtnNtknf8 - PyArmor tutorial <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

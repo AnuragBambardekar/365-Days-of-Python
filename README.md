@@ -304,4 +304,5 @@
 | 300 | [PyneCone](300_Pynecone) |
 | 301 | [Minesweeper](301_Minesweeper) |
 | 302 | [Shapely](302_shapely) |
+| 303 | [PyArmor](302_Obfuscating_code) |
 
