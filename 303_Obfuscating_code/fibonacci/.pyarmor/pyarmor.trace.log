@@ -1,0 +1,2 @@
+trace.assert.call    fibo:10:'fib'
+trace.mix.str        fibo:1:'abcefgxyz'

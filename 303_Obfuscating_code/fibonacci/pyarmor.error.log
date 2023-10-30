@@ -1,0 +1,24 @@
+12932 MainProcess 2023-10-30 17:00:24,547
+Traceback (most recent call last):
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\site-packages\pyarmor\cli\__main__.py", line 712, in main
+    main_entry(sys.argv[1:])
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\site-packages\pyarmor\cli\__main__.py", line 700, in main_entry
+    return args.func(ctx, args)
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\site-packages\pyarmor\cli\__main__.py", line 230, in cmd_gen
+    builder.process(options)
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\site-packages\pyarmor\cli\generate.py", line 156, in process
+    self._obfuscate_scripts()
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\site-packages\pyarmor\cli\generate.py", line 119, in _obfuscate_scripts
+    code = Pytransform3.generate_obfuscated_script(self.ctx, r)
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\site-packages\pyarmor\cli\core\__init__.py", line 103, in generate_obfuscated_script
+    return m.generate_obfuscated_script(ctx, res)
+  File "<maker>", line 674, in generate_obfuscated_script
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\site-packages\pyarmor\cli\__init__.py", line 16, in process
+    return meth(self, res, *args, **kwargs)
+  File "<maker>", line 495, in process
+  File "<maker>", line 495, in <listcomp>
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\site-packages\pyarmor\cli\__init__.py", line 16, in process
+    return meth(self, res, *args, **kwargs)
+  File "<maker>", line 891, in process
+  File "<maker>", line 865, in mix_node
+RuntimeError: out of license
