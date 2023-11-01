@@ -255,6 +255,7 @@
 - https://github.com/ripexz/python-tkinter-minesweeper/blob/master/minesweeper.py - minesweeper game <br>
 - https://shapely.readthedocs.io/en/stable/manual.html - shapely docs <br>
 - https://www.youtube.com/watch?v=irUtnNtknf8 - PyArmor tutorial <br>
+- https://www.youtube.com/shorts/KW9EUCzAYMk - TTS <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
