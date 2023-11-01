@@ -256,6 +256,7 @@
 - https://shapely.readthedocs.io/en/stable/manual.html - shapely docs <br>
 - https://www.youtube.com/watch?v=irUtnNtknf8 - PyArmor tutorial <br>
 - https://www.youtube.com/shorts/KW9EUCzAYMk - TTS <br>
+- https://www.geeksforgeeks.org/python-text-to-speech-pyttsx-module/?ref=lbp - TTS using pyttsx <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
