@@ -258,6 +258,9 @@
 - https://www.youtube.com/shorts/KW9EUCzAYMk - TTS <br>
 - https://www.geeksforgeeks.org/python-text-to-speech-pyttsx-module/?ref=lbp - TTS using pyttsx <br>
 - https://www.youtube.com/watch?v=p-xJsc6LSx0 - matplotlib widgets <br>
+- https://www.youtube.com/watch?v=-mZP91Y3naY - Flet Tutorial <br>
+- https://www.youtube.com/watch?v=YWUM1Yx79mE - Login screen using Flet <br>
+- https://www.youtube.com/watch?v=ZNuHDvt3Oxc - Navigation using Flet <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
