@@ -305,5 +305,5 @@
 | 301 | [Minesweeper](301_Minesweeper) |
 | 302 | [Shapely](302_shapely) |
 | 303 | [PyArmor](302_Obfuscating_code) |
-| 304 | [Text to Speech](302_Obfuscating_code) |
-
+| 304 | [Text to Speech](304_TTS) |
+| 305 | [Matplotlib widgets](305_Matplotlib_widgets) |
