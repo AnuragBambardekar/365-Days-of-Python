@@ -12,3 +12,8 @@ PyScript brings you two Python interpreters:
 
 - Pyodide - the original standard CPython interpreter you know and love, but compiled to WebAssembly.
 - MicroPython - a lean and efficient reimplementation of Python3 that includes a comprehensive subset of the standard library, compiled to WebAssembly.
+
+To Run:
+```
+Right click on html file and run in live server.
+```
