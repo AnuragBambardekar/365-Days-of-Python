@@ -308,3 +308,4 @@
 | 304 | [Text to Speech](304_TTS) |
 | 305 | [Matplotlib widgets](305_Matplotlib_widgets) |
 | 306 | [Flet](306_Flet) |
+| 306 | [kwargs and args](307_args_and_kwargs) |
