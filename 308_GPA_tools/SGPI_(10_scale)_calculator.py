@@ -5,7 +5,7 @@ where, 𝐶𝑖 are the credits earned in each course, and 𝐺𝑖 are grade po
 
 import streamlit as st
 
-st.title("SGPI Calculator")
+st.title("SGPI Calculator (10.0 Scale)")
 
 # Create empty lists to store subject details
 subject_names = []
