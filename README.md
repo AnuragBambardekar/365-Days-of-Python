@@ -312,3 +312,4 @@
 | 308 | [GPA Tools](308_GPA_tools) |
 | 309 | [Quine](309_Quine) |
 | 310 | [unittest](310_unittest) |
+| 311 | [Smart Snipping Tool](311_Smart_SnippingTool) |
