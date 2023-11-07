@@ -264,6 +264,7 @@
 - https://www.youtube.com/watch?v=4jBJhCaNrWU - kwargs and args <br>
 - https://www.youtube.com/watch?v=Vh__2V2tXUM - more about kwargs and args <br>
 - https://www.geeksforgeeks.org/quine-in-python/ - about quines <br>
+- https://github.com/harupy/snipping-tool/blob/master/snipping_tool.py - Snipping tool Code <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
