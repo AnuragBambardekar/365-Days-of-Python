@@ -265,6 +265,8 @@
 - https://www.youtube.com/watch?v=Vh__2V2tXUM - more about kwargs and args <br>
 - https://www.geeksforgeeks.org/quine-in-python/ - about quines <br>
 - https://github.com/harupy/snipping-tool/blob/master/snipping_tool.py - Snipping tool Code <br>
+- https://openskynetwork.github.io/opensky-api/rest.html - OpenSky API <br>
+- https://www.geodose.com/2020/08/create-flight-tracking-apps-using-python-open-data.html - Flight Tracker tutorial <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

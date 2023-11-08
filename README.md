@@ -313,3 +313,4 @@
 | 309 | [Quine](309_Quine) |
 | 310 | [unittest](310_unittest) |
 | 311 | [Smart Snipping Tool](311_Smart_SnippingTool) |
+| 312 | [Flight Tracker](312_Flight_Tracker) |
