@@ -267,6 +267,7 @@
 - https://github.com/harupy/snipping-tool/blob/master/snipping_tool.py - Snipping tool Code <br>
 - https://openskynetwork.github.io/opensky-api/rest.html - OpenSky API <br>
 - https://www.geodose.com/2020/08/create-flight-tracking-apps-using-python-open-data.html - Flight Tracker tutorial <br>
+- https://github.com/shreydan/global-color-picker/blob/main/picker.py - global color picker <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
