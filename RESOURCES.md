@@ -269,6 +269,7 @@
 - https://www.geodose.com/2020/08/create-flight-tracking-apps-using-python-open-data.html - Flight Tracker tutorial <br>
 - https://github.com/shreydan/global-color-picker/blob/main/picker.py - global color picker <br>
 - https://www.youtube.com/watch?v=lclB2Y22nao - Pointers in python <br>
+- https://www.youtube.com/watch?v=lk1_h2_GLv8 - conways game of life <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
