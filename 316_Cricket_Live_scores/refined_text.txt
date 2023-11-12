@@ -1,0 +1,153 @@
+<div class="ds-border-b ds-border-line ds-w-full">
+    <div>
+        <div class="ds-px-4 ds-py-3">
+            <a href="/series/icc-cricket-world-cup-2023-24-1367856/india-vs-netherlands-45th-match-1384436/live-cricket-score" class="ds-no-tap-higlight">
+                <div class="ds-text-compact-xxs">
+                    <div class="ds-relative">
+                        <div class="ds-flex ds-justify-between ds-items-center">
+                            <div class="ds-truncate">
+                                <span class="ds-text-raw-red"><span class="ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5">Live</span></span>
+                                <span class="ds-flex ds-items-center">
+                                    <div class="ds-text-tight-xs ds-truncate ds-text-typo-mid3">
+                                        45th Match (D/N), Bengaluru, November 12, 2023,
+                                        <a href="/series/icc-cricket-world-cup-2023-24-1367856" title="World Cup 2023" class="ds-inline-flex ds-items-start ds-leading-none !ds-inline">
+                                            <span class="ds-text-tight-xs ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block !ds-inline">
+                                                ICC Cricket World Cup
+                                            </span>
+                                        </a>
+                                    </div>
+                                </span>
+                            </div>
+                            <div class="ds-leading-[0]"></div>
+                        </div>
+                        <div class="">
+                            <div class="ds-flex ds-flex-col ds-mt-2 ds-mb-2">
+                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="IND">
+                                        <img
+                                            width="20"
+                                            height="20"
+                                            alt="IND Flag"
+                                            class="ds-mr-2"
+                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313100/313128.logo.png"
+                                            style="width: 20px; height: 20px;"
+                                        />
+                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate !ds-text-typo-mid3">IND</p>
+                                    </div>
+                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5"></span><strong class="ds-text-typo-mid3">410/4</strong></div>
+                                </div>
+                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="NED">
+                                        <img
+                                            width="20"
+                                            height="20"
+                                            alt="NED Flag"
+                                            class="ds-mr-2"
+                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313100/313136.logo.png"
+                                            style="width: 20px; height: 20px;"
+                                        />
+                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">NED</p>
+                                        <i class="icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover" style="font-size: 12px;"></i>
+                                    </div>
+                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap fadeIn-enter fadeIn-enter-active">
+                                        <span class="ds-text-compact-xs ds-mr-0.5">(32.3/50 ov, T:411) </span><strong class="">145/5</strong>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="ds-text-tight-s ds-font-regular ds-truncate ds-text-typo" title="IND vs NED - 45th Match"><span>Netherlands need 266 runs from 17.3 overs.</span></p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div></div>
+    </div>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "Event",
+            "url": "https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-netherlands-45th-match-1384436/live-cricket-score",
+            "name": "India vs Netherlands 45th Match",
+            "description": "Netherlands need 277 runs from 21.1 overs.",
+            "eventStatus": "In Progress",
+            "location": { "@type": "Place", "name": "M Chinnaswamy Stadium, Bengaluru", "address": "Bengaluru" },
+            "startDate": "2023-11-12T03:30:00-05:00",
+            "endDate": "2023-11-11T19:00:00-05:00"
+        }
+    </script>
+</div>
+<div class="ds-border-b ds-border-line ds-w-full">
+    <div>
+        <div class="ds-px-4 ds-py-3">
+            <a href="/series/wbbl-2023-24-1387171/melbourne-renegades-women-vs-melbourne-stars-women-37th-match-1387208/full-scorecard" class="ds-no-tap-higlight">
+                <div class="ds-text-compact-xxs">
+                    <div class="">
+                        <div class="ds-flex ds-justify-between ds-items-center">
+                            <div class="ds-truncate">
+                                <span class=""><span class="ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5">RESULT</span></span>
+                                <span class="ds-flex ds-items-center">
+                                    <div class="ds-text-tight-xs ds-truncate ds-text-typo-mid3">
+                                        37th Match, Melbourne, November 12, 2023,
+                                        <a href="/series/wbbl-2023-24-1387171" title="WBBL 2023" class="ds-inline-flex ds-items-start ds-leading-none !ds-inline">
+                                            <span class="ds-text-tight-xs ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block !ds-inline">
+                                                Women's Big Bash League
+                                            </span>
+                                        </a>
+                                    </div>
+                                </span>
+                            </div>
+                            <div class="ds-leading-[0]"></div>
+                        </div>
+                        <div class="">
+                            <div class="ds-flex ds-flex-col ds-mt-2 ds-mb-2">
+                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="MS-W">
+                                        <img
+                                            width="20"
+                                            height="20"
+                                            alt="MS-W Flag"
+                                            class="ds-mr-2"
+                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313500/313504.logo.png"
+                                            style="width: 20px; height: 20px;"
+                                        />
+                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">MS-W</p>
+                                    </div>
+                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5"></span><strong class="">144/5</strong></div>
+                                </div>
+                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1">
+                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="MR-W">
+                                        <img
+                                            width="20"
+                                            height="20"
+                                            alt="MR-W Flag"
+                                            class="ds-mr-2"
+                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313500/313508.logo.png"
+                                            style="width: 20px; height: 20px;"
+                                        />
+                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">MR-W</p>
+                                    </div>
+                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5">(20 ov, T:145) </span><strong class="">140/6</strong></div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="ds-text-tight-s ds-font-regular ds-truncate ds-text-typo" title="Stars won by 4 runs"><span>Stars won by 4 runs</span></p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div></div>
+    </div>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "Event",
+            "url": "https://www.espncricinfo.com/series/wbbl-2023-24-1387171/melbourne-renegades-women-vs-melbourne-stars-women-37th-match-1387208/live-cricket-score",
+            "name": "Stars vs Renegades 37th Match",
+            "description": "Stars won by 4 runs",
+            "eventStatus": "Finished",
+            "location": { "@type": "Place", "name": "Junction Oval, Melbourne", "address": "Melbourne" },
+            "startDate": "2023-11-11T21:40:00-05:00",
+            "endDate": "2023-11-11T19:00:00-05:00"
+        }
+    </script>
+</div>

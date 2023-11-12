@@ -1,0 +1,469 @@
+<div class="ds-mb-4">
+    <div class="ds-w-full ds-bg-fill-content-prime ds-overflow-hidden ds-border ds-border-line">
+        <div class="ds-flex ds-px-4 ds-border-b ds-border-line ds-py-3">
+            <div class="ds-flex ds-flex-col ds-grow ds-justify-center">
+                <span class="ds-text-title-xs ds-font-bold ds-text-typo"><span class="ds-text-title-xs ds-font-bold">Live Cricket Matches</span></span>
+            </div>
+        </div>
+        <div class="ds-p-0">
+            <div class="ds-flex ds-flex-wrap">
+                <div class="ds-border-b ds-border-line ds-w-full">
+                    <div>
+                        <div class="ds-px-4 ds-py-3">
+                            <a href="/series/icc-cricket-world-cup-2023-24-1367856/india-vs-netherlands-45th-match-1384436/live-cricket-score" class="ds-no-tap-higlight">
+                                <div class="ds-text-compact-xxs">
+                                    <div class="ds-relative">
+                                        <div class="ds-flex ds-justify-between ds-items-center">
+                                            <div class="ds-truncate">
+                                                <span class="ds-text-raw-red"><span class="ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5">Live</span></span>
+                                                <span class="ds-flex ds-items-center">
+                                                    <div class="ds-text-tight-xs ds-truncate ds-text-typo-mid3">
+                                                        45th Match (D/N), Bengaluru, November 12, 2023,
+                                                        <a href="/series/icc-cricket-world-cup-2023-24-1367856" title="World Cup 2023" class="ds-inline-flex ds-items-start ds-leading-none !ds-inline">
+                                                            <span class="ds-text-tight-xs ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block !ds-inline">
+                                                                ICC Cricket World Cup
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </span>
+                                            </div>
+                                            <div class="ds-leading-[0]"></div>
+                                        </div>
+                                        <div class="">
+                                            <div class="ds-flex ds-flex-col ds-mt-2 ds-mb-2">
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="IND">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="IND Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313100/313128.logo.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate !ds-text-typo-mid3">IND</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5"></span><strong class="ds-text-typo-mid3">410/4</strong></div>
+                                                </div>
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="NED">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="NED Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313100/313136.logo.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">NED</p>
+                                                        <i class="icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover" style="font-size: 12px;"></i>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap fadeIn-enter fadeIn-enter-active">
+                                                        <span class="ds-text-compact-xs ds-mr-0.5">(32.3/50 ov, T:411) </span><strong class="">145/5</strong>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="ds-text-tight-s ds-font-regular ds-truncate ds-text-typo" title="IND vs NED - 45th Match"><span>Netherlands need 266 runs from 17.3 overs.</span></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div></div>
+                    </div>
+                    <script type="application/ld+json">
+                        {
+                            "@context": "https://schema.org/",
+                            "@type": "Event",
+                            "url": "https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-netherlands-45th-match-1384436/live-cricket-score",
+                            "name": "India vs Netherlands 45th Match",
+                            "description": "Netherlands need 277 runs from 21.1 overs.",
+                            "eventStatus": "In Progress",
+                            "location": { "@type": "Place", "name": "M Chinnaswamy Stadium, Bengaluru", "address": "Bengaluru" },
+                            "startDate": "2023-11-12T03:30:00-05:00",
+                            "endDate": "2023-11-11T19:00:00-05:00"
+                        }
+                    </script>
+                </div>
+                <div class="ds-border-b ds-border-line ds-w-full">
+                    <div>
+                        <div class="ds-px-4 ds-py-3">
+                            <a href="/series/wbbl-2023-24-1387171/melbourne-renegades-women-vs-melbourne-stars-women-37th-match-1387208/full-scorecard" class="ds-no-tap-higlight">
+                                <div class="ds-text-compact-xxs">
+                                    <div class="">
+                                        <div class="ds-flex ds-justify-between ds-items-center">
+                                            <div class="ds-truncate">
+                                                <span class=""><span class="ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5">RESULT</span></span>
+                                                <span class="ds-flex ds-items-center">
+                                                    <div class="ds-text-tight-xs ds-truncate ds-text-typo-mid3">
+                                                        37th Match, Melbourne, November 12, 2023,
+                                                        <a href="/series/wbbl-2023-24-1387171" title="WBBL 2023" class="ds-inline-flex ds-items-start ds-leading-none !ds-inline">
+                                                            <span class="ds-text-tight-xs ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block !ds-inline">
+                                                                Women's Big Bash League
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </span>
+                                            </div>
+                                            <div class="ds-leading-[0]"></div>
+                                        </div>
+                                        <div class="">
+                                            <div class="ds-flex ds-flex-col ds-mt-2 ds-mb-2">
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="MS-W">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="MS-W Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313500/313504.logo.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">MS-W</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5"></span><strong class="">144/5</strong></div>
+                                                </div>
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="MR-W">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="MR-W Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313500/313508.logo.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">MR-W</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5">(20 ov, T:145) </span><strong class="">140/6</strong></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="ds-text-tight-s ds-font-regular ds-truncate ds-text-typo" title="Stars won by 4 runs"><span>Stars won by 4 runs</span></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div></div>
+                    </div>
+                    <script type="application/ld+json">
+                        {
+                            "@context": "https://schema.org/",
+                            "@type": "Event",
+                            "url": "https://www.espncricinfo.com/series/wbbl-2023-24-1387171/melbourne-renegades-women-vs-melbourne-stars-women-37th-match-1387208/live-cricket-score",
+                            "name": "Stars vs Renegades 37th Match",
+                            "description": "Stars won by 4 runs",
+                            "eventStatus": "Finished",
+                            "location": { "@type": "Place", "name": "Junction Oval, Melbourne", "address": "Melbourne" },
+                            "startDate": "2023-11-11T21:40:00-05:00",
+                            "endDate": "2023-11-11T19:00:00-05:00"
+                        }
+                    </script>
+                </div>
+                <div class="ds-border-b ds-border-line ds-w-full">
+                    <div>
+                        <div class="ds-px-4 ds-py-3">
+                            <a href="/series/super50-cup-2023-24-1401765/trinidad-tobago-vs-leeward-islands-final-1401797/full-scorecard" class="ds-no-tap-higlight">
+                                <div class="ds-text-compact-xxs">
+                                    <div class="">
+                                        <div class="ds-flex ds-justify-between ds-items-center">
+                                            <div class="ds-truncate">
+                                                <span class=""><span class="ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5">RESULT</span></span>
+                                                <span class="ds-flex ds-items-center">
+                                                    <div class="ds-text-tight-xs ds-truncate ds-text-typo-mid3">
+                                                        Final (D/N), Tarouba, November 11, 2023,
+                                                        <a href="/series/super50-cup-2023-24-1401765" title="Super50" class="ds-inline-flex ds-items-start ds-leading-none !ds-inline">
+                                                            <span class="ds-text-tight-xs ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block !ds-inline">
+                                                                Super50 Cup
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </span>
+                                            </div>
+                                            <div class="ds-leading-[0]"></div>
+                                        </div>
+                                        <div class="">
+                                            <div class="ds-flex ds-flex-col ds-mt-2 ds-mb-2">
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="LWD">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="LWD Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/334100/334169.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">LWD</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5">(41.5/43 ov) </span><strong class="">135</strong></div>
+                                                </div>
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="T&amp;T">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="T&amp;T Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/334100/334173.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">T&amp;T</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5">(23.4/43 ov, T:138) </span><strong class="">141/3</strong></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="ds-text-tight-s ds-font-regular ds-truncate ds-text-typo" title="Trinidad &amp; T won by 7 wickets (with 116 balls remaining) (DLS method)">
+                                            <span>Trinidad &amp; T won by 7 wickets (with 116 balls remaining) (DLS method)</span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div></div>
+                    </div>
+                    <script type="application/ld+json">
+                        {
+                            "@context": "https://schema.org/",
+                            "@type": "Event",
+                            "url": "https://www.espncricinfo.com/series/super50-cup-2023-24-1401765/trinidad-tobago-vs-leeward-islands-final-1401797/live-cricket-score",
+                            "name": "Leeward Is vs Trinidad & T Final",
+                            "description": "Trinidad & T won by 7 wickets (with 116 balls remaining) (DLS method)",
+                            "eventStatus": "Finished",
+                            "location": { "@type": "Place", "name": "Brian Lara Stadium, Tarouba, Trinidad", "address": "Tarouba" },
+                            "startDate": "2023-11-11T12:00:00-05:00",
+                            "endDate": "2023-11-10T19:00:00-05:00"
+                        }
+                    </script>
+                </div>
+                <div class="ds-border-b ds-border-line ds-w-full">
+                    <div>
+                        <div class="ds-px-4 ds-py-3">
+                            <a href="/series/icc-cricket-world-cup-2023-24-1367856/england-vs-pakistan-44th-match-1384435/full-scorecard" class="ds-no-tap-higlight">
+                                <div class="ds-text-compact-xxs">
+                                    <div class="">
+                                        <div class="ds-flex ds-justify-between ds-items-center">
+                                            <div class="ds-truncate">
+                                                <span class=""><span class="ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5">RESULT</span></span>
+                                                <span class="ds-flex ds-items-center">
+                                                    <div class="ds-text-tight-xs ds-truncate ds-text-typo-mid3">
+                                                        44th Match (D/N), Eden Gardens, November 11, 2023,
+                                                        <a href="/series/icc-cricket-world-cup-2023-24-1367856" title="World Cup 2023" class="ds-inline-flex ds-items-start ds-leading-none !ds-inline">
+                                                            <span class="ds-text-tight-xs ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block !ds-inline">
+                                                                ICC Cricket World Cup
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </span>
+                                            </div>
+                                            <div class="ds-leading-[0]"></div>
+                                        </div>
+                                        <div class="">
+                                            <div class="ds-flex ds-flex-col ds-mt-2 ds-mb-2">
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="ENG">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="ENG Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313100/313114.logo.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">ENG</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5"></span><strong class="">337/9</strong></div>
+                                                </div>
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="PAK">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="PAK Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313100/313129.logo.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">PAK</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5">(43.3/50 ov, T:338) </span><strong class="">244</strong></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="ds-text-tight-s ds-font-regular ds-truncate ds-text-typo" title="England won by 93 runs"><span>England won by 93 runs</span></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div></div>
+                    </div>
+                    <script type="application/ld+json">
+                        {
+                            "@context": "https://schema.org/",
+                            "@type": "Event",
+                            "url": "https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/england-vs-pakistan-44th-match-1384435/live-cricket-score",
+                            "name": "England vs Pakistan 44th Match",
+                            "description": "England won by 93 runs",
+                            "eventStatus": "Finished",
+                            "location": { "@type": "Place", "name": "Eden Gardens, Kolkata", "address": "Kolkata" },
+                            "startDate": "2023-11-11T03:30:00-05:00",
+                            "endDate": "2023-11-10T19:00:00-05:00"
+                        }
+                    </script>
+                </div>
+                <div class="ds-border-b ds-border-line ds-w-full">
+                    <div>
+                        <div class="ds-px-4 ds-py-3">
+                            <a href="/series/icc-cricket-world-cup-2023-24-1367856/australia-vs-bangladesh-43rd-match-1384434/full-scorecard" class="ds-no-tap-higlight">
+                                <div class="ds-text-compact-xxs">
+                                    <div class="">
+                                        <div class="ds-flex ds-justify-between ds-items-center">
+                                            <div class="ds-truncate">
+                                                <span class=""><span class="ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5">RESULT</span></span>
+                                                <span class="ds-flex ds-items-center">
+                                                    <div class="ds-text-tight-xs ds-truncate ds-text-typo-mid3">
+                                                        43rd Match, Pune, November 11, 2023,
+                                                        <a href="/series/icc-cricket-world-cup-2023-24-1367856" title="World Cup 2023" class="ds-inline-flex ds-items-start ds-leading-none !ds-inline">
+                                                            <span class="ds-text-tight-xs ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block !ds-inline">
+                                                                ICC Cricket World Cup
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </span>
+                                            </div>
+                                            <div class="ds-leading-[0]"></div>
+                                        </div>
+                                        <div class="">
+                                            <div class="ds-flex ds-flex-col ds-mt-2 ds-mb-2">
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="BAN">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="BAN Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/341400/341456.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">BAN</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5"></span><strong class="">306/8</strong></div>
+                                                </div>
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="AUS">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="AUS Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/340400/340493.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">AUS</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5">(44.4/50 ov, T:307) </span><strong class="">307/2</strong></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="ds-text-tight-s ds-font-regular ds-truncate ds-text-typo" title="Australia won by 8 wickets (with 32 balls remaining)"><span>Australia won by 8 wickets (with 32 balls remaining)</span></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div></div>
+                    </div>
+                    <script type="application/ld+json">
+                        {
+                            "@context": "https://schema.org/",
+                            "@type": "Event",
+                            "url": "https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/australia-vs-bangladesh-43rd-match-1384434/live-cricket-score",
+                            "name": "Bangladesh vs Australia 43rd Match",
+                            "description": "Australia won by 8 wickets (with 32 balls remaining)",
+                            "eventStatus": "Finished",
+                            "location": { "@type": "Place", "name": "Maharashtra Cricket Association Stadium, Pune", "address": "Pune" },
+                            "startDate": "2023-11-11T00:00:00-05:00",
+                            "endDate": "2023-11-10T19:00:00-05:00"
+                        }
+                    </script>
+                </div>
+                <div class="ds-border-b ds-border-line ds-w-full">
+                    <div>
+                        <div class="ds-px-4 ds-py-3">
+                            <a href="/series/wbbl-2023-24-1387171/perth-scorchers-women-vs-sydney-thunder-women-36th-match-1387207/full-scorecard" class="ds-no-tap-higlight">
+                                <div class="ds-text-compact-xxs">
+                                    <div class="">
+                                        <div class="ds-flex ds-justify-between ds-items-center">
+                                            <div class="ds-truncate">
+                                                <span class=""><span class="ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5">RESULT</span></span>
+                                                <span class="ds-flex ds-items-center">
+                                                    <div class="ds-text-tight-xs ds-truncate ds-text-typo-mid3">
+                                                        36th Match, Melbourne, November 12, 2023,
+                                                        <a href="/series/wbbl-2023-24-1387171" title="WBBL 2023" class="ds-inline-flex ds-items-start ds-leading-none !ds-inline">
+                                                            <span class="ds-text-tight-xs ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block !ds-inline">
+                                                                Women's Big Bash League
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </span>
+                                            </div>
+                                            <div class="ds-leading-[0]"></div>
+                                        </div>
+                                        <div class="">
+                                            <div class="ds-flex ds-flex-col ds-mt-2 ds-mb-2">
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="PS-W">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="PS-W Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313500/313507.logo.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">PS-W</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5"></span><strong class="">159/4</strong></div>
+                                                </div>
+                                                <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1">
+                                                    <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="ST-W">
+                                                        <img
+                                                            width="20"
+                                                            height="20"
+                                                            alt="ST-W Flag"
+                                                            class="ds-mr-2"
+                                                            src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313500/313505.logo.png"
+                                                            style="width: 20px; height: 20px;"
+                                                        />
+                                                        <p class="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate">ST-W</p>
+                                                    </div>
+                                                    <div class="ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap"><span class="ds-text-compact-xs ds-mr-0.5">(20 ov, T:160) </span><strong class="">117/8</strong></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="ds-text-tight-s ds-font-regular ds-truncate ds-text-typo" title="Scorchers won by 42 runs"><span>Scorchers won by 42 runs</span></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div></div>
+                    </div>
+                    <script type="application/ld+json">
+                        {
+                            "@context": "https://schema.org/",
+                            "@type": "Event",
+                            "url": "https://www.espncricinfo.com/series/wbbl-2023-24-1387171/perth-scorchers-women-vs-sydney-thunder-women-36th-match-1387207/live-cricket-score",
+                            "name": "Scorchers vs Thunder 36th Match",
+                            "description": "Scorchers won by 42 runs",
+                            "eventStatus": "Finished",
+                            "location": { "@type": "Place", "name": "Junction Oval, Melbourne", "address": "Melbourne" },
+                            "startDate": "2023-11-11T18:10:00-05:00",
+                            "endDate": "2023-11-11T19:00:00-05:00"
+                        }
+                    </script>
+                    <aside></aside>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
