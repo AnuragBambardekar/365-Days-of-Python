@@ -319,3 +319,4 @@
 | 315 | [Game of Life](315_Game_of_Life) |
 | 316 | [Cricket Live Scores - Scraping](316_Cricket_Live_scores) |
 | 317 | [Working with rst files](317_rst_files) |
+| 318 | [Windows Registry](318_Windows_registry) |
