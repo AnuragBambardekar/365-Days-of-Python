@@ -273,6 +273,7 @@
 - https://www.youtube.com/watch?v=cRWg2SWuXtM - conways game of life tutorial <br>
 - https://www.espncricinfo.com/live-cricket-score - espncricinfo <br>
 - https://www.youtube.com/watch?v=yhOyf8bjX5k - Windows registry in python <br>
+- https://thepythoncode.com/article/make-a-network-usage-monitor-in-python#google_vignette - Network usage monitor <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
