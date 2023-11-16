@@ -274,6 +274,7 @@
 - https://www.espncricinfo.com/live-cricket-score - espncricinfo <br>
 - https://www.youtube.com/watch?v=yhOyf8bjX5k - Windows registry in python <br>
 - https://thepythoncode.com/article/make-a-network-usage-monitor-in-python#google_vignette - Network usage monitor <br>
+- https://www.youtube.com/playlist?list=PLjcN1EyupaQkz5Olxzwvo1OzDNaNLGWoJ - Flappy Bird <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
