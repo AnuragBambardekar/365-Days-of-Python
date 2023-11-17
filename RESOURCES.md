@@ -275,6 +275,7 @@
 - https://www.youtube.com/watch?v=yhOyf8bjX5k - Windows registry in python <br>
 - https://thepythoncode.com/article/make-a-network-usage-monitor-in-python#google_vignette - Network usage monitor <br>
 - https://www.youtube.com/playlist?list=PLjcN1EyupaQkz5Olxzwvo1OzDNaNLGWoJ - Flappy Bird <br>
+- https://realpython.com/python-heapq-module/ - Learning about heap and priority queues <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

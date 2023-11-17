@@ -322,3 +322,4 @@
 | 318 | [Windows Registry](318_Windows_registry) |
 | 319 | [Network Usage Monitor](319_NetworkUsageMonitor) |
 | 320 | [Flappy Bird](320_flappyBird) |
+| 321 | [Heap and Priority Queues](321_Heapq) |
