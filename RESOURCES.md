@@ -276,7 +276,8 @@
 - https://thepythoncode.com/article/make-a-network-usage-monitor-in-python#google_vignette - Network usage monitor <br>
 - https://www.youtube.com/playlist?list=PLjcN1EyupaQkz5Olxzwvo1OzDNaNLGWoJ - Flappy Bird <br>
 - https://realpython.com/python-heapq-module/ - Learning about heap and priority queues <br>
-
+- https://www.youtube.com/watch?v=-gJHybVgJAk - Record Video only <br>
+- https://stackoverflow.com/questions/14140495/how-to-capture-a-video-and-audio-in-python-from-a-camera-or-webcam - audio and video recording <br>
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter
