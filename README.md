@@ -325,3 +325,4 @@
 | 321 | [Heap and Priority Queues](321_Heapq) |
 | 322 | [Video Recorder](322_VideoRecorder) |
 | 323 | [PONG game](323_Pong_game) |
+| 324 | [uuid](324_UUID) |
