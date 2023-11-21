@@ -326,3 +326,4 @@
 | 322 | [Video Recorder](322_VideoRecorder) |
 | 323 | [PONG game](323_Pong_game) |
 | 324 | [uuid](324_UUID) |
+| 325 | [Data Driven Maps using Folium](325_WebMaps) |

@@ -280,6 +280,8 @@
 - https://stackoverflow.com/questions/14140495/how-to-capture-a-video-and-audio-in-python-from-a-camera-or-webcam - audio and video recording <br>
 - https://www.youtube.com/watch?v=HNCAi0sjAz8 - PONG game tutorial <br>
 - https://www.youtube.com/watch?v=2zsxlA0OPrY - uuid <br>
+- https://towardsdatascience.com/how-to-generate-interactive-maps-with-folium-b232778758c4 - Choropleth(data driven maps) <br>
+- https://www.youtube.com/watch?v=4RnU5qKTfYY - Folium tutorial <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
