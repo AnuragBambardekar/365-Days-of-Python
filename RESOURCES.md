@@ -282,7 +282,8 @@
 - https://www.youtube.com/watch?v=2zsxlA0OPrY - uuid <br>
 - https://towardsdatascience.com/how-to-generate-interactive-maps-with-folium-b232778758c4 - Choropleth(data driven maps) <br>
 - https://www.youtube.com/watch?v=4RnU5qKTfYY - Folium tutorial <br>
-
+- https://stackoverflow.com/questions/63001988/how-to-remove-background-of-images-in-python - remove background from images <br>
+- https://gisgeography.com/state-outlines-blank-maps-united-states/ - US states outline <br>
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter
