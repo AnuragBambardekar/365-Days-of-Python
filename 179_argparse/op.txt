@@ -1,0 +1,6 @@
+Namespace(greeting='hello', numbers=[10.0, 20.0, 30.0, 40.0], verbosity=2, file='op.txt', debug=True)
+[10.0, 20.0, 30.0, 40.0]
+hello
+100.0
+[10.0, 20.0, 30.0, 40.0]
+extra info
