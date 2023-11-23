@@ -284,6 +284,12 @@
 - https://www.youtube.com/watch?v=4RnU5qKTfYY - Folium tutorial <br>
 - https://stackoverflow.com/questions/63001988/how-to-remove-background-of-images-in-python - remove background from images <br>
 - https://gisgeography.com/state-outlines-blank-maps-united-states/ - US states outline <br>
+- https://www.youtube.com/watch?v=zbt3ov7eDaA - Geography Flashcards <br>
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter
+
+**VSCode Shortcuts:** <br>
+- Ctrl+Alt - multiline editing
+- Ctrl + D - same instances-replace
+- alt+shift+arrow down - copy paste

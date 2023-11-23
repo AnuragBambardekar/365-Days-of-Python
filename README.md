@@ -328,3 +328,4 @@
 | 324 | [uuid](324_UUID) |
 | 325 | [Data Driven Maps using Folium](325_WebMaps) |
 | 326 | [Remove Background from images](326_Background_Remover) |
+| 327 | [US States Flashcard game](327_Geography_Flashcards) |
