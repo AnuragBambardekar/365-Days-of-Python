@@ -285,6 +285,8 @@
 - https://stackoverflow.com/questions/63001988/how-to-remove-background-of-images-in-python - remove background from images <br>
 - https://gisgeography.com/state-outlines-blank-maps-united-states/ - US states outline <br>
 - https://www.youtube.com/watch?v=zbt3ov7eDaA - Geography Flashcards <br>
+- https://github.com/Pranav082001/Text-to-Handwriting/tree/master - Text to handwriting <br>
+
 
 **To select Python Interpreter version in VS Code:** <br>
 - Go to View > Command palette > Python: Select Interpreter
