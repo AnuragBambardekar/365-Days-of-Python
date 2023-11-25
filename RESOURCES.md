@@ -286,6 +286,7 @@
 - https://gisgeography.com/state-outlines-blank-maps-united-states/ - US states outline <br>
 - https://www.youtube.com/watch?v=zbt3ov7eDaA - Geography Flashcards <br>
 - https://github.com/Pranav082001/Text-to-Handwriting/tree/master - Text to handwriting <br>
+- https://realpython.com/python-data-classes/ - Dataclasses in Python Tutorial <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

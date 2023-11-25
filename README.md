@@ -330,3 +330,4 @@
 | 326 | [Remove Background from images](326_Background_Remover) |
 | 327 | [US States Flashcard game](327_Geography_Flashcards) |
 | 328 | [Text to handwriting](328_Text_to_Handwriting) |
+| 329 | [Dataclasses](329_Dataclass) |
