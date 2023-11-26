@@ -288,6 +288,7 @@
 - https://github.com/Pranav082001/Text-to-Handwriting/tree/master - Text to handwriting <br>
 - https://realpython.com/python-data-classes/ - Dataclasses in Python Tutorial <br>
 - https://www.youtube.com/watch?v=mVea6Mu15l8 - Dataclassses tutorial <br>
+- https://www.youtube.com/watch?v=i1wQOiljBvY - Bitwise operators and its applications <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
