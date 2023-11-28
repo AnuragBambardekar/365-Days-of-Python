@@ -289,6 +289,7 @@
 - https://realpython.com/python-data-classes/ - Dataclasses in Python Tutorial <br>
 - https://www.youtube.com/watch?v=mVea6Mu15l8 - Dataclassses tutorial <br>
 - https://www.youtube.com/watch?v=i1wQOiljBvY - Bitwise operators and its applications <br>
+- https://www.geeksforgeeks.org/automate-backup-with-python-script/?ref=lbp - backup script <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
