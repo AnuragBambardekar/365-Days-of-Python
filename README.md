@@ -335,3 +335,4 @@
 | 331 | [Edit Distance](331_Edit_Distance) |
 | 332 | [Automate File Backups](332_Automate_Backups) |
 | 333 | [Code Golfing](333_CodeGolfing) |
+| 334 | [Extract Text from any image](334_ExtractText) |
