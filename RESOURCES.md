@@ -293,6 +293,7 @@
 - https://www.geeksforgeeks.org/code-golfing-in-python/?ref=ml_lbp -code golfing <br>
 - https://www.youtube.com/watch?v=YK9a8E45X_Y - Image to Text <br>
 - https://www.youtube.com/watch?v=PY_N1XdFp4w - extract text from images <br>
+- https://realpython.com/python-scipy-fft/ - FFT using scipy <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
