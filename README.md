@@ -337,3 +337,4 @@
 | 333 | [Code Golfing](333_CodeGolfing) |
 | 334 | [Extract Text from any image](334_ExtractText) |
 | 335 | [Fourier Transforms](335_FourierTransforms) |
+| 336 | [Password Strength Checker](336_Password_strength) |
