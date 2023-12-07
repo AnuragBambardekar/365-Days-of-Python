@@ -297,6 +297,7 @@
 - https://www.youtube.com/watch?v=mrtsk9B9_Ho - speedup using httpx <br>
 - https://www.youtube.com/watch?v=xjjmkg9J7Gg - Mandelbrot set in python <br>
 - https://realpython.com/mandelbrot-set-python/ - Mandelbrot set & Julia set <br>
+- https://www.youtube.com/watch?v=AyrrZ4PCyws - Graph coloring algorithm <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
