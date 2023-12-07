@@ -298,6 +298,7 @@
 - https://www.youtube.com/watch?v=xjjmkg9J7Gg - Mandelbrot set in python <br>
 - https://realpython.com/mandelbrot-set-python/ - Mandelbrot set & Julia set <br>
 - https://www.youtube.com/watch?v=AyrrZ4PCyws - Graph coloring algorithm <br>
+- https://www.youtube.com/watch?v=mcL8LL4vumY - Multiple clipboards <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
