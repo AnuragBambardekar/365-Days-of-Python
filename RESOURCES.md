@@ -301,6 +301,7 @@
 - https://www.youtube.com/watch?v=mcL8LL4vumY - Multiple clipboards <br>
 - https://www.youtube.com/watch?v=XEb7_z5dG3c - Dijkstra's Algorithm <br>
 - https://www.geeksforgeeks.org/introduction-to-dijkstras-shortest-path-algorithm/?ref=lbp - Dijkstra's Algorithm g4g <br>
+- https://www.youtube.com/watch?v=6ZKxcMKX4Mk - advanced dicts with benedict <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
