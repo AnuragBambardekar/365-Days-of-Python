@@ -345,3 +345,4 @@
 | 341 | [Clipboards](341_Clipboard) |
 | 342 | [Dijkstra's Algorithm](342_Dijkstras_algorithm) |
 | 343 | [Benedict - Advanced Dictionaries](343_Benedict) |
+| 344 | [Tinkering with musicpy](344_musicpy) |
