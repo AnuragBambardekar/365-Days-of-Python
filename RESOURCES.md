@@ -303,6 +303,7 @@
 - https://www.geeksforgeeks.org/introduction-to-dijkstras-shortest-path-algorithm/?ref=lbp - Dijkstra's Algorithm g4g <br>
 - https://www.youtube.com/watch?v=6ZKxcMKX4Mk - advanced dicts with benedict <br>
 - https://pypi.org/project/musicpy/ - musicpy documentation <br>
+- https://www.youtube.com/watch?v=sXzezIK0d7c - shutil short tutorial <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
