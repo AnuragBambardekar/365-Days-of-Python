@@ -305,6 +305,7 @@
 - https://pypi.org/project/musicpy/ - musicpy documentation <br>
 - https://www.youtube.com/watch?v=sXzezIK0d7c - shutil short tutorial <br>
 - https://www.youtube.com/watch?v=2C1BOPAMGHc - Dynamic attribute handling <br>
+- https://www.youtube.com/watch?v=pYasYyjByKI - Simple Blockchain <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
