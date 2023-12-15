@@ -307,6 +307,7 @@
 - https://www.youtube.com/watch?v=2C1BOPAMGHc - Dynamic attribute handling <br>
 - https://www.youtube.com/watch?v=pYasYyjByKI - Simple Blockchain <br>
 - https://realpython.com/polars-python/ - Polars tutorial <br>
+- https://www.youtube.com/watch?v=dSCJ7DImGdA - Automatic OCR Receipt parsing <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>

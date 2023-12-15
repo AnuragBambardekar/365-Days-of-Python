@@ -350,3 +350,4 @@
 | 346 | [Dynamic Attribute Handling](346_DynamicAttributeHandling) |
 | 347 | [Blockchain](347_Blockchain) |
 | 348 | [Polars](348_Polars) |
+| 349 | [Receipt & invoice Parsing](349_Receipt_and_Invoice_Parsing) |
