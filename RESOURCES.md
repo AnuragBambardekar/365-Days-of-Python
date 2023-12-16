@@ -308,6 +308,7 @@
 - https://www.youtube.com/watch?v=pYasYyjByKI - Simple Blockchain <br>
 - https://realpython.com/polars-python/ - Polars tutorial <br>
 - https://www.youtube.com/watch?v=dSCJ7DImGdA - Automatic OCR Receipt parsing <br>
+- https://www.youtube.com/watch?v=twRidO-_vqQ - Sorting Algorithm Visualizer <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
