@@ -352,3 +352,4 @@
 | 348 | [Polars](348_Polars) |
 | 349 | [Receipt & invoice Parsing](349_Receipt_and_Invoice_Parsing) |
 | 350 | [Sorting Algorithm Visualizer](350_SortingAlgorithm_Visualizer) |
+| 351 | [Word Search Game Generator](351_WordSearch_game_generator) |

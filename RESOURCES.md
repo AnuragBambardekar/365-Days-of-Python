@@ -309,6 +309,7 @@
 - https://realpython.com/polars-python/ - Polars tutorial <br>
 - https://www.youtube.com/watch?v=dSCJ7DImGdA - Automatic OCR Receipt parsing <br>
 - https://www.youtube.com/watch?v=twRidO-_vqQ - Sorting Algorithm Visualizer <br>
+- https://scipython.com/blog/making-a-word-search-puzzle-in-python/ - Word Search puzzle generator <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
