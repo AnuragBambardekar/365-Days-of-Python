@@ -312,6 +312,8 @@
 - https://scipython.com/blog/making-a-word-search-puzzle-in-python/ - Word Search puzzle generator <br>
 - https://www.youtube.com/watch?v=PmIcyuPfbfk <br>
 - https://www.youtube.com/watch?v=ukCTOb1e1PQ <br>
+- https://scipython.com/blog/the-ulam-spiral/ <br>
+- https://github.com/SarwinR/ulam-spiral/blob/main/code/main.py <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
