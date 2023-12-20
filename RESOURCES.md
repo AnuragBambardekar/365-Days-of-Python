@@ -311,6 +311,7 @@
 - https://www.youtube.com/watch?v=twRidO-_vqQ - Sorting Algorithm Visualizer <br>
 - https://scipython.com/blog/making-a-word-search-puzzle-in-python/ - Word Search puzzle generator <br>
 - https://www.youtube.com/watch?v=PmIcyuPfbfk <br>
+- https://www.youtube.com/watch?v=ukCTOb1e1PQ <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
