@@ -310,10 +310,11 @@
 - https://www.youtube.com/watch?v=dSCJ7DImGdA - Automatic OCR Receipt parsing <br>
 - https://www.youtube.com/watch?v=twRidO-_vqQ - Sorting Algorithm Visualizer <br>
 - https://scipython.com/blog/making-a-word-search-puzzle-in-python/ - Word Search puzzle generator <br>
-- https://www.youtube.com/watch?v=PmIcyuPfbfk <br>
-- https://www.youtube.com/watch?v=ukCTOb1e1PQ <br>
-- https://scipython.com/blog/the-ulam-spiral/ <br>
-- https://github.com/SarwinR/ulam-spiral/blob/main/code/main.py <br>
+- https://www.youtube.com/watch?v=PmIcyuPfbfk - speeding up Python code using caching (storing cache as .pkl)<br>
+- https://www.youtube.com/watch?v=ukCTOb1e1PQ - function overloading in python <br>
+- https://scipython.com/blog/the-ulam-spiral/ - Ulam Spiral code<br>
+- https://github.com/SarwinR/ulam-spiral/blob/main/code/main.py - Ulam Spiral or Prime Spiral<br>
+- https://www.mattlayman.com/blog/2018/decipher-python-ast/ - Understanding AST <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
