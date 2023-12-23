@@ -358,3 +358,4 @@
 | 354 | [Ulam Spiral](354_UlamSpiral) |
 | 355 | [Abstract Syntax Tree](355_AST) |
 | 356 | [Word Seach Game Solver](356_WordSearch_game_solver) |
+| 357 | [OMR Scanner](357_OMR_scanner) |
