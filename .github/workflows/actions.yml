@@ -29,10 +29,9 @@ jobs:
           
       - name: commit files
         run: |
-          git config --local user.email "anurag.bambardekar@gmail.com"
-          git config --local user.name "AnuragBambardekar"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "Updated logs"
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
