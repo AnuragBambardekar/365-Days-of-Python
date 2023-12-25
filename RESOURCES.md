@@ -317,6 +317,8 @@
 - https://www.mattlayman.com/blog/2018/decipher-python-ast/ - Understanding AST <br>
 - https://pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/ - OMR Scanner tutorial <br>
 - https://www.youtube.com/watch?v=O1D82XmPz5A - Run R code in Python <br>
+- https://pythoncircle.com/post/387/python-script-6-wishing-merry-christmas-using-python-turtle/ - Christmas card using turtle <br>
+- https://techwithsidz.hashnode.dev/learn-how-to-wish-merry-christmas-using-python-turtle-program - Christmas card <br>
 
 
 
