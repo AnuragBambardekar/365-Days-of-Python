@@ -320,6 +320,7 @@
 - https://pythoncircle.com/post/387/python-script-6-wishing-merry-christmas-using-python-turtle/ - Christmas card using turtle <br>
 - https://www.codetoday.co.uk/christmas - Animated Christmas card <br>
 - https://realpython.com/python-wheels/ - Wheels tutorial <br>
+- https://victorzhou.com/blog/intro-to-neural-networks/ - Intro to Neural Networks <br>
 
 
 **To select Python Interpreter version in VS Code:** <br>
