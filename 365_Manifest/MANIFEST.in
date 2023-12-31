@@ -1,0 +1,24 @@
+# Include all text files in the root directory
+include *.txt
+
+# Include HTML files from the 'docs' directory and its subdirectories
+recursive-include docs *.html
+
+# Exclude log files
+exclude *.log
+
+# Include data files from the 'data' directory
+recursive-include data *
+
+# Include configuration files in the 'config' directory
+recursive-include config *.ini
+
+# Include all files from the 'images' directory
+recursive-include images *
+
+# Exclude test files and directories
+prune tests
+exclude tests/*
+
+# Include license file
+include LICENSE
